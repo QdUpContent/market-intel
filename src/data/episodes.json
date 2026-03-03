@@ -1,0 +1,266 @@
+[
+  {
+    "id": "ep17",
+    "num": 17,
+    "title": "Google Just Beat Claude & GPT-5 — At the Same Price",
+    "date": "2026-02-19",
+    "dateDisplay": "Feb 19, 2026",
+    "duration": "12:00",
+    "description": "Gemini 3.1 Pro doubles reasoning at zero extra cost. Canva now lives inside Claude & ChatGPT. Google Lyria 3 brings free custom music to Gemini.",
+    "tags": ["Gemini 3.1 Pro", "Canva AI", "Google Lyria 3"],
+    "isNew": true,
+    "stats": {
+      "downloads": 2840,
+      "uniqueListeners": 2210,
+      "completionRate": 79
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep16",
+    "num": 16,
+    "title": "AI Video Copyright Crisis + ChatGPT vs Claude Battle",
+    "date": "2026-02-18",
+    "dateDisplay": "Feb 18, 2026",
+    "duration": "11:00",
+    "description": "Disney sent a cease-and-desist to ByteDance. OpenAI and Anthropic took their rivalry to the Super Bowl.",
+    "tags": ["Disney vs ByteDance", "GPT-5.3 Codex", "Claude Opus 4.6"],
+    "isNew": false,
+    "stats": {
+      "downloads": 3450,
+      "uniqueListeners": 2890,
+      "completionRate": 82
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep15",
+    "num": 15,
+    "title": "Kling 3.0 Beats Sora 2: AI Video Just Changed",
+    "date": "2026-02-11",
+    "dateDisplay": "Feb 11, 2026",
+    "duration": "12:00",
+    "description": "Kling 3.0 is now the highest-rated AI video generator. ChatGPT launched ads. Seedance 2.0 might be the DeepSeek moment for AI video.",
+    "tags": ["Kling 3.0", "ChatGPT Ads", "Seedance 2.0"],
+    "isNew": false,
+    "stats": {
+      "downloads": 4120,
+      "uniqueListeners": 3560,
+      "completionRate": 80
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep14",
+    "num": 14,
+    "title": "OpenClaw AI Agent Warning + Apple Undercuts Adobe 85%",
+    "date": "2026-02-04",
+    "dateDisplay": "Feb 4, 2026",
+    "duration": "11:00",
+    "description": "AI crossed a line — it stopped being an assistant and became an agent. OpenClaw went viral with 116K GitHub stars.",
+    "tags": ["OpenClaw", "Apple Creator Studio", "PixVerse R1"],
+    "isNew": false,
+    "stats": {
+      "downloads": 3780,
+      "uniqueListeners": 3100,
+      "completionRate": 76
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep13",
+    "num": 13,
+    "title": "Claude Apps + ElevenLabs v3 + Runway Gen-4.5",
+    "date": "2026-01-28",
+    "dateDisplay": "Jan 28, 2026",
+    "duration": "10:00",
+    "description": "Anthropic Claude launched Slack integration. ElevenLabs released the most expressive voice model yet.",
+    "tags": ["Claude Apps", "ElevenLabs v3", "Runway Gen-4.5"],
+    "isNew": false,
+    "stats": {
+      "downloads": 3200,
+      "uniqueListeners": 2740,
+      "completionRate": 81
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep12",
+    "num": 12,
+    "title": "Google Veo 3.1 Vertical Video + ChatGPT Memory",
+    "date": "2026-01-21",
+    "dateDisplay": "Jan 21, 2026",
+    "duration": "13:00",
+    "description": "Google Veo 3.1 brings native 9:16 vertical AI video to YouTube Shorts. ChatGPT gets memory upgrades.",
+    "tags": ["Google Veo 3.1", "Synthesia", "ChatGPT Memory"],
+    "isNew": false,
+    "stats": {
+      "downloads": 2950,
+      "uniqueListeners": 2400,
+      "completionRate": 78
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep11",
+    "num": 11,
+    "title": "Reddit AI Ads vs Google/Meta",
+    "date": "2026-01-14",
+    "dateDisplay": "Jan 14, 2026",
+    "duration": "12:00",
+    "description": "Reddit's Max Campaigns bring transparent AI ad automation with 17% lower CPA.",
+    "tags": ["Reddit Ads", "Make.com", "AI Search"],
+    "isNew": false,
+    "stats": {
+      "downloads": 3600,
+      "uniqueListeners": 3050,
+      "completionRate": 83
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep10",
+    "num": 10,
+    "title": "Matthew McConaughey Invests in ElevenLabs",
+    "date": "2026-01-07",
+    "dateDisplay": "Jan 7, 2026",
+    "duration": "14:00",
+    "description": "AI image generation solved brand consistency for 3 cents per image. NVIDIA's Digital Human blueprints from CES 2026.",
+    "tags": ["ElevenLabs", "Kling AI", "NVIDIA CES"],
+    "isNew": false,
+    "stats": {
+      "downloads": 5200,
+      "uniqueListeners": 4380,
+      "completionRate": 85
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep9",
+    "num": 9,
+    "title": "Google Stole 18% of AI Market in One Week",
+    "date": "2025-12-31",
+    "dateDisplay": "Dec 31, 2025",
+    "duration": "13:00",
+    "description": "Google Gemini captured 18% of global AI traffic. ChatGPT is adding ads. DeepSeek offers frontier intelligence for 90% less.",
+    "tags": ["Google Gemini", "DeepSeek V3"],
+    "isNew": false,
+    "stats": {
+      "downloads": 6100,
+      "uniqueListeners": 5200,
+      "completionRate": 86
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep8",
+    "num": 8,
+    "title": "AI Voice Just Got Cheaper: OpenAI, Runway & Zapier",
+    "date": "2025-12-24",
+    "dateDisplay": "Dec 24, 2025",
+    "duration": "13:00",
+    "description": "OpenAI cut voice costs by 70%. Runway added native audio tools. Zapier introduced agent governance.",
+    "tags": ["OpenAI Voice", "Runway Audio"],
+    "isNew": false,
+    "stats": {
+      "downloads": 3400,
+      "uniqueListeners": 2850,
+      "completionRate": 77
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep7",
+    "num": 7,
+    "title": "GPT-5.2 vs Gemini 3: The AI War Heats Up",
+    "date": "2025-12-17",
+    "dateDisplay": "Dec 17, 2025",
+    "duration": "16:00",
+    "description": "Disney invested $1B in OpenAI. GPT-5.2 launched in code red response to Gemini 3.",
+    "tags": ["Disney + OpenAI", "GPT-5.2"],
+    "isNew": false,
+    "stats": {
+      "downloads": 7800,
+      "uniqueListeners": 6500,
+      "completionRate": 84
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  },
+  {
+    "id": "ep6",
+    "num": 6,
+    "title": "The AI Video War Just Started",
+    "date": "2025-12-10",
+    "dateDisplay": "Dec 10, 2025",
+    "duration": "15:00",
+    "description": "Runway Gen 4.5 claims #1 spot. OpenAI declares code red. Kling AI solves the audio problem.",
+    "tags": ["Runway Gen 4.5", "Kling AI 2.6"],
+    "isNew": false,
+    "stats": {
+      "downloads": 5600,
+      "uniqueListeners": 4700,
+      "completionRate": 80
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": ""
+    }
+  }
+]
