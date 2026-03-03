@@ -7,7 +7,11 @@ import { SectionHeader, Tag } from "../components/UI";
 export default function Episodes() {
   const { t } = useTheme();
   const [openEp, setOpenEp] = useState(null);
-  const [playing, setPlaying] = useState(null);
+
+  const handlePlay = (ep) => {
+    const url = ep.links?.spotify || SHOW.spotify;
+    window.open(url, "_blank", "noopener,noreferrer");
+  };
 
   return (
     <div style={{ padding: "28px clamp(16px, 4vw, 60px) 50px", maxWidth: 860 }}>
@@ -44,45 +48,31 @@ export default function Episodes() {
             <button
               onClick={(e) => {
                 e.stopPropagation();
-                setPlaying(playing === ep.id ? null : ep.id);
+                handlePlay(ep);
               }}
+              title="Listen on Spotify"
               style={{
                 width: 36,
                 height: 36,
                 borderRadius: "50%",
                 flexShrink: 0,
-                background:
-                  playing === ep.id
-                    ? `linear-gradient(135deg, ${t.orange}, ${t.orangeDark})`
-                    : `${t.orange}${t.tagBg}`,
-                border:
-                  playing === ep.id
-                    ? "none"
-                    : `1px solid ${t.orange}20`,
+                background: `${t.orange}${t.tagBg}`,
+                border: `1px solid ${t.orange}20`,
                 cursor: "pointer",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
-                boxShadow:
-                  playing === ep.id ? `0 0 16px ${t.orange}30` : "none",
                 transition: "all 0.25s",
               }}
             >
-              {playing === ep.id ? (
-                <svg width="10" height="10" viewBox="0 0 14 14" fill="#fff">
-                  <rect x="2" y="1" width="3.5" height="12" rx="1" />
-                  <rect x="8.5" y="1" width="3.5" height="12" rx="1" />
-                </svg>
-              ) : (
-                <svg
-                  width="10"
-                  height="10"
-                  viewBox="0 0 14 14"
-                  fill={t.orange}
-                >
-                  <path d="M3 1v12l10-6z" />
-                </svg>
-              )}
+              <svg
+                width="10"
+                height="10"
+                viewBox="0 0 14 14"
+                fill={t.orange}
+              >
+                <path d="M3 1v12l10-6z" />
+              </svg>
             </button>
             <div
               style={{

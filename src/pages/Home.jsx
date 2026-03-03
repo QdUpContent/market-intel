@@ -180,7 +180,11 @@ export default function Home() {
             gap: 14,
           }}
         >
-          <div
+          <a
+            href={EPISODES[0].links?.spotify || SHOW.spotify}
+            target="_blank"
+            rel="noopener noreferrer"
+            title="Listen on Spotify"
             style={{
               width: 44,
               height: 44,
@@ -197,7 +201,7 @@ export default function Home() {
             <svg width="13" height="13" viewBox="0 0 14 14" fill="#fff">
               <path d="M3 1v12l10-6z" />
             </svg>
-          </div>
+          </a>
           <div style={{ flex: 1, minWidth: 0 }}>
             <div
               style={{
