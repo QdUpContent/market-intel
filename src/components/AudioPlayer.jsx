@@ -11,18 +11,49 @@ export function usePlayer() {
 }
 
 export function PlayerProvider({ children }) {
+  const audioRef = useRef(null);
   const [currentEp, setCurrentEp] = useState(null);
   const [isPlaying, setIsPlaying] = useState(false);
 
+  // Play — called directly from click handlers (user gesture context)
   const play = useCallback((episode) => {
     if (!episode?.links?.audio) return;
-    setCurrentEp(episode);
-    setIsPlaying(true);
+    const audio = audioRef.current;
+    if (!audio) return;
+
+    // If switching episodes, load new src
+    if (!currentEp || currentEp.id !== episode.id) {
+      audio.src = episode.links.audio;
+      audio.load();
+    }
+
+    audio.play().then(() => {
+      setCurrentEp(episode);
+      setIsPlaying(true);
+    }).catch((err) => {
+      console.warn("Audio play failed:", err);
+      // Still show the player so user can tap play manually
+      setCurrentEp(episode);
+      setIsPlaying(false);
+    });
+  }, [currentEp]);
+
+  const pause = useCallback(() => {
+    if (audioRef.current) audioRef.current.pause();
+    setIsPlaying(false);
   }, []);
 
-  const pause = useCallback(() => setIsPlaying(false), []);
-  const resume = useCallback(() => setIsPlaying(true), []);
+  const resume = useCallback(() => {
+    if (audioRef.current) {
+      audioRef.current.play().then(() => setIsPlaying(true)).catch(() => {});
+    }
+  }, []);
+
   const stop = useCallback(() => {
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.src = "";
+    }
     setCurrentEp(null);
     setIsPlaying(false);
   }, []);
@@ -31,59 +62,64 @@ export function PlayerProvider({ children }) {
     <PlayerCtx.Provider
       value={{ currentEp, isPlaying, play, pause, resume, stop }}
     >
+      {/* Audio element always mounted — hidden */}
+      <audio ref={audioRef} preload="metadata" />
       {children}
-      {currentEp && <AudioPlayer />}
+      {currentEp && (
+        <AudioPlayerBar audioRef={audioRef} />
+      )}
     </PlayerCtx.Provider>
   );
 }
 
 // ─────────────────────────────────────────────
-// The actual player bar
+// The visible player bar
 // ─────────────────────────────────────────────
-function AudioPlayer() {
+function AudioPlayerBar({ audioRef }) {
   const { t } = useTheme();
   const { currentEp, isPlaying, pause, resume, stop } = usePlayer();
-  const audioRef = useRef(null);
   const progressRef = useRef(null);
   const [progress, setProgress] = useState(0);
   const [duration, setDuration] = useState(0);
   const [currentTime, setCurrentTime] = useState(0);
 
-  // Play/pause when state changes
   useEffect(() => {
-    if (!audioRef.current) return;
-    if (isPlaying) {
-      audioRef.current.play().catch(() => pause());
-    } else {
-      audioRef.current.pause();
-    }
-  }, [isPlaying, pause]);
+    const audio = audioRef.current;
+    if (!audio) return;
 
-  // Load new episode
-  useEffect(() => {
-    if (audioRef.current && currentEp?.links?.audio) {
-      audioRef.current.src = currentEp.links.audio;
-      audioRef.current.load();
-      if (isPlaying) {
-        audioRef.current.play().catch(() => pause());
-      }
-    }
-  }, [currentEp?.id]);
+    const onTimeUpdate = () => {
+      const ct = audio.currentTime;
+      const dur = audio.duration || 0;
+      setCurrentTime(ct);
+      setDuration(dur);
+      setProgress(dur > 0 ? (ct / dur) * 100 : 0);
+    };
 
-  const handleTimeUpdate = () => {
-    if (!audioRef.current) return;
-    const ct = audioRef.current.currentTime;
-    const dur = audioRef.current.duration || 0;
-    setCurrentTime(ct);
-    setDuration(dur);
-    setProgress(dur > 0 ? (ct / dur) * 100 : 0);
-  };
+    const onEnded = () => stop();
+    const onLoadedMetadata = () => {
+      setDuration(audio.duration || 0);
+    };
+
+    audio.addEventListener("timeupdate", onTimeUpdate);
+    audio.addEventListener("ended", onEnded);
+    audio.addEventListener("loadedmetadata", onLoadedMetadata);
+
+    // Pick up duration if already loaded
+    if (audio.duration) setDuration(audio.duration);
+
+    return () => {
+      audio.removeEventListener("timeupdate", onTimeUpdate);
+      audio.removeEventListener("ended", onEnded);
+      audio.removeEventListener("loadedmetadata", onLoadedMetadata);
+    };
+  }, [audioRef, stop]);
 
   const handleSeek = (e) => {
-    if (!progressRef.current || !audioRef.current) return;
+    const audio = audioRef.current;
+    if (!progressRef.current || !audio) return;
     const rect = progressRef.current.getBoundingClientRect();
     const pct = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
-    audioRef.current.currentTime = pct * (audioRef.current.duration || 0);
+    audio.currentTime = pct * (audio.duration || 0);
   };
 
   const fmt = (sec) => {
@@ -110,14 +146,6 @@ function AudioPlayer() {
         padding: "0 clamp(16px, 4vw, 60px)",
       }}
     >
-      <audio
-        ref={audioRef}
-        onTimeUpdate={handleTimeUpdate}
-        onLoadedMetadata={handleTimeUpdate}
-        onEnded={stop}
-        preload="metadata"
-      />
-
       {/* Progress bar — clickable */}
       <div
         ref={progressRef}
@@ -229,4 +257,4 @@ function AudioPlayer() {
   );
 }
 
-export default AudioPlayer;
+export default AudioPlayerBar;
