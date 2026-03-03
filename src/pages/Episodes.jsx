@@ -3,14 +3,24 @@ import { useTheme, FONT_MONO } from "../theme";
 import { SHOW } from "../data/show";
 import EPISODES from "../data/episodes.json";
 import { SectionHeader, Tag } from "../components/UI";
+import { usePlayer } from "../components/AudioPlayer";
 
 export default function Episodes() {
   const { t } = useTheme();
   const [openEp, setOpenEp] = useState(null);
+  const { currentEp, isPlaying, play, pause, resume } = usePlayer();
 
   const handlePlay = (ep) => {
-    const url = ep.links?.spotify || SHOW.spotify;
-    window.open(url, "_blank", "noopener,noreferrer");
+    if (ep.links?.audio) {
+      if (currentEp?.id === ep.id) {
+        isPlaying ? pause() : resume();
+      } else {
+        play(ep);
+      }
+    } else {
+      const url = ep.links?.spotify || SHOW.spotify;
+      window.open(url, "_blank", "noopener,noreferrer");
+    }
   };
 
   return (
@@ -50,29 +60,41 @@ export default function Episodes() {
                 e.stopPropagation();
                 handlePlay(ep);
               }}
-              title="Listen on Spotify"
+              title={ep.links?.audio ? (currentEp?.id === ep.id && isPlaying ? "Pause" : "Play") : "Listen on Spotify"}
               style={{
                 width: 36,
                 height: 36,
                 borderRadius: "50%",
                 flexShrink: 0,
-                background: `${t.orange}${t.tagBg}`,
-                border: `1px solid ${t.orange}20`,
+                background:
+                  currentEp?.id === ep.id && isPlaying
+                    ? `linear-gradient(135deg, ${t.orange}, ${t.orangeDark})`
+                    : `${t.orange}${t.tagBg}`,
+                border:
+                  currentEp?.id === ep.id && isPlaying
+                    ? "none"
+                    : `1px solid ${t.orange}20`,
                 cursor: "pointer",
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "center",
+                boxShadow:
+                  currentEp?.id === ep.id && isPlaying
+                    ? `0 0 16px ${t.orange}30`
+                    : "none",
                 transition: "all 0.25s",
               }}
             >
-              <svg
-                width="10"
-                height="10"
-                viewBox="0 0 14 14"
-                fill={t.orange}
-              >
-                <path d="M3 1v12l10-6z" />
-              </svg>
+              {currentEp?.id === ep.id && isPlaying ? (
+                <svg width="10" height="10" viewBox="0 0 14 14" fill="#fff">
+                  <rect x="2" y="1" width="3.5" height="12" rx="1" />
+                  <rect x="8.5" y="1" width="3.5" height="12" rx="1" />
+                </svg>
+              ) : (
+                <svg width="10" height="10" viewBox="0 0 14 14" fill={currentEp?.id === ep.id ? "#fff" : t.orange}>
+                  <path d="M3 1v12l10-6z" />
+                </svg>
+              )}
             </button>
             <div
               style={{

@@ -7,10 +7,25 @@ import PLATFORMS from "../data/platforms.json";
 import TOOLS from "../data/tools.json";
 import Logo from "../components/Logo";
 import { Card } from "../components/UI";
+import { usePlayer } from "../components/AudioPlayer";
 
 export default function Home() {
   const { t, mode } = useTheme();
   const navigate = useNavigate();
+  const { currentEp, isPlaying, play, pause, resume } = usePlayer();
+  const latestEp = EPISODES[0];
+
+  const handlePlayLatest = () => {
+    if (latestEp.links?.audio) {
+      if (currentEp?.id === latestEp.id) {
+        isPlaying ? pause() : resume();
+      } else {
+        play(latestEp);
+      }
+    } else {
+      window.open(latestEp.links?.spotify || SHOW.spotify, "_blank", "noopener,noreferrer");
+    }
+  };
 
   return (
     <>
@@ -180,11 +195,9 @@ export default function Home() {
             gap: 14,
           }}
         >
-          <a
-            href={EPISODES[0].links?.spotify || SHOW.spotify}
-            target="_blank"
-            rel="noopener noreferrer"
-            title="Listen on Spotify"
+          <button
+            onClick={handlePlayLatest}
+            title={latestEp.links?.audio ? "Play latest episode" : "Listen on Spotify"}
             style={{
               width: 44,
               height: 44,
@@ -196,12 +209,20 @@ export default function Home() {
               justifyContent: "center",
               boxShadow: `0 0 20px ${t.orange}30`,
               cursor: "pointer",
+              border: "none",
             }}
           >
-            <svg width="13" height="13" viewBox="0 0 14 14" fill="#fff">
-              <path d="M3 1v12l10-6z" />
-            </svg>
-          </a>
+            {currentEp?.id === latestEp.id && isPlaying ? (
+              <svg width="13" height="13" viewBox="0 0 14 14" fill="#fff">
+                <rect x="2" y="1" width="3.5" height="12" rx="1" />
+                <rect x="8.5" y="1" width="3.5" height="12" rx="1" />
+              </svg>
+            ) : (
+              <svg width="13" height="13" viewBox="0 0 14 14" fill="#fff">
+                <path d="M3 1v12l10-6z" />
+              </svg>
+            )}
+          </button>
           <div style={{ flex: 1, minWidth: 0 }}>
             <div
               style={{
