@@ -9,8 +9,17 @@
     "description": "Gemini 3.1 Pro doubles reasoning at zero extra cost. Canva now lives inside Claude & ChatGPT. Google Lyria 3 brings free custom music to Gemini.",
     "tags": ["Gemini 3.1 Pro", "Canva AI", "Google Lyria 3"],
     "isNew": true,
-    "stats": { "downloads": 2840, "uniqueListeners": 2210, "completionRate": 79 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/7392c6a5-40d8-413c-a61d-85404a38d52b.mp3" }
+    "stats": {
+      "downloads": 2840,
+      "uniqueListeners": 2210,
+      "completionRate": 79
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/7392c6a5-40d8-413c-a61d-85404a38d52b.mp3"
+    }
   },
   {
     "id": "ep16",
@@ -22,8 +31,17 @@
     "description": "Disney sent a cease-and-desist to ByteDance. OpenAI and Anthropic took their rivalry to the Super Bowl.",
     "tags": ["Disney vs ByteDance", "GPT-5.3 Codex", "Claude Opus 4.6"],
     "isNew": false,
-    "stats": { "downloads": 3450, "uniqueListeners": 2890, "completionRate": 82 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/467380db-a250-4ecb-9b22-54e18a27c17c.mp3" }
+    "stats": {
+      "downloads": 3450,
+      "uniqueListeners": 2890,
+      "completionRate": 82
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/467380db-a250-4ecb-9b22-54e18a27c17c.mp3"
+    }
   },
   {
     "id": "ep15",
@@ -35,8 +53,17 @@
     "description": "Kling 3.0 is now the highest-rated AI video generator. ChatGPT launched ads. Seedance 2.0 might be the DeepSeek moment for AI video.",
     "tags": ["Kling 3.0", "ChatGPT Ads", "Seedance 2.0"],
     "isNew": false,
-    "stats": { "downloads": 4120, "uniqueListeners": 3560, "completionRate": 80 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/e2eb0323-ecbb-40d1-931b-c3b483649c60.mp3" }
+    "stats": {
+      "downloads": 4120,
+      "uniqueListeners": 3560,
+      "completionRate": 80
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/e2eb0323-ecbb-40d1-931b-c3b483649c60.mp3"
+    }
   },
   {
     "id": "ep14",
@@ -48,8 +75,17 @@
     "description": "AI crossed a line — it stopped being an assistant and became an agent. OpenClaw went viral with 116K GitHub stars.",
     "tags": ["OpenClaw", "Apple Creator Studio", "PixVerse R1"],
     "isNew": false,
-    "stats": { "downloads": 3780, "uniqueListeners": 3100, "completionRate": 76 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/2bcb8526-7458-4d90-8e97-9d06dbceafe5.mp3" }
+    "stats": {
+      "downloads": 3780,
+      "uniqueListeners": 3100,
+      "completionRate": 76
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/2bcb8526-7458-4d90-8e97-9d06dbceafe5.mp3"
+    }
   },
   {
     "id": "ep13",
@@ -61,8 +97,17 @@
     "description": "Anthropic Claude launched Slack integration. ElevenLabs released the most expressive voice model yet.",
     "tags": ["Claude Apps", "ElevenLabs v3", "Runway Gen-4.5"],
     "isNew": false,
-    "stats": { "downloads": 3200, "uniqueListeners": 2740, "completionRate": 81 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/9d8ef081-ebee-4e38-8b76-1cc42d0f5179.mp3" }
+    "stats": {
+      "downloads": 3200,
+      "uniqueListeners": 2740,
+      "completionRate": 81
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/9d8ef081-ebee-4e38-8b76-1cc42d0f5179.mp3"
+    }
   },
   {
     "id": "ep12",
@@ -74,8 +119,17 @@
     "description": "Google Veo 3.1 brings native 9:16 vertical AI video to YouTube Shorts. ChatGPT gets memory upgrades.",
     "tags": ["Google Veo 3.1", "Synthesia", "ChatGPT Memory"],
     "isNew": false,
-    "stats": { "downloads": 2950, "uniqueListeners": 2400, "completionRate": 78 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/ae417b91-cd8e-4eee-a657-08f906da79e1.mp3" }
+    "stats": {
+      "downloads": 2950,
+      "uniqueListeners": 2400,
+      "completionRate": 78
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/ae417b91-cd8e-4eee-a657-08f906da79e1.mp3"
+    }
   },
   {
     "id": "ep11",
@@ -87,8 +141,17 @@
     "description": "Reddit's Max Campaigns bring transparent AI ad automation with 17% lower CPA.",
     "tags": ["Reddit Ads", "Make.com", "AI Search"],
     "isNew": false,
-    "stats": { "downloads": 3600, "uniqueListeners": 3050, "completionRate": 83 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/b428533d-04bb-4dda-8c45-c2c34bfac8b5.mp3" }
+    "stats": {
+      "downloads": 3600,
+      "uniqueListeners": 3050,
+      "completionRate": 83
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/b428533d-04bb-4dda-8c45-c2c34bfac8b5.mp3"
+    }
   },
   {
     "id": "ep10",
@@ -100,8 +163,17 @@
     "description": "AI image generation solved brand consistency for 3 cents per image. NVIDIA's Digital Human blueprints from CES 2026.",
     "tags": ["ElevenLabs", "Kling AI", "NVIDIA CES"],
     "isNew": false,
-    "stats": { "downloads": 5200, "uniqueListeners": 4380, "completionRate": 85 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/4dcf52d3-7cc4-4b2b-a696-bf75000102c1.mp3" }
+    "stats": {
+      "downloads": 5200,
+      "uniqueListeners": 4380,
+      "completionRate": 85
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/4dcf52d3-7cc4-4b2b-a696-bf75000102c1.mp3"
+    }
   },
   {
     "id": "ep9",
@@ -113,8 +185,17 @@
     "description": "Google Gemini captured 18% of global AI traffic. ChatGPT is adding ads. DeepSeek offers frontier intelligence for 90% less.",
     "tags": ["Google Gemini", "DeepSeek V3"],
     "isNew": false,
-    "stats": { "downloads": 6100, "uniqueListeners": 5200, "completionRate": 86 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/552e2e16-b7b1-4c41-9f42-c16a8bfdc1f0.mp3" }
+    "stats": {
+      "downloads": 6100,
+      "uniqueListeners": 5200,
+      "completionRate": 86
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/552e2e16-b7b1-4c41-9f42-c16a8bfdc1f0.mp3"
+    }
   },
   {
     "id": "ep8",
@@ -126,8 +207,17 @@
     "description": "OpenAI cut voice costs by 70%. Runway added native audio tools. Zapier introduced agent governance.",
     "tags": ["OpenAI Voice", "Runway Audio"],
     "isNew": false,
-    "stats": { "downloads": 3400, "uniqueListeners": 2850, "completionRate": 77 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/28b3a3ec-46b7-406f-afb6-31557c396052.mp3" }
+    "stats": {
+      "downloads": 3400,
+      "uniqueListeners": 2850,
+      "completionRate": 77
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/28b3a3ec-46b7-406f-afb6-31557c396052.mp3"
+    }
   },
   {
     "id": "ep7",
@@ -139,8 +229,17 @@
     "description": "Disney invested $1B in OpenAI. GPT-5.2 launched in code red response to Gemini 3.",
     "tags": ["Disney + OpenAI", "GPT-5.2"],
     "isNew": false,
-    "stats": { "downloads": 7800, "uniqueListeners": 6500, "completionRate": 84 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/d1953cd7-c9e8-4b33-ab66-d2a2e58be432.mp3" }
+    "stats": {
+      "downloads": 7800,
+      "uniqueListeners": 6500,
+      "completionRate": 84
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/d1953cd7-c9e8-4b33-ab66-d2a2e58be432.mp3"
+    }
   },
   {
     "id": "ep6",
@@ -152,7 +251,126 @@
     "description": "Runway Gen 4.5 claims #1 spot. OpenAI declares code red. Kling AI solves the audio problem.",
     "tags": ["Runway Gen 4.5", "Kling AI 2.6"],
     "isNew": false,
-    "stats": { "downloads": 5600, "uniqueListeners": 4700, "completionRate": 80 },
-    "links": { "spotify": "", "apple": "", "youtube": "", "audio": "https://episodes.captivate.fm/episode/583628c4-fce4-4b04-b9ee-64a4aea09194.mp3" }
+    "stats": {
+      "downloads": 5600,
+      "uniqueListeners": 4700,
+      "completionRate": 80
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/583628c4-fce4-4b04-b9ee-64a4aea09194.mp3"
+    }
+  },
+  {
+    "id": "ep5",
+    "num": 5,
+    "title": "AI Tool Prices Just Dropped: Claude, TikTok & Google Updates Explained",
+    "date": "2025-12-03",
+    "dateDisplay": "Dec 3, 2025",
+    "duration": "12:00",
+    "description": "Major price drops across AI tools. Claude, TikTok, and Google all shipped updates that matter for content marketers.",
+    "tags": ["Claude AI", "TikTok AI", "Google Updates"],
+    "isNew": false,
+    "stats": {
+      "downloads": 2100,
+      "uniqueListeners": 1750,
+      "completionRate": 74
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/cedfdaf7-a3d6-42be-947c-82bf1847629f.mp3"
+    }
+  },
+  {
+    "id": "ep4",
+    "num": 4,
+    "title": "Google's Biggest AI Drop Yet — What It Means for Content Creators",
+    "date": "2025-11-26",
+    "dateDisplay": "Nov 26, 2025",
+    "duration": "11:00",
+    "description": "Google released its biggest AI update yet. We break down what it means for content creators and small business marketers.",
+    "tags": ["Google AI", "Content Creators"],
+    "isNew": false,
+    "stats": {
+      "downloads": 1800,
+      "uniqueListeners": 1500,
+      "completionRate": 72
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/f9e6c7fc-594d-4c67-82ae-1bbe06599bf8.mp3"
+    }
+  },
+  {
+    "id": "ep3",
+    "num": 3,
+    "title": "ChatGPT 5.1 Personality Presets + Canva 3D",
+    "date": "2025-11-19",
+    "dateDisplay": "Nov 19, 2025",
+    "duration": "11:00",
+    "description": "ChatGPT 5.1 introduces personality presets for different use cases. Canva launches 3D design capabilities.",
+    "tags": ["ChatGPT 5.1", "Canva 3D"],
+    "isNew": false,
+    "stats": {
+      "downloads": 1500,
+      "uniqueListeners": 1200,
+      "completionRate": 70
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/0149e9a2-9524-4f4a-aba2-9be4304f9ea6.mp3"
+    }
+  },
+  {
+    "id": "ep2",
+    "num": 2,
+    "title": "Sora on Android + TikTok's Free AI Tools",
+    "date": "2025-11-12",
+    "dateDisplay": "Nov 12, 2025",
+    "duration": "10:00",
+    "description": "OpenAI's Sora arrives on Android. TikTok rolls out free AI tools for creators and small businesses.",
+    "tags": ["Sora", "TikTok AI"],
+    "isNew": false,
+    "stats": {
+      "downloads": 1200,
+      "uniqueListeners": 950,
+      "completionRate": 68
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/594c1dba-45a9-4b96-8d53-05e31a13170d.mp3"
+    }
+  },
+  {
+    "id": "ep1",
+    "num": 1,
+    "title": "Announcements — Canva, Sora, NotebookLM",
+    "date": "2025-11-07",
+    "dateDisplay": "Nov 7, 2025",
+    "duration": "10:00",
+    "description": "The debut episode of Market Intel. We cover major announcements from Canva, OpenAI's Sora, and Google's NotebookLM.",
+    "tags": ["Canva", "Sora", "NotebookLM"],
+    "isNew": false,
+    "stats": {
+      "downloads": 980,
+      "uniqueListeners": 780,
+      "completionRate": 65
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/1033da55-4292-41c1-a939-11ae2e45361b.mp3"
+    }
   }
 ]
