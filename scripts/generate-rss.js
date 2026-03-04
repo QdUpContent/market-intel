@@ -28,7 +28,7 @@ const SHOW = {
     "and SMB professionals. Hosted by Lonnie Rodriguez of Q'd Up Agency.",
   author: "Lonnie Rodriguez",
   ownerName: "Q'd Up Agency",
-  ownerEmail: "hello@qd-up.com", // Update with real contact
+  ownerEmail: "marketing@qd-up.com",
   language: "en",
   explicit: false,
   category: "Technology",
