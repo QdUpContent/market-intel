@@ -4,6 +4,7 @@ import { PlayerProvider } from "./components/AudioPlayer";
 import Layout from "./components/Layout";
 import Home from "./pages/Home";
 import Episodes from "./pages/Episodes";
+import EpisodePage from "./pages/EpisodePage";
 import Glossary from "./pages/Glossary";
 import Platforms from "./pages/Platforms";
 import Tools from "./pages/Tools";
@@ -17,6 +18,7 @@ export default function App() {
             <Route element={<Layout />}>
               <Route index element={<Home />} />
               <Route path="episodes" element={<Episodes />} />
+              <Route path="episodes/:episodeId" element={<EpisodePage />} />
               <Route path="glossary" element={<Glossary />} />
               <Route path="platforms" element={<Platforms />} />
               <Route path="tools" element={<Tools />} />

@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { useTheme, FONT_MONO } from "../theme";
+import { Link } from "react-router-dom";
+import { useTheme, FONT_BODY, FONT_MONO } from "../theme";
 import { SHOW } from "../data/show";
 import EPISODES from "../data/episodes.json";
 import { SectionHeader, Tag } from "../components/UI";
@@ -180,10 +181,28 @@ export default function Episodes() {
               >
                 {ep.description}
               </p>
-              <div style={{ display: "flex", flexWrap: "wrap", gap: 5 }}>
+              <div style={{ display: "flex", flexWrap: "wrap", gap: 5, alignItems: "center" }}>
                 {ep.tags.map((tag) => (
                   <Tag key={tag}>{tag}</Tag>
                 ))}
+                <Link
+                  to={`/episodes/${ep.id}`}
+                  style={{
+                    fontFamily: FONT_MONO,
+                    fontSize: 11,
+                    color: t.orange,
+                    textDecoration: "none",
+                    marginLeft: 6,
+                    padding: "3px 10px",
+                    borderRadius: 5,
+                    border: `1px solid ${t.orange}20`,
+                    background: `${t.orange}08`,
+                    fontWeight: 500,
+                    transition: "all 0.2s",
+                  }}
+                >
+                  Show Notes →
+                </Link>
               </div>
             </div>
           )}

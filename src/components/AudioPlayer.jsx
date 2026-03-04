@@ -58,9 +58,15 @@ export function PlayerProvider({ children }) {
     setIsPlaying(false);
   }, []);
 
+  const seekTo = useCallback((seconds) => {
+    const audio = audioRef.current;
+    if (!audio) return;
+    audio.currentTime = seconds;
+  }, []);
+
   return (
     <PlayerCtx.Provider
-      value={{ currentEp, isPlaying, play, pause, resume, stop }}
+      value={{ currentEp, isPlaying, play, pause, resume, stop, seekTo }}
     >
       {/* Audio element always mounted — hidden */}
       <audio ref={audioRef} preload="metadata" />

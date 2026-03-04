@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { useTheme, FONT_BODY, FONT_MONO } from "../theme";
 import { SHOW } from "../data/show";
 import EPISODES from "../data/episodes.json";
@@ -343,14 +343,17 @@ export default function Home() {
           </button>
         </div>
         {EPISODES.slice(0, 5).map((ep) => (
-          <div
+          <Link
             key={ep.id}
+            to={`/episodes/${ep.id}`}
             style={{
               padding: "10px 0",
               borderBottom: `1px solid ${t.border}33`,
               display: "flex",
               alignItems: "center",
               gap: 10,
+              textDecoration: "none",
+              color: "inherit",
             }}
           >
             <span
@@ -386,7 +389,7 @@ export default function Home() {
             >
               {ep.dateDisplay.slice(0, -6)}
             </span>
-          </div>
+          </Link>
         ))}
       </div>
 
