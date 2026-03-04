@@ -8,6 +8,13 @@
   status = 200
 
 [[headers]]
+  for = "/feed.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=utf-8"
+    Cache-Control = "public, max-age=300"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
   for = "/data/*"
   [headers.values]
     Cache-Control = "public, max-age=300"

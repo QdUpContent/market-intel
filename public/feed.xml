@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.apple.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>AI Market Intel</title>
+    <description><![CDATA[Your weekly intelligence briefing on AI and content creation. No hype. No jargon. Just curated insights for busy content marketers and SMB professionals. Hosted by Lonnie Rodriguez of Q'd Up Agency.]]></description>
+    <link>https://market-intel.netlify.app</link>
+    <language>en</language>
+    <copyright>© 2026 Q&apos;d Up Agency</copyright>
+    <lastBuildDate>Wed, 04 Mar 2026 05:37:09 GMT</lastBuildDate>
+    <atom:link href="https://market-intel.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- iTunes / Apple Podcasts -->
+    <itunes:title>AI Market Intel</itunes:title>
+    <itunes:subtitle>Curated, Not Overwhelming</itunes:subtitle>
+    <itunes:author>Lonnie Rodriguez</itunes:author>
+    <itunes:summary><![CDATA[Your weekly intelligence briefing on AI and content creation. No hype. No jargon. Just curated insights for busy content marketers and SMB professionals. Hosted by Lonnie Rodriguez of Q'd Up Agency.]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name>Q&apos;d Up Agency</itunes:name>
+      <itunes:email>hello@qd-up.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    <!-- Podcast Index namespace -->
+    <podcast:locked>no</podcast:locked>
+
+    <!-- Episodes -->
+    <item>
+      <title>Google Just Beat Claude &amp; GPT-5 — At the Same Price</title>
+      <description><![CDATA[<p>Gemini 3.1 Pro doubles reasoning at zero extra cost. Canva now lives inside Claude &amp; ChatGPT. Google Lyria 3 brings free custom music to Gemini.</p><p><strong>Topics:</strong> Gemini 3.1 Pro, Canva AI, Google Lyria 3</p><p><a href="https://market-intel.netlify.app/episodes/ep17">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Thu, 19 Feb 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/7392c6a5-40d8-413c-a61d-85404a38d52b.mp3" length="11520000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep17</guid>
+      <link>https://market-intel.netlify.app/episodes/ep17</link>
+      <itunes:title>Google Just Beat Claude &amp; GPT-5 — At the Same Price</itunes:title>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:summary>Gemini 3.1 Pro doubles reasoning at zero extra cost. Canva now lives inside Claude &amp; ChatGPT. Google Lyria 3 brings free custom music to Gemini.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>AI Video Copyright Crisis + ChatGPT vs Claude Battle</title>
+      <description><![CDATA[<p>Disney sent a cease-and-desist to ByteDance. OpenAI and Anthropic took their rivalry to the Super Bowl.</p><p><strong>Topics:</strong> Disney vs ByteDance, GPT-5.3 Codex, Claude Opus 4.6</p><p><a href="https://market-intel.netlify.app/episodes/ep16">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 18 Feb 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/467380db-a250-4ecb-9b22-54e18a27c17c.mp3" length="10560000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep16</guid>
+      <link>https://market-intel.netlify.app/episodes/ep16</link>
+      <itunes:title>AI Video Copyright Crisis + ChatGPT vs Claude Battle</itunes:title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:summary>Disney sent a cease-and-desist to ByteDance. OpenAI and Anthropic took their rivalry to the Super Bowl.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Kling 3.0 Beats Sora 2: AI Video Just Changed</title>
+      <description><![CDATA[<p>Kling 3.0 is now the highest-rated AI video generator. ChatGPT launched ads. Seedance 2.0 might be the DeepSeek moment for AI video.</p><p><strong>Topics:</strong> Kling 3.0, ChatGPT Ads, Seedance 2.0</p><p><a href="https://market-intel.netlify.app/episodes/ep15">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 11 Feb 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/e2eb0323-ecbb-40d1-931b-c3b483649c60.mp3" length="11520000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep15</guid>
+      <link>https://market-intel.netlify.app/episodes/ep15</link>
+      <itunes:title>Kling 3.0 Beats Sora 2: AI Video Just Changed</itunes:title>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:summary>Kling 3.0 is now the highest-rated AI video generator. ChatGPT launched ads. Seedance 2.0 might be the DeepSeek moment for AI video.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>OpenClaw AI Agent Warning + Apple Undercuts Adobe 85%</title>
+      <description><![CDATA[<p>AI crossed a line — it stopped being an assistant and became an agent. OpenClaw went viral with 116K GitHub stars.</p><p><strong>Topics:</strong> OpenClaw, Apple Creator Studio, PixVerse R1</p><p><a href="https://market-intel.netlify.app/episodes/ep14">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 04 Feb 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/2bcb8526-7458-4d90-8e97-9d06dbceafe5.mp3" length="10560000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep14</guid>
+      <link>https://market-intel.netlify.app/episodes/ep14</link>
+      <itunes:title>OpenClaw AI Agent Warning + Apple Undercuts Adobe 85%</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:summary>AI crossed a line — it stopped being an assistant and became an agent. OpenClaw went viral with 116K GitHub stars.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Claude Apps + ElevenLabs v3 + Runway Gen-4.5</title>
+      <description><![CDATA[<p>Anthropic Claude launched Slack integration. ElevenLabs released the most expressive voice model yet.</p><p><strong>Topics:</strong> Claude Apps, ElevenLabs v3, Runway Gen-4.5</p><p><a href="https://market-intel.netlify.app/episodes/ep13">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 28 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/9d8ef081-ebee-4e38-8b76-1cc42d0f5179.mp3" length="9600000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep13</guid>
+      <link>https://market-intel.netlify.app/episodes/ep13</link>
+      <itunes:title>Claude Apps + ElevenLabs v3 + Runway Gen-4.5</itunes:title>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>Anthropic Claude launched Slack integration. ElevenLabs released the most expressive voice model yet.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Google Veo 3.1 Vertical Video + ChatGPT Memory</title>
+      <description><![CDATA[<p>Google Veo 3.1 brings native 9:16 vertical AI video to YouTube Shorts. ChatGPT gets memory upgrades.</p><p><strong>Topics:</strong> Google Veo 3.1, Synthesia, ChatGPT Memory</p><p><a href="https://market-intel.netlify.app/episodes/ep12">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 21 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/ae417b91-cd8e-4eee-a657-08f906da79e1.mp3" length="12480000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep12</guid>
+      <link>https://market-intel.netlify.app/episodes/ep12</link>
+      <itunes:title>Google Veo 3.1 Vertical Video + ChatGPT Memory</itunes:title>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>13:00</itunes:duration>
+      <itunes:summary>Google Veo 3.1 brings native 9:16 vertical AI video to YouTube Shorts. ChatGPT gets memory upgrades.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Reddit AI Ads vs Google/Meta</title>
+      <description><![CDATA[<p>Reddit&apos;s Max Campaigns bring transparent AI ad automation with 17% lower CPA.</p><p><strong>Topics:</strong> Reddit Ads, Make.com, AI Search</p><p><a href="https://market-intel.netlify.app/episodes/ep11">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 14 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/b428533d-04bb-4dda-8c45-c2c34bfac8b5.mp3" length="11520000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep11</guid>
+      <link>https://market-intel.netlify.app/episodes/ep11</link>
+      <itunes:title>Reddit AI Ads vs Google/Meta</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:summary>Reddit&apos;s Max Campaigns bring transparent AI ad automation with 17% lower CPA.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Matthew McConaughey Invests in ElevenLabs</title>
+      <description><![CDATA[<p>AI image generation solved brand consistency for 3 cents per image. NVIDIA&apos;s Digital Human blueprints from CES 2026.</p><p><strong>Topics:</strong> ElevenLabs, Kling AI, NVIDIA CES</p><p><a href="https://market-intel.netlify.app/episodes/ep10">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 07 Jan 2026 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/4dcf52d3-7cc4-4b2b-a696-bf75000102c1.mp3" length="13440000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep10</guid>
+      <link>https://market-intel.netlify.app/episodes/ep10</link>
+      <itunes:title>Matthew McConaughey Invests in ElevenLabs</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>14:00</itunes:duration>
+      <itunes:summary>AI image generation solved brand consistency for 3 cents per image. NVIDIA&apos;s Digital Human blueprints from CES 2026.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Google Stole 18% of AI Market in One Week</title>
+      <description><![CDATA[<p>Google Gemini captured 18% of global AI traffic. ChatGPT is adding ads. DeepSeek offers frontier intelligence for 90% less.</p><p><strong>Topics:</strong> Google Gemini, DeepSeek V3</p><p><a href="https://market-intel.netlify.app/episodes/ep9">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 31 Dec 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/552e2e16-b7b1-4c41-9f42-c16a8bfdc1f0.mp3" length="12480000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep9</guid>
+      <link>https://market-intel.netlify.app/episodes/ep9</link>
+      <itunes:title>Google Stole 18% of AI Market in One Week</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>13:00</itunes:duration>
+      <itunes:summary>Google Gemini captured 18% of global AI traffic. ChatGPT is adding ads. DeepSeek offers frontier intelligence for 90% less.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>AI Voice Just Got Cheaper: OpenAI, Runway &amp; Zapier</title>
+      <description><![CDATA[<p>OpenAI cut voice costs by 70%. Runway added native audio tools. Zapier introduced agent governance.</p><p><strong>Topics:</strong> OpenAI Voice, Runway Audio</p><p><a href="https://market-intel.netlify.app/episodes/ep8">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 24 Dec 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/28b3a3ec-46b7-406f-afb6-31557c396052.mp3" length="12480000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep8</guid>
+      <link>https://market-intel.netlify.app/episodes/ep8</link>
+      <itunes:title>AI Voice Just Got Cheaper: OpenAI, Runway &amp; Zapier</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>13:00</itunes:duration>
+      <itunes:summary>OpenAI cut voice costs by 70%. Runway added native audio tools. Zapier introduced agent governance.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>GPT-5.2 vs Gemini 3: The AI War Heats Up</title>
+      <description><![CDATA[<p>Disney invested $1B in OpenAI. GPT-5.2 launched in code red response to Gemini 3.</p><p><strong>Topics:</strong> Disney + OpenAI, GPT-5.2</p><p><a href="https://market-intel.netlify.app/episodes/ep7">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 17 Dec 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/d1953cd7-c9e8-4b33-ab66-d2a2e58be432.mp3" length="15360000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep7</guid>
+      <link>https://market-intel.netlify.app/episodes/ep7</link>
+      <itunes:title>GPT-5.2 vs Gemini 3: The AI War Heats Up</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:summary>Disney invested $1B in OpenAI. GPT-5.2 launched in code red response to Gemini 3.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>The AI Video War Just Started</title>
+      <description><![CDATA[<p>Runway Gen 4.5 claims #1 spot. OpenAI declares code red. Kling AI solves the audio problem.</p><p><strong>Topics:</strong> Runway Gen 4.5, Kling AI 2.6</p><p><a href="https://market-intel.netlify.app/episodes/ep6">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 10 Dec 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/583628c4-fce4-4b04-b9ee-64a4aea09194.mp3" length="14400000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep6</guid>
+      <link>https://market-intel.netlify.app/episodes/ep6</link>
+      <itunes:title>The AI Video War Just Started</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>15:00</itunes:duration>
+      <itunes:summary>Runway Gen 4.5 claims #1 spot. OpenAI declares code red. Kling AI solves the audio problem.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>AI Tool Prices Just Dropped: Claude, TikTok &amp; Google Updates Explained</title>
+      <description><![CDATA[<p>Major price drops across AI tools. Claude, TikTok, and Google all shipped updates that matter for content marketers.</p><p><strong>Topics:</strong> Claude AI, TikTok AI, Google Updates</p><p><a href="https://market-intel.netlify.app/episodes/ep5">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 03 Dec 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/cedfdaf7-a3d6-42be-947c-82bf1847629f.mp3" length="11520000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep5</guid>
+      <link>https://market-intel.netlify.app/episodes/ep5</link>
+      <itunes:title>AI Tool Prices Just Dropped: Claude, TikTok &amp; Google Updates Explained</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>12:00</itunes:duration>
+      <itunes:summary>Major price drops across AI tools. Claude, TikTok, and Google all shipped updates that matter for content marketers.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Google&apos;s Biggest AI Drop Yet — What It Means for Content Creators</title>
+      <description><![CDATA[<p>Google released its biggest AI update yet. We break down what it means for content creators and small business marketers.</p><p><strong>Topics:</strong> Google AI, Content Creators</p><p><a href="https://market-intel.netlify.app/episodes/ep4">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 26 Nov 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/f9e6c7fc-594d-4c67-82ae-1bbe06599bf8.mp3" length="10560000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep4</guid>
+      <link>https://market-intel.netlify.app/episodes/ep4</link>
+      <itunes:title>Google&apos;s Biggest AI Drop Yet — What It Means for Content Creators</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:summary>Google released its biggest AI update yet. We break down what it means for content creators and small business marketers.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>ChatGPT 5.1 Personality Presets + Canva 3D</title>
+      <description><![CDATA[<p>ChatGPT 5.1 introduces personality presets for different use cases. Canva launches 3D design capabilities.</p><p><strong>Topics:</strong> ChatGPT 5.1, Canva 3D</p><p><a href="https://market-intel.netlify.app/episodes/ep3">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 19 Nov 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/0149e9a2-9524-4f4a-aba2-9be4304f9ea6.mp3" length="10560000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep3</guid>
+      <link>https://market-intel.netlify.app/episodes/ep3</link>
+      <itunes:title>ChatGPT 5.1 Personality Presets + Canva 3D</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>11:00</itunes:duration>
+      <itunes:summary>ChatGPT 5.1 introduces personality presets for different use cases. Canva launches 3D design capabilities.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Sora on Android + TikTok&apos;s Free AI Tools</title>
+      <description><![CDATA[<p>OpenAI&apos;s Sora arrives on Android. TikTok rolls out free AI tools for creators and small businesses.</p><p><strong>Topics:</strong> Sora, TikTok AI</p><p><a href="https://market-intel.netlify.app/episodes/ep2">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Wed, 12 Nov 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/594c1dba-45a9-4b96-8d53-05e31a13170d.mp3" length="9600000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep2</guid>
+      <link>https://market-intel.netlify.app/episodes/ep2</link>
+      <itunes:title>Sora on Android + TikTok&apos;s Free AI Tools</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>OpenAI&apos;s Sora arrives on Android. TikTok rolls out free AI tools for creators and small businesses.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+    <item>
+      <title>Announcements — Canva, Sora, NotebookLM</title>
+      <description><![CDATA[<p>The debut episode of Market Intel. We cover major announcements from Canva, OpenAI&apos;s Sora, and Google&apos;s NotebookLM.</p><p><strong>Topics:</strong> Canva, Sora, NotebookLM</p><p><a href="https://market-intel.netlify.app/episodes/ep1">Full show notes, timestamps & sources →</a></p>]]></description>
+      <pubDate>Fri, 07 Nov 2025 15:00:00 GMT</pubDate>
+      <enclosure url="https://episodes.captivate.fm/episode/1033da55-4292-41c1-a939-11ae2e45361b.mp3" length="9600000" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep1</guid>
+      <link>https://market-intel.netlify.app/episodes/ep1</link>
+      <itunes:title>Announcements — Canva, Sora, NotebookLM</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>10:00</itunes:duration>
+      <itunes:summary>The debut episode of Market Intel. We cover major announcements from Canva, OpenAI&apos;s Sora, and Google&apos;s NotebookLM.</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://market-intel.netlify.app/milogo.png"/>
+    </item>
+  </channel>
+</rss>
