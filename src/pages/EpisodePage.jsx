@@ -680,65 +680,6 @@ export default function EpisodePage() {
         </section>
       )}
 
-      {/* ─── EPISODE STATS ─── */}
-      {ep.stats && (
-        <section style={{ marginBottom: 32 }}>
-          <div
-            style={{
-              display: "grid",
-              gridTemplateColumns: "repeat(auto-fit, minmax(120px, 1fr))",
-              gap: 8,
-            }}
-          >
-            {[
-              {
-                label: "Downloads",
-                value: ep.stats.downloads?.toLocaleString() || "—",
-                color: t.orange,
-              },
-              {
-                label: "Listeners",
-                value:
-                  ep.stats.uniqueListeners?.toLocaleString() || "—",
-                color: t.blueDark,
-              },
-              {
-                label: "Completion",
-                value: ep.stats.completionRate
-                  ? `${ep.stats.completionRate}%`
-                  : "—",
-                color: t.orangeLight,
-              },
-            ].map((stat) => (
-              <Card key={stat.label} style={{ padding: "12px 14px" }}>
-                <div
-                  style={{
-                    fontFamily: FONT_MONO,
-                    fontSize: 9,
-                    color: t.textMuted,
-                    textTransform: "uppercase",
-                    letterSpacing: "0.06em",
-                    marginBottom: 3,
-                  }}
-                >
-                  {stat.label}
-                </div>
-                <div
-                  style={{
-                    fontSize: 20,
-                    fontWeight: 700,
-                    color: stat.color,
-                    lineHeight: 1,
-                  }}
-                >
-                  {stat.value}
-                </div>
-              </Card>
-            ))}
-          </div>
-        </section>
-      )}
-
       {/* ─── PREV / NEXT NAV ─── */}
       <div
         style={{
