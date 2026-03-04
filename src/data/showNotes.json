@@ -1,134 +1,986 @@
 {
   "ep17": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Hook: Google outperforms Claude & GPT-5 at the same price"},
-      {"time": "0:45", "seconds": 45, "label": "Host Intro & Week Preview"},
-      {"time": "1:30", "seconds": 90, "label": "Story 1: Google Gemini 3.1 Pro — Smarter AI, No Price Increase"},
-      {"time": "4:30", "seconds": 270, "label": "Story 2: Canva Inside Claude & ChatGPT — Brand Design from Chat"},
-      {"time": "7:00", "seconds": 420, "label": "Story 3: Google Lyria 3 — Free AI Music in Gemini"},
-      {"time": "8:45", "seconds": 525, "label": "Quick Hits (5 stories, rapid-fire)"},
-      {"time": "9:45", "seconds": 585, "label": "Recap & What We're Watching Next Week"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Hook: Google outperforms Claude & GPT-5 at the same price"
+      },
+      {
+        "time": "0:45",
+        "seconds": 45,
+        "label": "Host Intro & Week Preview"
+      },
+      {
+        "time": "1:30",
+        "seconds": 90,
+        "label": "Story 1: Google Gemini 3.1 Pro \u2014 Smarter AI, No Price Increase"
+      },
+      {
+        "time": "4:30",
+        "seconds": 270,
+        "label": "Story 2: Canva Inside Claude & ChatGPT \u2014 Brand Design from Chat"
+      },
+      {
+        "time": "7:00",
+        "seconds": 420,
+        "label": "Story 3: Google Lyria 3 \u2014 Free AI Music in Gemini"
+      },
+      {
+        "time": "8:45",
+        "seconds": 525,
+        "label": "Quick Hits (5 stories, rapid-fire)"
+      },
+      {
+        "time": "9:45",
+        "seconds": 585,
+        "label": "Recap & What We're Watching Next Week"
+      }
     ],
     "sources": [
-      {"title": "Gemini 3.1 Pro announcement", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/", "source": "Google Blog"},
-      {"title": "Gemini benchmarks & pricing guide", "url": "https://www.digitalapplied.com/blog/google-gemini-3-1-pro-benchmarks-pricing-guide", "source": "Digital Applied"},
-      {"title": "Canva Brings On-Brand Designs to AI Assistants", "url": "https://www.businesswire.com/news/home/20260205384226/en/Canva-Brings-On-Brand-Designs-Directly-into-AI-Assistants", "source": "BusinessWire"},
-      {"title": "Google Lyria 3 music generation", "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/", "source": "Google Blog"},
-      {"title": "Google adds music generation to Gemini", "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/", "source": "TechCrunch"}
+      {
+        "title": "Gemini 3.1 Pro announcement",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Gemini benchmarks & pricing guide",
+        "url": "https://www.digitalapplied.com/blog/google-gemini-3-1-pro-benchmarks-pricing-guide",
+        "source": "Digital Applied"
+      },
+      {
+        "title": "Canva Brings On-Brand Designs to AI Assistants",
+        "url": "https://www.businesswire.com/news/home/20260205384226/en/Canva-Brings-On-Brand-Designs-Directly-into-AI-Assistants",
+        "source": "BusinessWire"
+      },
+      {
+        "title": "Google Lyria 3 music generation",
+        "url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Google adds music generation to Gemini",
+        "url": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+        "source": "TechCrunch"
+      }
     ]
   },
   "ep16": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Cold Open: Disney vs ByteDance"},
-      {"time": "0:45", "seconds": 45, "label": "Story #1: AI Video Arms Race & Copyright Crisis"},
-      {"time": "3:30", "seconds": 210, "label": "Story #2: GPT-5.3 Codex vs Claude Opus 4.6"},
-      {"time": "6:15", "seconds": 375, "label": "Story #3: LinkedIn Premium All-in-One Launch"},
-      {"time": "7:30", "seconds": 450, "label": "Quick Hits: ChatGPT, Canva, HeyGen, Mozart AI"},
-      {"time": "8:15", "seconds": 495, "label": "Recap & Next Week Preview"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Open: Disney vs ByteDance"
+      },
+      {
+        "time": "0:45",
+        "seconds": 45,
+        "label": "Story #1: AI Video Arms Race & Copyright Crisis"
+      },
+      {
+        "time": "3:30",
+        "seconds": 210,
+        "label": "Story #2: GPT-5.3 Codex vs Claude Opus 4.6"
+      },
+      {
+        "time": "6:15",
+        "seconds": 375,
+        "label": "Story #3: LinkedIn Premium All-in-One Launch"
+      },
+      {
+        "time": "7:30",
+        "seconds": 450,
+        "label": "Quick Hits: ChatGPT, Canva, HeyGen, Mozart AI"
+      },
+      {
+        "time": "8:15",
+        "seconds": 495,
+        "label": "Recap & Next Week Preview"
+      }
     ],
     "sources": [
-      {"title": "ByteDance to add safeguards", "url": "https://www.cnbc.com/2026/02/16/bytedance-seedance-safeguards", "source": "CNBC"},
-      {"title": "Hollywood pushback on Seedance", "url": "https://techcrunch.com/2026/02/14/hollywood-seedance", "source": "TechCrunch"},
-      {"title": "GPT-5.3 Codex announcement", "url": "https://openai.com/blog/gpt-5-3-codex", "source": "OpenAI"},
-      {"title": "Claude Opus 4.6 announcement", "url": "https://anthropic.com/claude-opus-4-6", "source": "Anthropic"},
-      {"title": "Top AI Video Generators 2026", "url": "https://genra.ai/ai-video-generators-2026", "source": "Genra AI"}
+      {
+        "title": "ByteDance to add safeguards",
+        "url": "https://www.cnbc.com/2026/02/16/bytedance-seedance-safeguards",
+        "source": "CNBC"
+      },
+      {
+        "title": "Hollywood pushback on Seedance",
+        "url": "https://techcrunch.com/2026/02/14/hollywood-seedance",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GPT-5.3 Codex announcement",
+        "url": "https://openai.com/blog/gpt-5-3-codex",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Claude Opus 4.6 announcement",
+        "url": "https://anthropic.com/claude-opus-4-6",
+        "source": "Anthropic"
+      },
+      {
+        "title": "Top AI Video Generators 2026",
+        "url": "https://genra.ai/ai-video-generators-2026",
+        "source": "Genra AI"
+      }
     ]
   },
   "ep15": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Cold Open: 3 AI Video Generators Leapfrog Each Other"},
-      {"time": "0:20", "seconds": 20, "label": "Intro & Transparency Disclaimer"},
-      {"time": "1:00", "seconds": 60, "label": "Story #1: Kling 3.0 Becomes Top-Rated AI Video Generator"},
-      {"time": "3:30", "seconds": 210, "label": "Story #2: ChatGPT Ads Launch + Anthropic's Super Bowl Response"},
-      {"time": "5:45", "seconds": 345, "label": "Story #3: ByteDance's Seedance 2.0 — The New DeepSeek Moment"},
-      {"time": "7:30", "seconds": 450, "label": "Quick Hits: Claude Opus 4.6, HeyGen Credits, AI in Super Bowl Ads"},
-      {"time": "8:15", "seconds": 495, "label": "Wrap-Up: What This Means for Content Creators"},
-      {"time": "9:00", "seconds": 540, "label": "Next Week Preview"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Open: 3 AI Video Generators Leapfrog Each Other"
+      },
+      {
+        "time": "0:20",
+        "seconds": 20,
+        "label": "Intro & Transparency Disclaimer"
+      },
+      {
+        "time": "1:00",
+        "seconds": 60,
+        "label": "Story #1: Kling 3.0 Becomes Top-Rated AI Video Generator"
+      },
+      {
+        "time": "3:30",
+        "seconds": 210,
+        "label": "Story #2: ChatGPT Ads Launch + Anthropic's Super Bowl Response"
+      },
+      {
+        "time": "5:45",
+        "seconds": 345,
+        "label": "Story #3: ByteDance's Seedance 2.0 \u2014 The New DeepSeek Moment"
+      },
+      {
+        "time": "7:30",
+        "seconds": 450,
+        "label": "Quick Hits: Claude Opus 4.6, HeyGen Credits, AI in Super Bowl Ads"
+      },
+      {
+        "time": "8:15",
+        "seconds": 495,
+        "label": "Wrap-Up: What This Means for Content Creators"
+      },
+      {
+        "time": "9:00",
+        "seconds": 540,
+        "label": "Next Week Preview"
+      }
     ],
     "sources": [
-      {"title": "Kling 3.0 Now Available", "url": "https://fal.ai/models/kling-3.0", "source": "fal.ai"},
-      {"title": "Kling 3.0 Review (8.1/10)", "url": "https://curiousrefuge.com/kling-3-0-review", "source": "Curious Refuge"},
-      {"title": "OpenAI Testing Ads in ChatGPT", "url": "https://www.theverge.com/2026/2/9/chatgpt-ads", "source": "The Verge"},
-      {"title": "Seedance Creates Buzz", "url": "https://techxplore.com/seedance-2-0", "source": "TechXplore"},
-      {"title": "Seedance Surpasses Sora", "url": "https://www.siliconrepublic.com/seedance-2-0", "source": "Silicon Republic"}
+      {
+        "title": "Kling 3.0 Now Available",
+        "url": "https://fal.ai/models/kling-3.0",
+        "source": "fal.ai"
+      },
+      {
+        "title": "Kling 3.0 Review (8.1/10)",
+        "url": "https://curiousrefuge.com/kling-3-0-review",
+        "source": "Curious Refuge"
+      },
+      {
+        "title": "OpenAI Testing Ads in ChatGPT",
+        "url": "https://www.theverge.com/2026/2/9/chatgpt-ads",
+        "source": "The Verge"
+      },
+      {
+        "title": "Seedance Creates Buzz",
+        "url": "https://techxplore.com/seedance-2-0",
+        "source": "TechXplore"
+      },
+      {
+        "title": "Seedance Surpasses Sora",
+        "url": "https://www.siliconrepublic.com/seedance-2-0",
+        "source": "Silicon Republic"
+      }
     ]
   },
   "ep14": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Hook: AI Crossed the Line This Week"},
-      {"time": "0:30", "seconds": 30, "label": "Intro & AI Disclosure"},
-      {"time": "1:30", "seconds": 90, "label": "Story #1: OpenClaw AI Agent (Security Warning)"},
-      {"time": "4:00", "seconds": 240, "label": "Story #2: Apple Creator Studio ($13/Month vs Adobe)"},
-      {"time": "6:00", "seconds": 360, "label": "Story #3: PixVerse R1 (Real-Time AI Video)"},
-      {"time": "7:30", "seconds": 450, "label": "Quick Hits"},
-      {"time": "8:10", "seconds": 490, "label": "Recap & Next Week Preview"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Hook: AI Crossed the Line This Week"
+      },
+      {
+        "time": "0:30",
+        "seconds": 30,
+        "label": "Intro & AI Disclosure"
+      },
+      {
+        "time": "1:30",
+        "seconds": 90,
+        "label": "Story #1: OpenClaw AI Agent (Security Warning)"
+      },
+      {
+        "time": "4:00",
+        "seconds": 240,
+        "label": "Story #2: Apple Creator Studio ($13/Month vs Adobe)"
+      },
+      {
+        "time": "6:00",
+        "seconds": 360,
+        "label": "Story #3: PixVerse R1 (Real-Time AI Video)"
+      },
+      {
+        "time": "7:30",
+        "seconds": 450,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "8:10",
+        "seconds": 490,
+        "label": "Recap & Next Week Preview"
+      }
     ],
     "sources": [
-      {"title": "OpenClaw GitHub Repository", "url": "https://github.com/openclaw/openclaw", "source": "GitHub"},
-      {"title": "Apple Creator Studio", "url": "https://www.apple.com/creator-studio/", "source": "Apple"},
-      {"title": "PixVerse R1 Beta", "url": "https://realtime.pixverse.ai", "source": "PixVerse"}
+      {
+        "title": "OpenClaw GitHub Repository",
+        "url": "https://github.com/openclaw/openclaw",
+        "source": "GitHub"
+      },
+      {
+        "title": "Apple Creator Studio",
+        "url": "https://www.apple.com/creator-studio/",
+        "source": "Apple"
+      },
+      {
+        "title": "PixVerse R1 Beta",
+        "url": "https://realtime.pixverse.ai",
+        "source": "PixVerse"
+      }
     ]
   },
   "ep13": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Intro & Week Overview"},
-      {"time": "0:25", "seconds": 25, "label": "Story #1: Anthropic Claude App Integrations"},
-      {"time": "2:00", "seconds": 120, "label": "Story #2: ElevenLabs 11.ai + Eleven v3 Voice Model"},
-      {"time": "3:35", "seconds": 215, "label": "Story #3: Runway Gen-4.5 Video Generation"},
-      {"time": "5:10", "seconds": 310, "label": "Quick Hits: Perplexity, Meta, Instagram, Google"},
-      {"time": "5:50", "seconds": 350, "label": "Recap & Next Week Preview"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro & Week Overview"
+      },
+      {
+        "time": "0:25",
+        "seconds": 25,
+        "label": "Story #1: Anthropic Claude App Integrations"
+      },
+      {
+        "time": "2:00",
+        "seconds": 120,
+        "label": "Story #2: ElevenLabs 11.ai + Eleven v3 Voice Model"
+      },
+      {
+        "time": "3:35",
+        "seconds": 215,
+        "label": "Story #3: Runway Gen-4.5 Video Generation"
+      },
+      {
+        "time": "5:10",
+        "seconds": 310,
+        "label": "Quick Hits: Perplexity, Meta, Instagram, Google"
+      },
+      {
+        "time": "5:50",
+        "seconds": 350,
+        "label": "Recap & Next Week Preview"
+      }
     ],
     "sources": [
-      {"title": "Claude Apps Pricing", "url": "https://www.anthropic.com/pricing", "source": "Anthropic"},
-      {"title": "Claude App Integrations", "url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/", "source": "TechCrunch"},
-      {"title": "ElevenLabs 11.ai Launch", "url": "https://elevenlabs.io/blog/introducing-11ai", "source": "ElevenLabs"},
-      {"title": "Eleven v3 Documentation", "url": "https://elevenlabs.io/blog/eleven-v3", "source": "ElevenLabs"},
-      {"title": "Runway Gen-4.5 Release", "url": "https://runwayml.com/research/theturingreel", "source": "Runway"}
+      {
+        "title": "Claude Apps Pricing",
+        "url": "https://www.anthropic.com/pricing",
+        "source": "Anthropic"
+      },
+      {
+        "title": "Claude App Integrations",
+        "url": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ElevenLabs 11.ai Launch",
+        "url": "https://elevenlabs.io/blog/introducing-11ai",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "Eleven v3 Documentation",
+        "url": "https://elevenlabs.io/blog/eleven-v3",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "Runway Gen-4.5 Release",
+        "url": "https://runwayml.com/research/theturingreel",
+        "source": "Runway"
+      }
     ]
   },
   "ep12": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Intro"},
-      {"time": "0:25", "seconds": 25, "label": "Google Veo 3.1: Native Vertical AI Video"},
-      {"time": "2:15", "seconds": 135, "label": "Synthesia: Voice Speed & Speech Regeneration"},
-      {"time": "3:45", "seconds": 225, "label": "ChatGPT: Memory & Dictation Upgrades"},
-      {"time": "5:15", "seconds": 315, "label": "Quick Hits"},
-      {"time": "5:55", "seconds": 355, "label": "Recap & Next Week"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro"
+      },
+      {
+        "time": "0:25",
+        "seconds": 25,
+        "label": "Google Veo 3.1: Native Vertical AI Video"
+      },
+      {
+        "time": "2:15",
+        "seconds": 135,
+        "label": "Synthesia: Voice Speed & Speech Regeneration"
+      },
+      {
+        "time": "3:45",
+        "seconds": 225,
+        "label": "ChatGPT: Memory & Dictation Upgrades"
+      },
+      {
+        "time": "5:15",
+        "seconds": 315,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "5:55",
+        "seconds": 355,
+        "label": "Recap & Next Week"
+      }
     ],
     "sources": [
-      {"title": "Google Veo 3.1 announcement", "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/", "source": "Google Blog"},
-      {"title": "Synthesia Voice Controls Update", "url": "https://synthesia.noticeable.news/publications/get-the-voice-right-regenerate-speech-and-adjust-voice-speed", "source": "Synthesia"},
-      {"title": "ChatGPT Memory Upgrade", "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes", "source": "OpenAI"}
+      {
+        "title": "Google Veo 3.1 announcement",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Synthesia Voice Controls Update",
+        "url": "https://synthesia.noticeable.news/publications/get-the-voice-right-regenerate-speech-and-adjust-voice-speed",
+        "source": "Synthesia"
+      },
+      {
+        "title": "ChatGPT Memory Upgrade",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "source": "OpenAI"
+      }
     ]
   },
   "ep11": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Cold Open: Reddit Takes On Google & Meta"},
-      {"time": "0:30", "seconds": 30, "label": "Story #1: Reddit Max Campaigns Explained"},
-      {"time": "3:05", "seconds": 185, "label": "Story #2: Make.com Crowned Best AI Automation"},
-      {"time": "5:05", "seconds": 305, "label": "Story #3: AI Search Visibility for SMBs"},
-      {"time": "7:05", "seconds": 425, "label": "Quick Hits: Notion, LinkedIn, HeyGen"},
-      {"time": "8:20", "seconds": 500, "label": "Recap & Next Week Preview"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Open: Reddit Takes On Google & Meta"
+      },
+      {
+        "time": "0:30",
+        "seconds": 30,
+        "label": "Story #1: Reddit Max Campaigns Explained"
+      },
+      {
+        "time": "3:05",
+        "seconds": 185,
+        "label": "Story #2: Make.com Crowned Best AI Automation"
+      },
+      {
+        "time": "5:05",
+        "seconds": 305,
+        "label": "Story #3: AI Search Visibility for SMBs"
+      },
+      {
+        "time": "7:05",
+        "seconds": 425,
+        "label": "Quick Hits: Notion, LinkedIn, HeyGen"
+      },
+      {
+        "time": "8:20",
+        "seconds": 500,
+        "label": "Recap & Next Week Preview"
+      }
     ],
     "sources": [
-      {"title": "Reddit Max Campaigns Beta Launch", "url": "https://business.reddit.com", "source": "Reddit"},
-      {"title": "Make.com Named Best AI Platform 2026", "url": "https://make.com", "source": "GlobeNewswire"},
-      {"title": "2026 AI Search Report", "url": "https://contentmarketinginstitute.com", "source": "Content Marketing Institute"}
+      {
+        "title": "Reddit Max Campaigns Beta Launch",
+        "url": "https://business.reddit.com",
+        "source": "Reddit"
+      },
+      {
+        "title": "Make.com Named Best AI Platform 2026",
+        "url": "https://make.com",
+        "source": "GlobeNewswire"
+      },
+      {
+        "title": "2026 AI Search Report",
+        "url": "https://contentmarketinginstitute.com",
+        "source": "Content Marketing Institute"
+      }
     ]
   },
   "ep10": {
     "timestamps": [
-      {"time": "0:00", "seconds": 0, "label": "Hook: Brand Consistency Breakthrough"},
-      {"time": "0:30", "seconds": 30, "label": "Story #1: Kling AI Image O1 Model (Character Consistency)"},
-      {"time": "3:25", "seconds": 205, "label": "Story #2: NVIDIA's Digital Human Blueprints from CES 2026"},
-      {"time": "6:15", "seconds": 375, "label": "Story #3: ElevenLabs — McConaughey, $33M NYC, Multimodal Platform"},
-      {"time": "8:45", "seconds": 525, "label": "Quick Hits: CES 2026 Highlights"},
-      {"time": "9:25", "seconds": 565, "label": "Recap & Next Week Preview"}
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Hook: Brand Consistency Breakthrough"
+      },
+      {
+        "time": "0:30",
+        "seconds": 30,
+        "label": "Story #1: Kling AI Image O1 Model (Character Consistency)"
+      },
+      {
+        "time": "3:25",
+        "seconds": 205,
+        "label": "Story #2: NVIDIA's Digital Human Blueprints from CES 2026"
+      },
+      {
+        "time": "6:15",
+        "seconds": 375,
+        "label": "Story #3: ElevenLabs \u2014 McConaughey, $33M NYC, Multimodal Platform"
+      },
+      {
+        "time": "8:45",
+        "seconds": 525,
+        "label": "Quick Hits: CES 2026 Highlights"
+      },
+      {
+        "time": "9:25",
+        "seconds": 565,
+        "label": "Recap & Next Week Preview"
+      }
     ],
     "sources": [
-      {"title": "Kling AI update", "url": "https://klingai.com", "source": "Kling AI"},
-      {"title": "NVIDIA CES 2026 ACE", "url": "https://nvidia.com", "source": "NVIDIA"},
-      {"title": "ElevenLabs expansion", "url": "https://elevenlabs.io", "source": "ElevenLabs"}
+      {
+        "title": "Kling AI update",
+        "url": "https://klingai.com",
+        "source": "Kling AI"
+      },
+      {
+        "title": "NVIDIA CES 2026 ACE",
+        "url": "https://nvidia.com",
+        "source": "NVIDIA"
+      },
+      {
+        "title": "ElevenLabs expansion",
+        "url": "https://elevenlabs.io",
+        "source": "ElevenLabs"
+      }
+    ]
+  },
+  "ep9": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Welcome Back & Holiday Recap"
+      },
+      {
+        "time": "1:00",
+        "seconds": 60,
+        "label": "Story #1: Google's Distribution Takeover (Gemini Hits 18%)"
+      },
+      {
+        "time": "4:54",
+        "seconds": 294,
+        "label": "Story #2: OpenAI's Ad Pivot (ChatGPT Monetization)"
+      },
+      {
+        "time": "8:12",
+        "seconds": 492,
+        "label": "Story #3: DeepSeek's Cost Disruption (Chinese AI Breakthrough)"
+      },
+      {
+        "time": "11:00",
+        "seconds": 660,
+        "label": "Quick Hits (Suno, Enterprise Spending, Security Alerts)"
+      },
+      {
+        "time": "11:58",
+        "seconds": 718,
+        "label": "Recap & 2026 Strategy"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Similarweb AI Market Share Report",
+        "url": "https://www.similarweb.com/corp/2025-ai-market-share/",
+        "source": "Similarweb"
+      },
+      {
+        "title": "OpenAI Advertising Analysis",
+        "url": "https://www.theinformation.com/",
+        "source": "The Information"
+      },
+      {
+        "title": "DeepSeek V3 Technical Benchmarks",
+        "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+        "source": "GitHub"
+      },
+      {
+        "title": "Google December Core Update Impact Data",
+        "url": "https://ppc.land/google-december-update/",
+        "source": "PPC Land"
+      },
+      {
+        "title": "Adobe Runway Integration Announcement",
+        "url": "https://news.adobe.com/news/2025/12/adobe-runway/",
+        "source": "Adobe"
+      }
+    ]
+  },
+  "ep8": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Hook: Cheaper Voice, Audio, Trust"
+      },
+      {
+        "time": "1:17",
+        "seconds": 77,
+        "label": "OpenAI Voice Stack Upgrades"
+      },
+      {
+        "time": "5:19",
+        "seconds": 319,
+        "label": "Runway Adds Native Audio Tools"
+      },
+      {
+        "time": "8:21",
+        "seconds": 501,
+        "label": "Zapier's AI Agent Governance"
+      },
+      {
+        "time": "11:26",
+        "seconds": 686,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "12:10",
+        "seconds": 730,
+        "label": "Final Takeaways"
+      }
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Voice Stack Updates",
+        "url": "https://x.com/OpenAIDevs/status/2006",
+        "source": "OpenAI Devs (X)"
+      },
+      {
+        "title": "OpenAI voice model release",
+        "url": "https://the-decoder.com/openai-release/",
+        "source": "The Decoder"
+      },
+      {
+        "title": "Azure OpenAI voice integration",
+        "url": "https://learn.microsoft.com/en-us/azure/",
+        "source": "Microsoft Learn"
+      },
+      {
+        "title": "Runway changelog",
+        "url": "https://runwayml.com/changelog",
+        "source": "Runway"
+      },
+      {
+        "title": "Runway pricing",
+        "url": "https://runwayml.com/pricing",
+        "source": "Runway"
+      },
+      {
+        "title": "Runway audio tools launch",
+        "url": "https://techcrunch.com/2025/12/11/runway-audio/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Zapier agent governance update",
+        "url": "https://zapier.com/blog/december-2025-updates/",
+        "source": "Zapier Blog"
+      },
+      {
+        "title": "Zapier pricing",
+        "url": "https://zapier.com/pricing",
+        "source": "Zapier"
+      },
+      {
+        "title": "Zapier agents pricing",
+        "url": "https://zapier.com/l/agents-pricing",
+        "source": "Zapier"
+      }
+    ]
+  },
+  "ep7": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Introduction"
+      },
+      {
+        "time": "0:25",
+        "seconds": 25,
+        "label": "Week Overview"
+      },
+      {
+        "time": "1:58",
+        "seconds": 118,
+        "label": "Disney's $1B OpenAI Partnership: What It Means"
+      },
+      {
+        "time": "6:34",
+        "seconds": 394,
+        "label": "OpenAI Launches GPT-5.2 in Response to Google"
+      },
+      {
+        "time": "11:18",
+        "seconds": 678,
+        "label": "Meta's AI-Powered Creator Matchmaking Tools"
+      },
+      {
+        "time": "14:30",
+        "seconds": 870,
+        "label": "Quick Hits: Adobe, Anthropic, Spotify, Microsoft, TikTok"
+      },
+      {
+        "time": "15:11",
+        "seconds": 911,
+        "label": "Recap & Next Week Preview"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Disney Investment Article",
+        "url": "https://www.theguardian.com/business/disney-openai-investment",
+        "source": "The Guardian"
+      },
+      {
+        "title": "Disney-Sora partnership",
+        "url": "https://openai.com/index/disney-sora/",
+        "source": "OpenAI Blog"
+      },
+      {
+        "title": "Wedbush Securities \u2014 Michael Pachter Report",
+        "url": "",
+        "source": "Wedbush Securities"
+      },
+      {
+        "title": "Animation Guild & Writers Guild Statements",
+        "url": "",
+        "source": "Animation Guild / WGA"
+      },
+      {
+        "title": "GPT-5.2 Analysis",
+        "url": "https://techcrunch.com/2025/12/11/openai-gpt-5-2/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GPT-5.2 Launch",
+        "url": "https://www.cnbc.com/2025/12/11/openai-gpt-5-2/",
+        "source": "CNBC"
+      },
+      {
+        "title": "Meta AI-Powered Creator Matchmaking Tools",
+        "url": "https://www.facebook.com/business/news/new-ai-powered-tools-to-scale-creator-and-brand-partnerships",
+        "source": "Meta Business News"
+      }
+    ]
+  },
+  "ep6": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Introduction \u2014 AI Video War Overview"
+      },
+      {
+        "time": "0:47",
+        "seconds": 47,
+        "label": "Story #1: Runway Gen 4.5 Claims Video Arena #1 Spot"
+      },
+      {
+        "time": "4:09",
+        "seconds": 249,
+        "label": "Story #2: OpenAI's Code Red Response to Gemini 3"
+      },
+      {
+        "time": "8:00",
+        "seconds": 480,
+        "label": "Story #3: Kling AI 2.6 Native Audio-Video Generation"
+      },
+      {
+        "time": "12:02",
+        "seconds": 722,
+        "label": "Quick Hits \u2014 HeyGen, Canva, Adobe, Descript Updates"
+      },
+      {
+        "time": "13:06",
+        "seconds": 786,
+        "label": "Closing \u2014 What This Means for SMB Content Marketers"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Runway Gen 4.5 launch",
+        "url": "https://www.cnbc.com/2025/12/01/runway-gen-4-5/",
+        "source": "CNBC"
+      },
+      {
+        "title": "OpenAI Code Red & GPT-5.2",
+        "url": "https://fortune.com/2025/12/02/sam-altman-openai-code-red/",
+        "source": "Fortune"
+      },
+      {
+        "title": "Kling AI 2.6",
+        "url": "https://sg.finance.yahoo.com/news/kling-ai-2-6/",
+        "source": "Yahoo Finance"
+      }
+    ]
+  },
+  "ep5": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Open"
+      },
+      {
+        "time": "0:25",
+        "seconds": 25,
+        "label": "Claude Opus 4.5: 67% Cheaper"
+      },
+      {
+        "time": "2:15",
+        "seconds": 135,
+        "label": "TikTok's AI Controls + Watermarks"
+      },
+      {
+        "time": "3:45",
+        "seconds": 225,
+        "label": "Google Veo 3 Price Cuts"
+      },
+      {
+        "time": "5:15",
+        "seconds": 315,
+        "label": "Quick Hits: Perplexity + Instagram AI"
+      },
+      {
+        "time": "5:55",
+        "seconds": 355,
+        "label": "Closing & Weekly Takeaways"
+      }
+    ],
+    "sources": []
+  },
+  "ep4": {
+    "timestamps": [],
+    "sources": []
+  },
+  "ep3": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro & This Week's Overview"
+      },
+      {
+        "time": "0:50",
+        "seconds": 50,
+        "label": "ChatGPT 5.1: Personality Presets & Pricing"
+      },
+      {
+        "time": "3:30",
+        "seconds": 210,
+        "label": "ElevenLabs: Voice Marketplace & Voice Design v3"
+      },
+      {
+        "time": "5:57",
+        "seconds": 357,
+        "label": "Canva 3D: Design Tools for 260M Users"
+      },
+      {
+        "time": "8:37",
+        "seconds": 517,
+        "label": "Trends to Watch & Action Plan"
+      },
+      {
+        "time": "9:38",
+        "seconds": 578,
+        "label": "Recap & Next Week Preview"
+      }
+    ],
+    "sources": [
+      {
+        "title": "ChatGPT 5.1",
+        "url": "https://openai.com/index/gpt-5-1/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "ElevenLabs Iconic Marketplace",
+        "url": "https://elevenlabs.io/blog/announcing-iconic-marketplace/",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "Canva 3D Tools",
+        "url": "https://www.edtechinnovationhub.com/news/canva-3d/",
+        "source": "EdTech Innovation Hub"
+      },
+      {
+        "title": "OpenAI Pricing",
+        "url": "https://openai.com/api/pricing/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Canva Pricing",
+        "url": "https://www.canva.com/pricing/",
+        "source": "Canva"
+      }
+    ]
+  },
+  "ep2": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Introduction to Market Intel"
+      },
+      {
+        "time": "1:07",
+        "seconds": 67,
+        "label": "Week Overview: Three Major AI Developments"
+      },
+      {
+        "time": "2:00",
+        "seconds": 120,
+        "label": "OpenAI Sora Android Launch & Pricing Analysis"
+      },
+      {
+        "time": "8:52",
+        "seconds": 532,
+        "label": "TikTok Symphony Creative Studio (Smart Split & AI Outline)"
+      },
+      {
+        "time": "15:24",
+        "seconds": 924,
+        "label": "Google NotebookLM Enhanced Chat Capabilities"
+      },
+      {
+        "time": "21:22",
+        "seconds": 1282,
+        "label": "Quick Hits: Runway, PixVerse, LumeFlow Updates"
+      },
+      {
+        "time": "22:22",
+        "seconds": 1342,
+        "label": "Community Q&A and Ethical AI Content Usage"
+      },
+      {
+        "time": "23:08",
+        "seconds": 1388,
+        "label": "Key Takeaways & Next Week Preview"
+      }
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Sora Android Launch",
+        "url": "https://www.cnbc.com/2025/11/04/openai-sora-android/",
+        "source": "CNBC"
+      },
+      {
+        "title": "OpenAI Sora Android Launch",
+        "url": "https://www.theverge.com/news/813533/",
+        "source": "The Verge"
+      },
+      {
+        "title": "TikTok Symphony Creative Studio",
+        "url": "https://newsroom.tiktok.com/new-ai-powered-tools/",
+        "source": "TikTok Newsroom"
+      },
+      {
+        "title": "Google NotebookLM Updates",
+        "url": "https://blog.google/technology/google-notebooklm/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "NotebookLM",
+        "url": "https://notebooklm.google.com",
+        "source": "Google (Official Tool)"
+      }
+    ]
+  },
+  "ep1": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Open & Week Overview"
+      },
+      {
+        "time": "0:47",
+        "seconds": 47,
+        "label": "Story #1: Canva Launches AI Design Model + Free Affinity Suite"
+      },
+      {
+        "time": "5:36",
+        "seconds": 336,
+        "label": "Story #2: OpenAI Sora 2 App Hits 1M Downloads, Sparks Hollywood Battle"
+      },
+      {
+        "time": "9:10",
+        "seconds": 550,
+        "label": "Story #3: Google NotebookLM Gets 8x Bigger Context + Custom Personas"
+      },
+      {
+        "time": "12:22",
+        "seconds": 742,
+        "label": "Quick Hits: TikTok AI Tools, Instagram Story Editing, HeyGen Avatar IV"
+      },
+      {
+        "time": "13:11",
+        "seconds": 791,
+        "label": "Weekly Recap"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Canva Creative OS Launch",
+        "url": "https://www.canva.com/newsroom/news/creative-os-launch/",
+        "source": "Canva Newsroom"
+      },
+      {
+        "title": "Affinity Suite Integration Details",
+        "url": "https://affinity.serif.com/",
+        "source": "Affinity"
+      },
+      {
+        "title": "Canva Pricing Breakdown",
+        "url": "https://www.canva.com/pricing/",
+        "source": "Canva"
+      },
+      {
+        "title": "OpenAI Sora 2 Announcement",
+        "url": "https://openai.com/index/sora-2/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Google NotebookLM Update",
+        "url": "https://blog.google/technology/google-notebooklm/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "TikTok AI Creator Tools Launch",
+        "url": "https://newsroom.tiktok.com/new-ai-powered-tools/",
+        "source": "TikTok Newsroom"
+      },
+      {
+        "title": "Instagram AI Story Editing Rollout",
+        "url": "https://www.techbuzz.ai/articles/meta-instagram-ai-stories/",
+        "source": "TechBuzz"
+      },
+      {
+        "title": "HeyGen Avatar IV Release",
+        "url": "https://www.heygen.com/blog/announcing-avatar-iv/",
+        "source": "HeyGen"
+      }
     ]
   }
 }
