@@ -7,10 +7,18 @@
     "description": "Google's flagship AI platform. Gemini 3.1 Pro doubled reasoning capability at the same price point, capturing 18% of global AI traffic in a single week.",
     "status": "Leading",
     "url": "https://gemini.google.com",
-    "episodes": [17, 9, 7],
+    "episodes": [
+      17,
+      9,
+      7
+    ],
     "lastMentioned": "2026-02-19",
     "lastMentionedDisplay": "Feb 19, 2026",
-    "tags": ["LLM", "Multimodal", "Search"]
+    "tags": [
+      "LLM",
+      "Multimodal",
+      "Search"
+    ]
   },
   {
     "slug": "chatgpt",
@@ -20,10 +28,22 @@
     "description": "The AI chatbot that started the revolution. Now running GPT-5.x with code generation, image creation, and newly launched advertising. Locked in a fierce rivalry with Claude and Gemini.",
     "status": "Leading",
     "url": "https://chat.openai.com",
-    "episodes": [17, 16, 15, 12, 9, 8, 7],
+    "episodes": [
+      17,
+      16,
+      15,
+      12,
+      9,
+      8,
+      7
+    ],
     "lastMentioned": "2026-02-19",
     "lastMentionedDisplay": "Feb 19, 2026",
-    "tags": ["LLM", "Code", "Ads"]
+    "tags": [
+      "LLM",
+      "Code",
+      "Ads"
+    ]
   },
   {
     "slug": "claude",
@@ -33,62 +53,99 @@
     "description": "Anthropic's AI assistant known for careful reasoning and long-context processing. Claude Opus 4.6 competes directly with GPT-5. Recently launched app integrations including Slack.",
     "status": "Leading",
     "url": "https://claude.ai",
-    "episodes": [17, 16, 13],
+    "episodes": [
+      17,
+      16,
+      13
+    ],
     "lastMentioned": "2026-02-19",
     "lastMentionedDisplay": "Feb 19, 2026",
-    "tags": ["LLM", "Reasoning", "Apps"]
+    "tags": [
+      "LLM",
+      "Reasoning",
+      "Apps"
+    ]
   },
   {
     "slug": "runway",
     "name": "Runway",
     "category": "Video Generation",
-    "pricing": "Free trial / $15–$95/mo",
+    "pricing": "Free trial / $15\u2013$95/mo",
     "description": "Pioneer in AI video generation. Gen-4.5 claimed the #1 spot before Kling 3.0 overtook it. Added native audio tools for complete video production workflows.",
     "status": "Major Player",
     "url": "https://runwayml.com",
-    "episodes": [13, 8, 6],
+    "episodes": [
+      13,
+      8,
+      6
+    ],
     "lastMentioned": "2026-01-28",
     "lastMentionedDisplay": "Jan 28, 2026",
-    "tags": ["Video", "Audio", "Creative"]
+    "tags": [
+      "Video",
+      "Audio",
+      "Creative"
+    ]
   },
   {
     "slug": "kling",
     "name": "Kling AI",
     "category": "Video Generation",
     "pricing": "Free tier / Pay-per-use",
-    "description": "Chinese AI video generator that overtook Runway and Sora to become the highest-rated option. Kling 3.0 solved audio synchronization — a major breakthrough for AI video.",
+    "description": "Chinese AI video generator that overtook Runway and Sora to become the highest-rated option. Kling 3.0 solved audio synchronization \u2014 a major breakthrough for AI video.",
     "status": "Rising Star",
     "url": "https://klingai.com",
-    "episodes": [15, 10, 6],
+    "episodes": [
+      15,
+      10,
+      6
+    ],
     "lastMentioned": "2026-02-11",
     "lastMentionedDisplay": "Feb 11, 2026",
-    "tags": ["Video", "Audio"]
+    "tags": [
+      "Video",
+      "Audio"
+    ]
   },
   {
     "slug": "elevenlabs",
     "name": "ElevenLabs",
     "category": "Voice & Audio",
-    "pricing": "Free tier / $5–$99/mo",
+    "pricing": "Free tier / $5\u2013$99/mo",
     "description": "Leading AI voice platform. V3 released the most expressive voice model yet. Attracted investment from Matthew McConaughey. Powers voice cloning, text-to-speech, and dubbing.",
     "status": "Leading",
     "url": "https://elevenlabs.io",
-    "episodes": [13, 10, 8],
+    "episodes": [
+      13,
+      10,
+      8
+    ],
     "lastMentioned": "2026-01-28",
     "lastMentionedDisplay": "Jan 28, 2026",
-    "tags": ["Voice", "Cloning", "Audio"]
+    "tags": [
+      "Voice",
+      "Cloning",
+      "Audio"
+    ]
   },
   {
     "slug": "veo",
     "name": "Google Veo",
     "category": "Video Generation",
     "pricing": "Included with Gemini",
-    "description": "Google's AI video generation model. Veo 3.1 introduced native 9:16 vertical video for YouTube Shorts — a first for AI video generators.",
+    "description": "Google's AI video generation model. Veo 3.1 introduced native 9:16 vertical video for YouTube Shorts \u2014 a first for AI video generators.",
     "status": "Growing",
     "url": "https://deepmind.google/veo",
-    "episodes": [12],
+    "episodes": [
+      12
+    ],
     "lastMentioned": "2026-01-21",
     "lastMentionedDisplay": "Jan 21, 2026",
-    "tags": ["Video", "YouTube", "Vertical"]
+    "tags": [
+      "Video",
+      "YouTube",
+      "Vertical"
+    ]
   },
   {
     "slug": "canva",
@@ -98,10 +155,16 @@
     "description": "Design platform with deep AI integration. Now embedded inside both Claude and ChatGPT, making professional design accessible directly within AI chat interfaces.",
     "status": "Major Player",
     "url": "https://canva.com",
-    "episodes": [17],
+    "episodes": [
+      17
+    ],
     "lastMentioned": "2026-02-19",
     "lastMentionedDisplay": "Feb 19, 2026",
-    "tags": ["Design", "Templates", "Integration"]
+    "tags": [
+      "Design",
+      "Templates",
+      "Integration"
+    ]
   },
   {
     "slug": "reddit-ads",
@@ -111,10 +174,16 @@
     "description": "Reddit's Max Campaigns introduced transparent AI-powered ad automation delivering 17% lower CPA than traditional platforms. A compelling alternative to Google and Meta.",
     "status": "Emerging",
     "url": "https://ads.reddit.com",
-    "episodes": [11],
+    "episodes": [
+      11
+    ],
     "lastMentioned": "2026-01-14",
     "lastMentionedDisplay": "Jan 14, 2026",
-    "tags": ["Ads", "Automation", "CPA"]
+    "tags": [
+      "Ads",
+      "Automation",
+      "CPA"
+    ]
   },
   {
     "slug": "deepseek",
@@ -124,10 +193,17 @@
     "description": "Chinese AI lab delivering frontier-level intelligence at 90% less cost than Western competitors. V3 disrupted market pricing assumptions and proved open-source can compete.",
     "status": "Disruptor",
     "url": "https://deepseek.com",
-    "episodes": [9, 15],
+    "episodes": [
+      9,
+      15
+    ],
     "lastMentioned": "2026-02-11",
     "lastMentionedDisplay": "Feb 11, 2026",
-    "tags": ["LLM", "Open Source", "Budget"]
+    "tags": [
+      "LLM",
+      "Open Source",
+      "Budget"
+    ]
   },
   {
     "slug": "synthesia",
@@ -137,22 +213,89 @@
     "description": "AI video platform specializing in avatar-based presentations and training content. Generates professional talking-head videos from text scripts.",
     "status": "Established",
     "url": "https://synthesia.io",
-    "episodes": [12],
+    "episodes": [
+      12
+    ],
     "lastMentioned": "2026-01-21",
     "lastMentionedDisplay": "Jan 21, 2026",
-    "tags": ["Video", "Avatars", "Enterprise"]
+    "tags": [
+      "Video",
+      "Avatars",
+      "Enterprise"
+    ]
   },
   {
     "slug": "seedance",
     "name": "Seedance",
     "category": "Video Generation",
     "pricing": "Early access",
-    "description": "Emerging AI video generator positioning as the 'DeepSeek of video' — high quality at dramatically lower cost. Version 2.0 could disrupt the Runway/Kling duopoly.",
+    "description": "Emerging AI video generator positioning as the 'DeepSeek of video' \u2014 high quality at dramatically lower cost. Version 2.0 could disrupt the Runway/Kling duopoly.",
     "status": "Watch List",
     "url": "https://seedance.ai",
-    "episodes": [15],
+    "episodes": [
+      15
+    ],
     "lastMentioned": "2026-02-11",
     "lastMentionedDisplay": "Feb 11, 2026",
-    "tags": ["Video", "Budget", "Emerging"]
+    "tags": [
+      "Video",
+      "Budget",
+      "Emerging"
+    ]
+  },
+  {
+    "name": "Perplexity",
+    "slug": "perplexity",
+    "category": "AI Assistant",
+    "pricing": "Free / $20/mo Pro / $200/mo Max",
+    "description": "AI-powered answer engine that coordinates 19 frontier models simultaneously \u2014 Claude Opus 4.6, Gemini, GPT, Grok, Veo, and more. Perplexity Computer completes entire marketing projects end-to-end from a single prompt.",
+    "status": "Rising Star",
+    "url": "https://perplexity.ai",
+    "episodes": [
+      18
+    ],
+    "lastMentioned": "Mar 4, 2026",
+    "tags": [
+      "AI Search",
+      "Agents",
+      "Multi-model"
+    ]
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
+    "category": "Video & Audio Editing",
+    "pricing": "Free / $24/mo Pro",
+    "description": "AI-powered video and audio editor with Underlord assistant running on Claude Opus 4.6. Improved B-roll placement to 92% accuracy and filler word removal by 43%. Integrates Kling AI v3 and Sora 2 directly in the editing timeline.",
+    "status": "Major Player",
+    "url": "https://descript.com",
+    "episodes": [
+      18
+    ],
+    "lastMentioned": "Mar 4, 2026",
+    "tags": [
+      "Video",
+      "Audio",
+      "Editing",
+      "AI Assistant"
+    ]
+  },
+  {
+    "name": "Pictory",
+    "slug": "pictory",
+    "category": "Video Generation",
+    "pricing": "From $25/mo",
+    "description": "Pictory 2.0 repositioned from a text-to-video tool to a fully integrated AI video platform \u2014 avatars, generative video, interactive hosting, brand kits, Chrome extension, and PowerPoint plugin.",
+    "status": "Growing",
+    "url": "https://pictory.ai",
+    "episodes": [
+      18
+    ],
+    "lastMentioned": "Mar 4, 2026",
+    "tags": [
+      "Video",
+      "Avatars",
+      "Brand Kits"
+    ]
   }
 ]

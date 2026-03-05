@@ -36,7 +36,7 @@ const SHOW = {
   type: "episodic",
 
   // URLs — update siteUrl when custom domain is added
-  siteUrl: "https://market-intel.netlify.app",
+  siteUrl: "https://aimarketintel.fm",
   feedPath: "/feed.xml",
   artworkPath: "/milogo.png",
 

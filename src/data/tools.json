@@ -5,7 +5,11 @@
     "pricing": "Free tier available",
     "useCase": "Create AI-generated video clips with synchronized audio from text prompts.",
     "rating": "Top Pick",
-    "episodes": [15, 10, 6],
+    "episodes": [
+      15,
+      10,
+      6
+    ],
     "lastUpdated": "2026-02-11",
     "lastUpdatedDisplay": "Feb 11, 2026",
     "url": "https://klingai.com"
@@ -16,7 +20,10 @@
     "pricing": "From $15/mo",
     "useCase": "Professional AI video generation with granular control over motion, style, and camera movement.",
     "rating": "Top Pick",
-    "episodes": [13, 6],
+    "episodes": [
+      13,
+      6
+    ],
     "lastUpdated": "2026-01-28",
     "lastUpdatedDisplay": "Jan 28, 2026",
     "url": "https://runwayml.com"
@@ -27,7 +34,11 @@
     "pricing": "Free tier / from $5/mo",
     "useCase": "Voice cloning, text-to-speech, and audio dubbing with the most expressive AI voice model available.",
     "rating": "Top Pick",
-    "episodes": [13, 10, 8],
+    "episodes": [
+      13,
+      10,
+      8
+    ],
     "lastUpdated": "2026-01-28",
     "lastUpdatedDisplay": "Jan 28, 2026",
     "url": "https://elevenlabs.io"
@@ -38,7 +49,9 @@
     "pricing": "Free with Gemini",
     "useCase": "Generate custom music tracks and soundscapes directly within Google Gemini for content creation.",
     "rating": "New",
-    "episodes": [17],
+    "episodes": [
+      17
+    ],
     "lastUpdated": "2026-02-19",
     "lastUpdatedDisplay": "Feb 19, 2026",
     "url": "https://gemini.google.com"
@@ -47,9 +60,11 @@
     "name": "Canva AI Suite",
     "category": "Design",
     "pricing": "Free / $13/mo Pro",
-    "useCase": "AI-powered design tools including Magic Write, Magic Edit, and text-to-image — now accessible within Claude and ChatGPT.",
+    "useCase": "AI-powered design tools including Magic Write, Magic Edit, and text-to-image \u2014 now accessible within Claude and ChatGPT.",
     "rating": "Essential",
-    "episodes": [17],
+    "episodes": [
+      17
+    ],
     "lastUpdated": "2026-02-19",
     "lastUpdatedDisplay": "Feb 19, 2026",
     "url": "https://canva.com"
@@ -60,7 +75,9 @@
     "pricing": "Free tier / from $9/mo",
     "useCase": "Visual automation builder connecting apps and AI services. Named Best AI Automation Platform. Build complex workflows without code.",
     "rating": "Top Pick",
-    "episodes": [11],
+    "episodes": [
+      11
+    ],
     "lastUpdated": "2026-01-14",
     "lastUpdatedDisplay": "Jan 14, 2026",
     "url": "https://make.com"
@@ -71,7 +88,9 @@
     "pricing": "Free tier / from $20/mo",
     "useCase": "Workflow automation with new agent governance features for controlling AI-powered automations at scale.",
     "rating": "Essential",
-    "episodes": [8],
+    "episodes": [
+      8
+    ],
     "lastUpdated": "2025-12-24",
     "lastUpdatedDisplay": "Dec 24, 2025",
     "url": "https://zapier.com"
@@ -82,7 +101,9 @@
     "pricing": "TBA (est. 85% less than Adobe)",
     "useCase": "Apple's answer to Adobe Creative Suite with AI integration. Positioned to undercut Adobe's pricing dramatically.",
     "rating": "Watch",
-    "episodes": [14],
+    "episodes": [
+      14
+    ],
     "lastUpdated": "2026-02-04",
     "lastUpdatedDisplay": "Feb 4, 2026",
     "url": "https://apple.com"
@@ -93,7 +114,9 @@
     "pricing": "Free tier available",
     "useCase": "AI video generation with emphasis on consistent character and style across clips.",
     "rating": "Rising",
-    "episodes": [14],
+    "episodes": [
+      14
+    ],
     "lastUpdated": "2026-02-04",
     "lastUpdatedDisplay": "Feb 4, 2026",
     "url": "https://pixverse.ai"
@@ -104,7 +127,9 @@
     "pricing": "Early access",
     "useCase": "Budget-friendly AI video generation delivering near-frontier quality. The 'DeepSeek moment' for AI video.",
     "rating": "Watch",
-    "episodes": [15],
+    "episodes": [
+      15
+    ],
     "lastUpdated": "2026-02-11",
     "lastUpdatedDisplay": "Feb 11, 2026",
     "url": "https://seedance.ai"
@@ -115,7 +140,9 @@
     "pricing": "Open source / Free",
     "useCase": "Open-source AI agent framework that went viral with 116K GitHub stars. Enables autonomous AI task execution.",
     "rating": "Trending",
-    "episodes": [14],
+    "episodes": [
+      14
+    ],
     "lastUpdated": "2026-02-04",
     "lastUpdatedDisplay": "Feb 4, 2026",
     "url": "https://github.com/openclaw"
@@ -126,7 +153,9 @@
     "pricing": "From $29/mo",
     "useCase": "Create AI avatar videos for marketing, training, and content. Used in Market Intel's own production pipeline.",
     "rating": "Essential",
-    "episodes": [10],
+    "episodes": [
+      10
+    ],
     "lastUpdated": "2026-01-07",
     "lastUpdatedDisplay": "Jan 7, 2026",
     "url": "https://heygen.com"
@@ -137,7 +166,9 @@
     "pricing": "From $22/mo",
     "useCase": "Enterprise-grade AI video creation with customizable avatars. Ideal for training materials and corporate communications.",
     "rating": "Established",
-    "episodes": [12],
+    "episodes": [
+      12
+    ],
     "lastUpdated": "2026-01-21",
     "lastUpdatedDisplay": "Jan 21, 2026",
     "url": "https://synthesia.io"
@@ -148,7 +179,9 @@
     "pricing": "Free with Gemini",
     "useCase": "Generate native vertical (9:16) AI video for YouTube Shorts and social media directly within Google's ecosystem.",
     "rating": "New",
-    "episodes": [12],
+    "episodes": [
+      12
+    ],
     "lastUpdated": "2026-01-21",
     "lastUpdatedDisplay": "Jan 21, 2026",
     "url": "https://deepmind.google/veo"
@@ -159,9 +192,47 @@
     "pricing": "Self-serve",
     "useCase": "AI-powered Reddit ad automation with transparent optimization. Delivers 17% lower CPA than Google/Meta alternatives.",
     "rating": "New",
-    "episodes": [11],
+    "episodes": [
+      11
+    ],
     "lastUpdated": "2026-01-14",
     "lastUpdatedDisplay": "Jan 14, 2026",
     "url": "https://ads.reddit.com"
+  },
+  {
+    "name": "Perplexity Computer",
+    "category": "AI Agents",
+    "pricing": "$200/mo (Max subscribers)",
+    "useCase": "Describe a goal, walk away, and get a finished deliverable. Coordinates 19 AI models to complete entire marketing projects end-to-end \u2014 research, writing, design, and publishing.",
+    "rating": "New",
+    "episodes": [
+      18
+    ],
+    "lastUpdated": "Mar 4, 2026",
+    "url": "https://perplexity.ai"
+  },
+  {
+    "name": "Descript",
+    "category": "Video & Audio Editing",
+    "pricing": "Free / $24/mo Pro",
+    "useCase": "AI-powered video and podcast editor. Underlord assistant handles B-roll placement, filler word removal, and integrates Kling AI v3 and Sora 2 for generative video directly in the timeline.",
+    "rating": "Top Pick",
+    "episodes": [
+      18
+    ],
+    "lastUpdated": "Mar 4, 2026",
+    "url": "https://descript.com"
+  },
+  {
+    "name": "Pictory 2.0",
+    "category": "Video Generation",
+    "pricing": "From $25/mo",
+    "useCase": "Full AI video platform with avatars, generative video, interactive hosting, brand kits, Chrome extension, and PowerPoint plugin. Competes with HeyGen and Synthesia.",
+    "rating": "New",
+    "episodes": [
+      18
+    ],
+    "lastUpdated": "Mar 4, 2026",
+    "url": "https://pictory.ai"
   }
 ]

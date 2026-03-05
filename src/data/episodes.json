@@ -1,14 +1,44 @@
 [
   {
+    "id": "ep18",
+    "num": 18,
+    "title": "Perplexity's 19-Model AI Agent + Descript's Biggest Upgrade",
+    "date": "2026-03-04",
+    "dateDisplay": "Mar 4, 2026",
+    "duration": "10:00",
+    "description": "AI didn't assist with the work this week. It did the work. Perplexity's new 19-model agent, Descript's biggest AI upgrade ever, and Pictory's all-in-one platform launch \u2014 here's what it means for your content workflow.",
+    "tags": [
+      "Perplexity Computer",
+      "Descript AI",
+      "Pictory 2.0"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/3f7c569e-2a3a-4911-af64-f3ba2d3ca873.mp3"
+    }
+  },
+  {
     "id": "ep17",
     "num": 17,
-    "title": "Google Just Beat Claude & GPT-5 — At the Same Price",
+    "title": "Google Just Beat Claude & GPT-5 \u2014 At the Same Price",
     "date": "2026-02-19",
     "dateDisplay": "Feb 19, 2026",
     "duration": "12:00",
     "description": "Gemini 3.1 Pro doubles reasoning at zero extra cost. Canva now lives inside Claude & ChatGPT. Google Lyria 3 brings free custom music to Gemini.",
-    "tags": ["Gemini 3.1 Pro", "Canva AI", "Google Lyria 3"],
-    "isNew": true,
+    "tags": [
+      "Gemini 3.1 Pro",
+      "Canva AI",
+      "Google Lyria 3"
+    ],
+    "isNew": false,
     "stats": {
       "downloads": 2840,
       "uniqueListeners": 2210,
@@ -29,7 +59,11 @@
     "dateDisplay": "Feb 18, 2026",
     "duration": "11:00",
     "description": "Disney sent a cease-and-desist to ByteDance. OpenAI and Anthropic took their rivalry to the Super Bowl.",
-    "tags": ["Disney vs ByteDance", "GPT-5.3 Codex", "Claude Opus 4.6"],
+    "tags": [
+      "Disney vs ByteDance",
+      "GPT-5.3 Codex",
+      "Claude Opus 4.6"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 3450,
@@ -51,7 +85,11 @@
     "dateDisplay": "Feb 11, 2026",
     "duration": "12:00",
     "description": "Kling 3.0 is now the highest-rated AI video generator. ChatGPT launched ads. Seedance 2.0 might be the DeepSeek moment for AI video.",
-    "tags": ["Kling 3.0", "ChatGPT Ads", "Seedance 2.0"],
+    "tags": [
+      "Kling 3.0",
+      "ChatGPT Ads",
+      "Seedance 2.0"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 4120,
@@ -72,8 +110,12 @@
     "date": "2026-02-04",
     "dateDisplay": "Feb 4, 2026",
     "duration": "11:00",
-    "description": "AI crossed a line — it stopped being an assistant and became an agent. OpenClaw went viral with 116K GitHub stars.",
-    "tags": ["OpenClaw", "Apple Creator Studio", "PixVerse R1"],
+    "description": "AI crossed a line \u2014 it stopped being an assistant and became an agent. OpenClaw went viral with 116K GitHub stars.",
+    "tags": [
+      "OpenClaw",
+      "Apple Creator Studio",
+      "PixVerse R1"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 3780,
@@ -95,7 +137,11 @@
     "dateDisplay": "Jan 28, 2026",
     "duration": "10:00",
     "description": "Anthropic Claude launched Slack integration. ElevenLabs released the most expressive voice model yet.",
-    "tags": ["Claude Apps", "ElevenLabs v3", "Runway Gen-4.5"],
+    "tags": [
+      "Claude Apps",
+      "ElevenLabs v3",
+      "Runway Gen-4.5"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 3200,
@@ -117,7 +163,11 @@
     "dateDisplay": "Jan 21, 2026",
     "duration": "13:00",
     "description": "Google Veo 3.1 brings native 9:16 vertical AI video to YouTube Shorts. ChatGPT gets memory upgrades.",
-    "tags": ["Google Veo 3.1", "Synthesia", "ChatGPT Memory"],
+    "tags": [
+      "Google Veo 3.1",
+      "Synthesia",
+      "ChatGPT Memory"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 2950,
@@ -139,7 +189,11 @@
     "dateDisplay": "Jan 14, 2026",
     "duration": "12:00",
     "description": "Reddit's Max Campaigns bring transparent AI ad automation with 17% lower CPA.",
-    "tags": ["Reddit Ads", "Make.com", "AI Search"],
+    "tags": [
+      "Reddit Ads",
+      "Make.com",
+      "AI Search"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 3600,
@@ -161,7 +215,11 @@
     "dateDisplay": "Jan 7, 2026",
     "duration": "14:00",
     "description": "AI image generation solved brand consistency for 3 cents per image. NVIDIA's Digital Human blueprints from CES 2026.",
-    "tags": ["ElevenLabs", "Kling AI", "NVIDIA CES"],
+    "tags": [
+      "ElevenLabs",
+      "Kling AI",
+      "NVIDIA CES"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 5200,
@@ -183,7 +241,10 @@
     "dateDisplay": "Dec 31, 2025",
     "duration": "13:00",
     "description": "Google Gemini captured 18% of global AI traffic. ChatGPT is adding ads. DeepSeek offers frontier intelligence for 90% less.",
-    "tags": ["Google Gemini", "DeepSeek V3"],
+    "tags": [
+      "Google Gemini",
+      "DeepSeek V3"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 6100,
@@ -205,7 +266,10 @@
     "dateDisplay": "Dec 24, 2025",
     "duration": "13:00",
     "description": "OpenAI cut voice costs by 70%. Runway added native audio tools. Zapier introduced agent governance.",
-    "tags": ["OpenAI Voice", "Runway Audio"],
+    "tags": [
+      "OpenAI Voice",
+      "Runway Audio"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 3400,
@@ -227,7 +291,10 @@
     "dateDisplay": "Dec 17, 2025",
     "duration": "16:00",
     "description": "Disney invested $1B in OpenAI. GPT-5.2 launched in code red response to Gemini 3.",
-    "tags": ["Disney + OpenAI", "GPT-5.2"],
+    "tags": [
+      "Disney + OpenAI",
+      "GPT-5.2"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 7800,
@@ -249,7 +316,10 @@
     "dateDisplay": "Dec 10, 2025",
     "duration": "15:00",
     "description": "Runway Gen 4.5 claims #1 spot. OpenAI declares code red. Kling AI solves the audio problem.",
-    "tags": ["Runway Gen 4.5", "Kling AI 2.6"],
+    "tags": [
+      "Runway Gen 4.5",
+      "Kling AI 2.6"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 5600,
@@ -271,7 +341,11 @@
     "dateDisplay": "Dec 3, 2025",
     "duration": "12:00",
     "description": "Major price drops across AI tools. Claude, TikTok, and Google all shipped updates that matter for content marketers.",
-    "tags": ["Claude AI", "TikTok AI", "Google Updates"],
+    "tags": [
+      "Claude AI",
+      "TikTok AI",
+      "Google Updates"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 2100,
@@ -288,12 +362,15 @@
   {
     "id": "ep4",
     "num": 4,
-    "title": "Google's Biggest AI Drop Yet — What It Means for Content Creators",
+    "title": "Google's Biggest AI Drop Yet \u2014 What It Means for Content Creators",
     "date": "2025-11-26",
     "dateDisplay": "Nov 26, 2025",
     "duration": "11:00",
     "description": "Google released its biggest AI update yet. We break down what it means for content creators and small business marketers.",
-    "tags": ["Google AI", "Content Creators"],
+    "tags": [
+      "Google AI",
+      "Content Creators"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 1800,
@@ -315,7 +392,10 @@
     "dateDisplay": "Nov 19, 2025",
     "duration": "11:00",
     "description": "ChatGPT 5.1 introduces personality presets for different use cases. Canva launches 3D design capabilities.",
-    "tags": ["ChatGPT 5.1", "Canva 3D"],
+    "tags": [
+      "ChatGPT 5.1",
+      "Canva 3D"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 1500,
@@ -337,7 +417,10 @@
     "dateDisplay": "Nov 12, 2025",
     "duration": "10:00",
     "description": "OpenAI's Sora arrives on Android. TikTok rolls out free AI tools for creators and small businesses.",
-    "tags": ["Sora", "TikTok AI"],
+    "tags": [
+      "Sora",
+      "TikTok AI"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 1200,
@@ -354,12 +437,16 @@
   {
     "id": "ep1",
     "num": 1,
-    "title": "Announcements — Canva, Sora, NotebookLM",
+    "title": "Announcements \u2014 Canva, Sora, NotebookLM",
     "date": "2025-11-07",
     "dateDisplay": "Nov 7, 2025",
     "duration": "10:00",
     "description": "The debut episode of Market Intel. We cover major announcements from Canva, OpenAI's Sora, and Google's NotebookLM.",
-    "tags": ["Canva", "Sora", "NotebookLM"],
+    "tags": [
+      "Canva",
+      "Sora",
+      "NotebookLM"
+    ],
     "isNew": false,
     "stats": {
       "downloads": 980,

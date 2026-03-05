@@ -3,112 +3,173 @@
     "term": "Agentic AI",
     "definition": "AI systems that can autonomously take actions, make decisions, and complete multi-step tasks without human intervention at each step. Moves beyond chat-based assistants to agents that browse, code, and execute workflows.",
     "category": "Concepts",
-    "episodes": [17, 14],
+    "episodes": [
+      17,
+      14,
+      18
+    ],
     "letter": "A"
   },
   {
     "term": "AI Avatar",
     "definition": "A digital representation of a person powered by AI, often combining voice cloning and video synthesis to create realistic virtual presenters. Used in content creation to maintain consistent delivery.",
     "category": "Content Creation",
-    "episodes": [13, 10],
+    "episodes": [
+      13,
+      10
+    ],
     "letter": "A"
   },
   {
     "term": "Cease-and-Desist (AI Context)",
     "definition": "Legal action taken against AI companies for unauthorized use of copyrighted content in training data or generated outputs. Increasingly common as media companies challenge AI video and image generators.",
     "category": "Legal",
-    "episodes": [16],
+    "episodes": [
+      16
+    ],
     "letter": "C"
   },
   {
     "term": "CPA (Cost Per Acquisition)",
     "definition": "The average cost to acquire one customer through advertising. A key metric for measuring ad campaign efficiency. Lower CPA means more efficient ad spend.",
     "category": "Marketing",
-    "episodes": [11],
+    "episodes": [
+      11
+    ],
     "letter": "C"
   },
   {
     "term": "CPM (Cost Per Mille)",
     "definition": "The cost an advertiser pays per 1,000 ad impressions. Standard podcast advertising metric, typically $25-50 for business/tech podcasts.",
     "category": "Marketing",
-    "episodes": [15, 11],
+    "episodes": [
+      15,
+      11
+    ],
     "letter": "C"
   },
   {
     "term": "DeepSeek",
     "definition": "Chinese AI lab offering frontier-level AI models at roughly 90% less cost than Western competitors. Disrupted the market by proving high-quality AI doesn't require massive budgets.",
     "category": "Companies",
-    "episodes": [9, 15],
+    "episodes": [
+      9,
+      15
+    ],
     "letter": "D"
   },
   {
     "term": "Diffusion Model",
     "definition": "The AI architecture behind most image and video generators. Works by learning to remove noise from random static, gradually revealing coherent images. Powers tools like DALL-E, Midjourney, and Runway.",
     "category": "Technical",
-    "episodes": [15, 6],
+    "episodes": [
+      15,
+      6
+    ],
     "letter": "D"
   },
   {
     "term": "Dynamic Ad Insertion",
     "definition": "Technology that stitches audio advertisements into podcast episodes in real-time as they're downloaded or streamed, allowing different listeners to hear different ads and enabling ads to be updated after publication.",
     "category": "Podcasting",
-    "episodes": [11],
+    "episodes": [
+      11
+    ],
     "letter": "D"
   },
   {
     "term": "Fine-tuning",
     "definition": "The process of taking a pre-trained AI model and further training it on specialized data to improve performance for specific tasks. Like teaching a general-purpose assistant to become an expert in your industry.",
     "category": "Technical",
-    "episodes": [9, 7],
+    "episodes": [
+      9,
+      7
+    ],
     "letter": "F"
   },
   {
     "term": "Frontier Model",
     "definition": "The most capable and advanced AI models available at any given time. Currently includes GPT-5.x, Claude Opus, and Gemini 3.x. These push the boundaries of what AI can accomplish.",
     "category": "Concepts",
-    "episodes": [16, 9, 7],
+    "episodes": [
+      16,
+      9,
+      7
+    ],
     "letter": "F"
   },
   {
     "term": "LLM (Large Language Model)",
     "definition": "The core AI technology behind chatbots like ChatGPT, Claude, and Gemini. Trained on vast text data to understand and generate human-like language. The foundation of most modern AI tools.",
     "category": "Technical",
-    "episodes": [17, 16, 9, 7],
+    "episodes": [
+      17,
+      16,
+      9,
+      7
+    ],
     "letter": "L"
   },
   {
     "term": "Multimodal",
-    "definition": "AI models that can process and generate multiple types of content — text, images, audio, and video — within a single system. The trend driving convergence of AI tools.",
+    "definition": "AI models that can process and generate multiple types of content \u2014 text, images, audio, and video \u2014 within a single system. The trend driving convergence of AI tools.",
     "category": "Technical",
-    "episodes": [17, 15, 12],
+    "episodes": [
+      17,
+      15,
+      12
+    ],
     "letter": "M"
   },
   {
     "term": "Prompt Engineering",
     "definition": "The skill of crafting effective instructions for AI models to get optimal outputs. Involves techniques like providing context, examples, and specific formatting requirements.",
     "category": "Skills",
-    "episodes": [17, 13],
+    "episodes": [
+      17,
+      13
+    ],
     "letter": "P"
   },
   {
     "term": "RAG (Retrieval-Augmented Generation)",
     "definition": "A technique where AI models pull relevant information from a knowledge base before generating responses. Reduces hallucinations and keeps AI answers grounded in real, current data.",
     "category": "Technical",
-    "episodes": [14, 13],
+    "episodes": [
+      14,
+      13
+    ],
     "letter": "R"
   },
   {
     "term": "Text-to-Video",
     "definition": "AI technology that generates video clips from written descriptions. Rapidly evolving space with tools like Runway, Kling, Sora, and Seedance competing for the top spot.",
     "category": "Content Creation",
-    "episodes": [15, 12, 6],
+    "episodes": [
+      15,
+      12,
+      6
+    ],
     "letter": "T"
   },
   {
     "term": "Voice Cloning",
     "definition": "AI technology that replicates a specific person's voice from audio samples, enabling synthetic speech that sounds like the original speaker. Used in podcasting, dubbing, and accessibility.",
     "category": "Content Creation",
-    "episodes": [13, 10, 8],
+    "episodes": [
+      13,
+      10,
+      8
+    ],
     "letter": "V"
+  },
+  {
+    "term": "Multi-Model Orchestration",
+    "definition": "An approach where a single AI system coordinates multiple frontier models (like Claude, GPT, Gemini, Grok) simultaneously, routing each subtask to the best-suited model. Perplexity Computer uses this to complete entire projects from a single prompt.",
+    "category": "Concepts",
+    "episodes": [
+      18
+    ],
+    "letter": "M"
   }
 ]
