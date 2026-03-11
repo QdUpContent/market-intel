@@ -1,7 +1,9 @@
+import { useState } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import { useTheme, FONT_BODY, FONT_MONO } from "../theme";
 import { usePlayer } from "../components/AudioPlayer";
 import { Card, Tag, EpBadge } from "../components/UI";
+import KnowledgePopup from "../components/KnowledgePopup";
 import EPISODES from "../data/episodes.json";
 import SHOW_NOTES from "../data/showNotes.json";
 import GLOSSARY from "../data/glossary.json";
@@ -14,6 +16,7 @@ export default function EpisodePage() {
   const { episodeId } = useParams();
   const navigate = useNavigate();
   const { play, currentEp, isPlaying, pause, resume, seekTo } = usePlayer();
+  const [popup, setPopup] = useState(null);
 
   const ep = EPISODES.find((e) => e.id === episodeId);
   if (!ep) {
@@ -528,7 +531,7 @@ export default function EpisodePage() {
                 {relatedGlossary.map((g) => (
                   <Card
                     key={g.term}
-                    onClick={() => navigate("/glossary")}
+                    onClick={() => setPopup({ item: g, type: "glossary" })}
                     style={{ padding: "12px 14px", cursor: "pointer" }}
                   >
                     <div
@@ -587,7 +590,7 @@ export default function EpisodePage() {
                 {relatedPlatforms.map((p) => (
                   <Card
                     key={p.slug}
-                    onClick={() => navigate("/platforms")}
+                    onClick={() => setPopup({ item: p, type: "platform" })}
                     style={{
                       padding: "10px 14px",
                       cursor: "pointer",
@@ -645,7 +648,7 @@ export default function EpisodePage() {
                 {relatedTools.map((tl) => (
                   <Card
                     key={tl.name}
-                    onClick={() => navigate("/tools")}
+                    onClick={() => setPopup({ item: tl, type: "tool" })}
                     style={{
                       padding: "10px 14px",
                       cursor: "pointer",
@@ -787,6 +790,14 @@ export default function EpisodePage() {
           <div style={{ flex: 1 }} />
         )}
       </div>
+
+      {popup && (
+        <KnowledgePopup
+          item={popup.item}
+          type={popup.type}
+          onClose={() => setPopup(null)}
+        />
+      )}
     </div>
   );
 }

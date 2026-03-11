@@ -5,6 +5,7 @@ import { SHOW } from "../data/show";
 import Logo from "./Logo";
 import ThemeToggle from "./ThemeToggle";
 import SearchOverlay from "./SearchOverlay";
+import KnowledgePopup from "./KnowledgePopup";
 
 const navItems = [
   { to: "/episodes", label: "Episodes" },
@@ -18,6 +19,7 @@ export default function Layout() {
   const navigate = useNavigate();
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const [popup, setPopup] = useState(null);
 
   return (
     <div
@@ -54,6 +56,20 @@ export default function Layout() {
             setSearchQuery("");
           }}
           onNavigate={(path) => navigate(path)}
+          onPopup={(item, type) => {
+            setSearchOpen(false);
+            setSearchQuery("");
+            setPopup({ item, type });
+          }}
+        />
+      )}
+
+      {/* Knowledge popup */}
+      {popup && (
+        <KnowledgePopup
+          item={popup.item}
+          type={popup.type}
+          onClose={() => setPopup(null)}
         />
       )}
 

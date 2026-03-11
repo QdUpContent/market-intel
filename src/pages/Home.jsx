@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { useNavigate, Link } from "react-router-dom";
 import { useTheme, FONT_BODY, FONT_MONO } from "../theme";
 import { SHOW } from "../data/show";
@@ -7,12 +8,14 @@ import PLATFORMS from "../data/platforms.json";
 import TOOLS from "../data/tools.json";
 import Logo from "../components/Logo";
 import { Card } from "../components/UI";
+import KnowledgePopup from "../components/KnowledgePopup";
 import { usePlayer } from "../components/AudioPlayer";
 
 export default function Home() {
   const { t, mode } = useTheme();
   const navigate = useNavigate();
   const { currentEp, isPlaying, play, pause, resume } = usePlayer();
+  const [popup, setPopup] = useState(null);
   const latestEp = EPISODES[0];
 
   const handlePlayLatest = () => {
@@ -430,7 +433,7 @@ export default function Home() {
           {GLOSSARY.slice(0, 4).map((g) => (
             <Card
               key={g.term}
-              onClick={() => navigate("/glossary")}
+              onClick={() => setPopup({ item: g, type: "glossary" })}
               style={{ padding: "14px 16px" }}
             >
               <div
@@ -555,6 +558,14 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {popup && (
+        <KnowledgePopup
+          item={popup.item}
+          type={popup.type}
+          onClose={() => setPopup(null)}
+        />
+      )}
     </>
   );
 }

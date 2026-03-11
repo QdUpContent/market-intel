@@ -2,7 +2,7 @@ import { useTheme, FONT_BODY, FONT_MONO } from "../theme";
 import { useSearch } from "../hooks/useSearch";
 import { StatusDot } from "./UI";
 
-export default function SearchOverlay({ query, setQuery, onClose, onNavigate }) {
+export default function SearchOverlay({ query, setQuery, onClose, onNavigate, onPopup }) {
   const { t } = useTheme();
   const results = useSearch(query);
   const total =
@@ -202,8 +202,8 @@ export default function SearchOverlay({ query, setQuery, onClose, onNavigate }) 
                   <div
                     key={g.term}
                     onClick={() => {
-                      onNavigate("/glossary");
-                      onClose();
+                      if (onPopup) onPopup(g, "glossary");
+                      else { onNavigate("/glossary"); onClose(); }
                     }}
                     style={{
                       padding: "8px 10px",
@@ -248,8 +248,8 @@ export default function SearchOverlay({ query, setQuery, onClose, onNavigate }) 
                   <div
                     key={p.slug}
                     onClick={() => {
-                      onNavigate("/platforms");
-                      onClose();
+                      if (onPopup) onPopup(p, "platform");
+                      else { onNavigate("/platforms"); onClose(); }
                     }}
                     style={{
                       padding: "8px 10px",
@@ -288,8 +288,8 @@ export default function SearchOverlay({ query, setQuery, onClose, onNavigate }) 
                   <div
                     key={tl.name}
                     onClick={() => {
-                      onNavigate("/tools");
-                      onClose();
+                      if (onPopup) onPopup(tl, "tool");
+                      else { onNavigate("/tools"); onClose(); }
                     }}
                     style={{
                       padding: "8px 10px",
