@@ -35,10 +35,11 @@
       12,
       9,
       8,
-      7
+      7,
+      19
     ],
-    "lastMentioned": "2026-02-19",
-    "lastMentionedDisplay": "Feb 19, 2026",
+    "lastMentioned": "2026-03-05",
+    "lastMentionedDisplay": "Mar 5, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -56,10 +57,11 @@
     "episodes": [
       17,
       16,
-      13
+      13,
+      19
     ],
-    "lastMentioned": "2026-02-19",
-    "lastMentionedDisplay": "Feb 19, 2026",
+    "lastMentioned": "2026-03-05",
+    "lastMentionedDisplay": "Mar 5, 2026",
     "tags": [
       "LLM",
       "Reasoning",
@@ -156,10 +158,11 @@
     "status": "Major Player",
     "url": "https://canva.com",
     "episodes": [
-      17
+      17,
+      19
     ],
-    "lastMentioned": "2026-02-19",
-    "lastMentionedDisplay": "Feb 19, 2026",
+    "lastMentioned": "2026-03-05",
+    "lastMentionedDisplay": "Mar 5, 2026",
     "tags": [
       "Design",
       "Templates",
@@ -254,12 +257,13 @@
     "episodes": [
       18
     ],
-    "lastMentioned": "Mar 4, 2026",
+    "lastMentioned": "2026-03-04",
     "tags": [
       "AI Search",
       "Agents",
       "Multi-model"
-    ]
+    ],
+    "lastMentionedDisplay": "Mar 4, 2026"
   },
   {
     "name": "Descript",
@@ -272,13 +276,14 @@
     "episodes": [
       18
     ],
-    "lastMentioned": "Mar 4, 2026",
+    "lastMentioned": "2026-03-04",
     "tags": [
       "Video",
       "Audio",
       "Editing",
       "AI Assistant"
-    ]
+    ],
+    "lastMentionedDisplay": "Mar 4, 2026"
   },
   {
     "name": "Pictory",
@@ -291,11 +296,12 @@
     "episodes": [
       18
     ],
-    "lastMentioned": "Mar 4, 2026",
+    "lastMentioned": "2026-03-04",
     "tags": [
       "Video",
       "Avatars",
       "Brand Kits"
-    ]
+    ],
+    "lastMentionedDisplay": "Mar 4, 2026"
   }
 ]

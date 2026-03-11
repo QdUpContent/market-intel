@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep19",
+    "num": 19,
+    "title": "OpenAI Launched Two Models in 72 Hours \u2014 Here's What Actually Matters",
+    "date": "2026-03-05",
+    "dateDisplay": "Mar 5, 2026",
+    "duration": "9:00",
+    "description": "OpenAI's back-to-back releases of GPT-5.3 Instant and GPT-5.4 came amid a 295% ChatGPT uninstall spike following a Pentagon contract controversy. Plus: Canva gets video and Claude goes free.",
+    "tags": [
+      "GPT-5.4",
+      "Canva AI Video",
+      "Claude Memory"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/e9405452-7b82-4e90-b445-1272f0e9e0ec.mp3"
+    }
+  },
+  {
     "id": "ep18",
     "num": 18,
     "title": "Perplexity's 19-Model AI Agent + Descript's Biggest Upgrade",
@@ -12,7 +38,7 @@
       "Descript AI",
       "Pictory 2.0"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

@@ -1063,5 +1063,86 @@
         "source": "Trustpilot"
       }
     ]
+  },
+  "ep19": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Hook: Two models. 72 hours. One Pentagon controversy."
+      },
+      {
+        "time": "0:30",
+        "seconds": 30,
+        "label": "Intro & AI transparency note"
+      },
+      {
+        "time": "1:00",
+        "seconds": 60,
+        "label": "Episode preview: 3 stories this week"
+      },
+      {
+        "time": "1:30",
+        "seconds": 90,
+        "label": "Story 1: OpenAI GPT-5.3 Instant & GPT-5.4 \u2014 what changed, who it's for, what's overhyped"
+      },
+      {
+        "time": "4:00",
+        "seconds": 240,
+        "label": "Story 2: Canva AI image-to-video, Magic SEO & AI connectors"
+      },
+      {
+        "time": "6:00",
+        "seconds": 360,
+        "label": "Story 3: Claude memory goes free + competitor import tool + user surge"
+      },
+      {
+        "time": "7:30",
+        "seconds": 450,
+        "label": "Quick Hits: ElevenLabs, Descript, Sora 1 sunset, Typeface, Reddit Max Campaigns"
+      },
+      {
+        "time": "8:15",
+        "seconds": 495,
+        "label": "Recap & the bigger theme connecting all three stories"
+      }
+    ],
+    "sources": [
+      {
+        "title": "GPT-5.4 Official Release",
+        "url": "https://openai.com/index/introducing-gpt-5-4/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "GPT-5.4 Marketer Guide",
+        "url": "https://www.truefuturemedia.com/articles/gpt-5-4-for-marketers",
+        "source": "TrueFuture Media"
+      },
+      {
+        "title": "Wade Foster / Zapier on GPT-5.4",
+        "url": "https://www.linkedin.com/posts/zapier_gpt-54-just-dropped-our-ceo-wade-tested-activity-7435393286946660352--Lm8/",
+        "source": "LinkedIn / Zapier"
+      },
+      {
+        "title": "New Canva Features March 2026",
+        "url": "https://www.youtube.com/watch?v=10U_1dE7rI4",
+        "source": "Natalia Kalinska (YouTube)"
+      },
+      {
+        "title": "Anthropic Claude Release Notes",
+        "url": "https://releasebot.io/updates/anthropic/claude",
+        "source": "ReleaseBot"
+      },
+      {
+        "title": "Claude Rises to #1 in App Store",
+        "url": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Descript Media Library Update",
+        "url": "https://www.youtube.com/watch?v=mutj7DZe_X4",
+        "source": "Descript (YouTube)"
+      }
+    ]
   }
 }

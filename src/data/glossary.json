@@ -1,16 +1,5 @@
 [
   {
-    "term": "Agentic AI",
-    "definition": "AI systems that can autonomously take actions, make decisions, and complete multi-step tasks without human intervention at each step. Moves beyond chat-based assistants to agents that browse, code, and execute workflows.",
-    "category": "Concepts",
-    "episodes": [
-      17,
-      14,
-      18
-    ],
-    "letter": "A"
-  },
-  {
     "term": "AI Avatar",
     "definition": "A digital representation of a person powered by AI, often combining voice cloning and video synthesis to create realistic virtual presenters. Used in content creation to maintain consistent delivery.",
     "category": "Content Creation",
@@ -21,13 +10,15 @@
     "letter": "A"
   },
   {
-    "term": "Cease-and-Desist (AI Context)",
-    "definition": "Legal action taken against AI companies for unauthorized use of copyrighted content in training data or generated outputs. Increasingly common as media companies challenge AI video and image generators.",
-    "category": "Legal",
+    "term": "Agentic AI",
+    "definition": "AI systems that can autonomously take actions, make decisions, and complete multi-step tasks without human intervention at each step. Moves beyond chat-based assistants to agents that browse, code, and execute workflows.",
+    "category": "Concepts",
     "episodes": [
-      16
+      17,
+      14,
+      18
     ],
-    "letter": "C"
+    "letter": "A"
   },
   {
     "term": "CPA (Cost Per Acquisition)",
@@ -45,6 +36,24 @@
     "episodes": [
       15,
       11
+    ],
+    "letter": "C"
+  },
+  {
+    "term": "Cease-and-Desist (AI Context)",
+    "definition": "Legal action taken against AI companies for unauthorized use of copyrighted content in training data or generated outputs. Increasingly common as media companies challenge AI video and image generators.",
+    "category": "Legal",
+    "episodes": [
+      16
+    ],
+    "letter": "C"
+  },
+  {
+    "term": "Context Window",
+    "definition": "The maximum amount of text an AI model can process in a single conversation, measured in tokens. GPT-5.4's 1M token context window means it can analyze roughly 750,000 words at once \u2014 equivalent to several full-length books.",
+    "category": "Technical",
+    "episodes": [
+      19
     ],
     "letter": "C"
   },
@@ -94,7 +103,8 @@
     "episodes": [
       16,
       9,
-      7
+      7,
+      19
     ],
     "letter": "F"
   },
@@ -106,9 +116,19 @@
       17,
       16,
       9,
-      7
+      7,
+      19
     ],
     "letter": "L"
+  },
+  {
+    "term": "Multi-Model Orchestration",
+    "definition": "An approach where a single AI system coordinates multiple frontier models (like Claude, GPT, Gemini, Grok) simultaneously, routing each subtask to the best-suited model. Perplexity Computer uses this to complete entire projects from a single prompt.",
+    "category": "Concepts",
+    "episodes": [
+      18
+    ],
+    "letter": "M"
   },
   {
     "term": "Multimodal",
@@ -162,14 +182,5 @@
       8
     ],
     "letter": "V"
-  },
-  {
-    "term": "Multi-Model Orchestration",
-    "definition": "An approach where a single AI system coordinates multiple frontier models (like Claude, GPT, Gemini, Grok) simultaneously, routing each subtask to the best-suited model. Perplexity Computer uses this to complete entire projects from a single prompt.",
-    "category": "Concepts",
-    "episodes": [
-      18
-    ],
-    "letter": "M"
   }
 ]
