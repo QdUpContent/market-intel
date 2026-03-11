@@ -66,9 +66,9 @@ export function useTheme() {
 export function ThemeProvider({ children }) {
   const [mode, setMode] = useState(() => {
     if (typeof window !== "undefined") {
-      return localStorage.getItem("mi-theme") || "dark";
+      return localStorage.getItem("mi-theme") || "light";
     }
-    return "dark";
+    return "light";
   });
 
   const toggle = () =>
