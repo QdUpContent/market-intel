@@ -7,34 +7,29 @@
         "label": "Hook: Google outperforms Claude & GPT-5 at the same price"
       },
       {
-        "time": "0:45",
-        "seconds": 45,
-        "label": "Host Intro & Week Preview"
-      },
-      {
-        "time": "1:30",
-        "seconds": 90,
+        "time": "1:00",
+        "seconds": 60,
         "label": "Story 1: Google Gemini 3.1 Pro \u2014 Smarter AI, No Price Increase"
       },
       {
-        "time": "4:30",
-        "seconds": 270,
+        "time": "4:18",
+        "seconds": 258,
         "label": "Story 2: Canva Inside Claude & ChatGPT \u2014 Brand Design from Chat"
       },
       {
-        "time": "7:00",
-        "seconds": 420,
+        "time": "6:48",
+        "seconds": 408,
         "label": "Story 3: Google Lyria 3 \u2014 Free AI Music in Gemini"
       },
       {
-        "time": "8:45",
-        "seconds": 525,
+        "time": "9:14",
+        "seconds": 554,
         "label": "Quick Hits (5 stories, rapid-fire)"
       },
       {
-        "time": "9:45",
-        "seconds": 585,
-        "label": "Recap & What We're Watching Next Week"
+        "time": "10:53",
+        "seconds": 653,
+        "label": "Recap"
       }
     ],
     "sources": [
@@ -70,31 +65,31 @@
       {
         "time": "0:00",
         "seconds": 0,
-        "label": "Cold Open: Disney vs ByteDance"
+        "label": "Open & Intro"
       },
       {
-        "time": "0:45",
-        "seconds": 45,
+        "time": "1:19",
+        "seconds": 79,
         "label": "Story #1: AI Video Arms Race & Copyright Crisis"
       },
       {
-        "time": "3:30",
-        "seconds": 210,
+        "time": "4:20",
+        "seconds": 260,
         "label": "Story #2: GPT-5.3 Codex vs Claude Opus 4.6"
-      },
-      {
-        "time": "6:15",
-        "seconds": 375,
-        "label": "Story #3: LinkedIn Premium All-in-One Launch"
       },
       {
         "time": "7:30",
         "seconds": 450,
+        "label": "Story #3: LinkedIn Premium All-in-One Launch"
+      },
+      {
+        "time": "8:54",
+        "seconds": 534,
         "label": "Quick Hits: ChatGPT, Canva, HeyGen, Mozart AI"
       },
       {
-        "time": "8:15",
-        "seconds": 495,
+        "time": "9:50",
+        "seconds": 590,
         "label": "Recap & Next Week Preview"
       }
     ],
@@ -134,39 +129,34 @@
         "label": "Cold Open: 3 AI Video Generators Leapfrog Each Other"
       },
       {
-        "time": "0:20",
-        "seconds": 20,
+        "time": "0:26",
+        "seconds": 26,
         "label": "Intro & Transparency Disclaimer"
       },
       {
-        "time": "1:00",
-        "seconds": 60,
+        "time": "1:26",
+        "seconds": 86,
         "label": "Story #1: Kling 3.0 Becomes Top-Rated AI Video Generator"
       },
       {
-        "time": "3:30",
-        "seconds": 210,
+        "time": "4:10",
+        "seconds": 250,
         "label": "Story #2: ChatGPT Ads Launch + Anthropic's Super Bowl Response"
       },
       {
-        "time": "5:45",
-        "seconds": 345,
-        "label": "Story #3: ByteDance's Seedance 2.0 \u2014 The New DeepSeek Moment"
+        "time": "7:02",
+        "seconds": 422,
+        "label": "Story #3: ByteDance's Seedance 2.0 - The New \"DeepSeek Moment\""
       },
       {
-        "time": "7:30",
-        "seconds": 450,
+        "time": "9:39",
+        "seconds": 579,
         "label": "Quick Hits: Claude Opus 4.6, HeyGen Credits, AI in Super Bowl Ads"
       },
       {
-        "time": "8:15",
-        "seconds": 495,
+        "time": "10:56",
+        "seconds": 656,
         "label": "Wrap-Up: What This Means for Content Creators"
-      },
-      {
-        "time": "9:00",
-        "seconds": 540,
-        "label": "Next Week Preview"
       }
     ],
     "sources": [
@@ -202,36 +192,31 @@
       {
         "time": "0:00",
         "seconds": 0,
-        "label": "Hook: AI Crossed the Line This Week"
+        "label": "Opening & Introductions"
       },
       {
-        "time": "0:30",
-        "seconds": 30,
-        "label": "Intro & AI Disclosure"
-      },
-      {
-        "time": "1:30",
-        "seconds": 90,
+        "time": "2:12",
+        "seconds": 132,
         "label": "Story #1: OpenClaw AI Agent (Security Warning)"
       },
       {
-        "time": "4:00",
-        "seconds": 240,
+        "time": "5:08",
+        "seconds": 308,
         "label": "Story #2: Apple Creator Studio ($13/Month vs Adobe)"
-      },
-      {
-        "time": "6:00",
-        "seconds": 360,
-        "label": "Story #3: PixVerse R1 (Real-Time AI Video)"
       },
       {
         "time": "7:30",
         "seconds": 450,
+        "label": "Story #3: PixVerse R1 (Real-Time AI Video)"
+      },
+      {
+        "time": "9:36",
+        "seconds": 576,
         "label": "Quick Hits"
       },
       {
-        "time": "8:10",
-        "seconds": 490,
+        "time": "10:17",
+        "seconds": 617,
         "label": "Recap & Next Week Preview"
       }
     ],
@@ -258,32 +243,27 @@
       {
         "time": "0:00",
         "seconds": 0,
-        "label": "Intro & Week Overview"
+        "label": "Introduction: AI Content Marketing News January 2026"
       },
       {
-        "time": "0:25",
-        "seconds": 25,
-        "label": "Story #1: Anthropic Claude App Integrations"
+        "time": "1:00",
+        "seconds": 60,
+        "label": "Claude AI Slack Integration Review (Canva, Figma, Box Apps)"
       },
       {
-        "time": "2:00",
-        "seconds": 120,
-        "label": "Story #2: ElevenLabs 11.ai + Eleven v3 Voice Model"
+        "time": "3:36",
+        "seconds": 216,
+        "label": "ElevenLabs Voice Cloning Tutorial: Eleven v3 + 11.ai Features"
       },
       {
-        "time": "3:35",
-        "seconds": 215,
-        "label": "Story #3: Runway Gen-4.5 Video Generation"
+        "time": "5:51",
+        "seconds": 351,
+        "label": "Runway Gen-4.5 AI Video Generator Pricing & Review"
       },
       {
-        "time": "5:10",
-        "seconds": 310,
-        "label": "Quick Hits: Perplexity, Meta, Instagram, Google"
-      },
-      {
-        "time": "5:50",
-        "seconds": 350,
-        "label": "Recap & Next Week Preview"
+        "time": "9:37",
+        "seconds": 577,
+        "label": "AI Marketing Tools Recap & Budget Recommendations"
       }
     ],
     "sources": [
@@ -322,28 +302,28 @@
         "label": "Intro"
       },
       {
-        "time": "0:25",
-        "seconds": 25,
-        "label": "Google Veo 3.1: Native Vertical AI Video"
+        "time": "0:57",
+        "seconds": 57,
+        "label": "Google Veo 3.1: Vertical AI Video for YouTube Shorts, TikTok & Instagram Reels"
       },
       {
-        "time": "2:15",
-        "seconds": 135,
-        "label": "Synthesia: Voice Speed & Speech Regeneration"
+        "time": "4:29",
+        "seconds": 269,
+        "label": "Synthesia AI Avatars: Voice Speed Controls & Speech Regeneration for SMBs"
       },
       {
-        "time": "3:45",
-        "seconds": 225,
-        "label": "ChatGPT: Memory & Dictation Upgrades"
+        "time": "8:02",
+        "seconds": 482,
+        "label": "ChatGPT Memory Upgrade: Better Context Recall & Voice Dictation for Content Teams"
       },
       {
-        "time": "5:15",
-        "seconds": 315,
-        "label": "Quick Hits"
+        "time": "11:58",
+        "seconds": 718,
+        "label": "Quick Hits: This Week's AI Tool Updates"
       },
       {
-        "time": "5:55",
-        "seconds": 355,
+        "time": "12:33",
+        "seconds": 753,
         "label": "Recap & Next Week"
       }
     ],
@@ -373,28 +353,28 @@
         "label": "Cold Open: Reddit Takes On Google & Meta"
       },
       {
-        "time": "0:30",
-        "seconds": 30,
+        "time": "0:47",
+        "seconds": 47,
         "label": "Story #1: Reddit Max Campaigns Explained"
       },
       {
-        "time": "3:05",
-        "seconds": 185,
+        "time": "4:15",
+        "seconds": 255,
         "label": "Story #2: Make.com Crowned Best AI Automation"
       },
       {
-        "time": "5:05",
-        "seconds": 305,
+        "time": "7:21",
+        "seconds": 441,
         "label": "Story #3: AI Search Visibility for SMBs"
       },
       {
-        "time": "7:05",
-        "seconds": 425,
+        "time": "10:10",
+        "seconds": 610,
         "label": "Quick Hits: Notion, LinkedIn, HeyGen"
       },
       {
-        "time": "8:20",
-        "seconds": 500,
+        "time": "11:15",
+        "seconds": 675,
         "label": "Recap & Next Week Preview"
       }
     ],
@@ -424,28 +404,28 @@
         "label": "Hook: Brand Consistency Breakthrough"
       },
       {
-        "time": "0:30",
-        "seconds": 30,
+        "time": "1:02",
+        "seconds": 62,
         "label": "Story #1: Kling AI Image O1 Model (Character Consistency)"
       },
       {
-        "time": "3:25",
-        "seconds": 205,
-        "label": "Story #2: NVIDIA's Digital Human Blueprints from CES 2026"
+        "time": "4:46",
+        "seconds": 286,
+        "label": "Story #2: NVIDIA's Digital Human Blueprints: Interactive AI Avatars That Perceive and Respond"
       },
       {
         "time": "6:15",
         "seconds": 375,
-        "label": "Story #3: ElevenLabs \u2014 McConaughey, $33M NYC, Multimodal Platform"
+        "label": "Story #3: ElevenLabs Expansion: Matthew McConaughey, $33M NYC Investment & Multimodal Platform"
       },
       {
-        "time": "8:45",
-        "seconds": 525,
+        "time": "8:39",
+        "seconds": 519,
         "label": "Quick Hits: CES 2026 Highlights"
       },
       {
-        "time": "9:25",
-        "seconds": 565,
+        "time": "14:00",
+        "seconds": 840,
         "label": "Recap & Next Week Preview"
       }
     ],
@@ -744,29 +724,24 @@
         "label": "Cold Open"
       },
       {
-        "time": "0:25",
-        "seconds": 25,
+        "time": "0:55",
+        "seconds": 55,
         "label": "Claude Opus 4.5: 67% Cheaper"
       },
       {
-        "time": "2:15",
-        "seconds": 135,
+        "time": "4:18",
+        "seconds": 258,
         "label": "TikTok's AI Controls + Watermarks"
       },
       {
-        "time": "3:45",
-        "seconds": 225,
+        "time": "6:50",
+        "seconds": 410,
         "label": "Google Veo 3 Price Cuts"
       },
       {
-        "time": "5:15",
-        "seconds": 315,
+        "time": "9:22",
+        "seconds": 562,
         "label": "Quick Hits: Perplexity + Instagram AI"
-      },
-      {
-        "time": "5:55",
-        "seconds": 355,
-        "label": "Closing & Weekly Takeaways"
       }
     ],
     "sources": []
@@ -1082,28 +1057,28 @@
         "label": "Episode preview: 3 stories this week"
       },
       {
-        "time": "1:30",
-        "seconds": 90,
+        "time": "1:20",
+        "seconds": 80,
         "label": "Story 1: OpenAI GPT-5.3 Instant & GPT-5.4 \u2014 what changed, who it's for, what's overhyped"
       },
       {
-        "time": "4:00",
-        "seconds": 240,
+        "time": "4:26",
+        "seconds": 266,
         "label": "Story 2: Canva AI image-to-video, Magic SEO & AI connectors"
       },
       {
-        "time": "6:00",
-        "seconds": 360,
+        "time": "6:45",
+        "seconds": 405,
         "label": "Story 3: Claude memory goes free + competitor import tool + user surge"
       },
       {
-        "time": "7:30",
-        "seconds": 450,
+        "time": "9:12",
+        "seconds": 552,
         "label": "Quick Hits: ElevenLabs, Descript, Sora 1 sunset, Typeface, Reddit Max Campaigns"
       },
       {
-        "time": "8:15",
-        "seconds": 495,
+        "time": "10:25",
+        "seconds": 625,
         "label": "Recap & the bigger theme connecting all three stories"
       }
     ],
