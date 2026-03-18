@@ -251,5 +251,44 @@
     "lastUpdated": "2026-03-05",
     "lastUpdatedDisplay": "Mar 5, 2026",
     "url": "https://openai.com"
+  },
+  {
+    "name": "Runway Characters",
+    "category": "Video Avatars",
+    "pricing": "API access (pricing TBA)",
+    "useCase": "Real-time video avatar API that turns a single reference image into a conversational brand presence. Zero fine-tuning, deploy anywhere via API. Early partners include the BBC.",
+    "rating": "New",
+    "episodes": [
+      20
+    ],
+    "lastUpdated": "2026-03-18",
+    "lastUpdatedDisplay": "Mar 18, 2026",
+    "url": "https://runwayml.com"
+  },
+  {
+    "name": "Adobe Photoshop AI Assistant",
+    "category": "Design",
+    "pricing": "Included with Photoshop subscription",
+    "useCase": "Plain-language image editing for non-designers. Firefly now integrates OpenAI, Runway, and Google models inside one workspace. Public beta live for all Photoshop users.",
+    "rating": "New",
+    "episodes": [
+      20
+    ],
+    "lastUpdated": "2026-03-18",
+    "lastUpdatedDisplay": "Mar 18, 2026",
+    "url": "https://adobe.com/photoshop"
+  },
+  {
+    "name": "Higgsfield Soul Cast",
+    "category": "Video Generation",
+    "pricing": "Early access",
+    "useCase": "AI actor casting system with parametric character design. Solves character consistency across video scenes \u2014 no talent sourcing required.",
+    "rating": "New",
+    "episodes": [
+      20
+    ],
+    "lastUpdated": "2026-03-18",
+    "lastUpdatedDisplay": "Mar 18, 2026",
+    "url": "https://higgsfield.ai"
   }
 ]

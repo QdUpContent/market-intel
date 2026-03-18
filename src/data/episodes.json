@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep20",
+    "num": 20,
+    "title": "Runway Characters + Adobe AI Assistant + Higgsfield Soul Cast",
+    "date": "2026-03-18",
+    "dateDisplay": "Mar 18, 2026",
+    "duration": "12:00",
+    "description": "AI avatars just became conversational brand presences. Runway shipped a real-time avatar API, Adobe launched a plain-language AI assistant for Photoshop, and Higgsfield solved character consistency in AI video.",
+    "tags": [
+      "Runway Characters",
+      "Adobe AI Assistant",
+      "Higgsfield Soul Cast"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/0cd1c8c5-6544-4290-bd33-b27f2f6d3833.mp3"
+    }
+  },
+  {
     "id": "ep19",
     "num": 19,
     "title": "OpenAI Launched Two Models in 72 Hours \u2014 Here's What Actually Matters",
@@ -12,7 +38,7 @@
       "Canva AI Video",
       "Claude Memory"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

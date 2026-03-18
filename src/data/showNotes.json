@@ -1119,5 +1119,61 @@
         "source": "Descript (YouTube)"
       }
     ]
+  },
+  "ep20": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Hook & Intro"
+      },
+      {
+        "time": "1:44",
+        "seconds": 104,
+        "label": "Story 1: Runway Characters (Real-Time AI Avatar API)"
+      },
+      {
+        "time": "4:50",
+        "seconds": 290,
+        "label": "Story 2: Adobe Photoshop AI Assistant Public Beta"
+      },
+      {
+        "time": "7:41",
+        "seconds": 461,
+        "label": "Story 3: Higgsfield Soul Cast (AI Actor Casting)"
+      },
+      {
+        "time": "9:58",
+        "seconds": 598,
+        "label": "Quick Hits: Zoom AI Office, TapClicks SmartStory, ChatGPT + Criteo & More"
+      },
+      {
+        "time": "11:12",
+        "seconds": 672,
+        "label": "Recap"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Runway Characters Launch",
+        "url": "https://runwayml.com/news/introducing-runway-characters",
+        "source": "Runway"
+      },
+      {
+        "title": "Runway Characters API Documentation",
+        "url": "https://docs.dev.runwayml.com/characters",
+        "source": "Runway Docs"
+      },
+      {
+        "title": "Adobe AI Assistant Public Beta",
+        "url": "https://blog.adobe.com/en/publish/2026/03/10/image-editing-just-got-smarter-with-ai-photoshop-firefly",
+        "source": "Adobe Blog"
+      },
+      {
+        "title": "Adobe Photoshop AI Assistant",
+        "url": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop",
+        "source": "TechCrunch"
+      }
+    ]
   }
 }

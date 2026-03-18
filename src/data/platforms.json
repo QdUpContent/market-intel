@@ -79,10 +79,11 @@
     "episodes": [
       13,
       8,
-      6
+      6,
+      20
     ],
-    "lastMentioned": "2026-01-28",
-    "lastMentionedDisplay": "Jan 28, 2026",
+    "lastMentioned": "2026-03-18",
+    "lastMentionedDisplay": "Mar 18, 2026",
     "tags": [
       "Video",
       "Audio",
@@ -303,5 +304,24 @@
       "Brand Kits"
     ],
     "lastMentionedDisplay": "Mar 4, 2026"
+  },
+  {
+    "name": "Higgsfield",
+    "slug": "higgsfield",
+    "category": "Video Generation",
+    "pricing": "Early access",
+    "description": "AI actor casting system that solves character consistency across video scenes \u2014 the hardest unsolved problem in AI video. Soul Cast uses parametric design to maintain character identity without talent sourcing.",
+    "status": "Emerging",
+    "url": "https://higgsfield.ai",
+    "episodes": [
+      20
+    ],
+    "lastMentioned": "2026-03-18",
+    "lastMentionedDisplay": "Mar 18, 2026",
+    "tags": [
+      "Video",
+      "Avatars",
+      "Character Consistency"
+    ]
   }
 ]

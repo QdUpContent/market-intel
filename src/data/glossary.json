@@ -5,7 +5,8 @@
     "category": "Content Creation",
     "episodes": [
       13,
-      10
+      10,
+      20
     ],
     "letter": "A"
   },
@@ -45,6 +46,15 @@
     "category": "Legal",
     "episodes": [
       16
+    ],
+    "letter": "C"
+  },
+  {
+    "term": "Character Consistency",
+    "definition": "The ability to maintain a character's appearance, proportions, and visual identity across multiple AI-generated video scenes. Previously the hardest unsolved problem in AI video \u2014 tools like Higgsfield Soul Cast now address this with parametric design systems.",
+    "category": "Content Creation",
+    "episodes": [
+      20
     ],
     "letter": "C"
   },
