@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep21",
+    "num": 21,
+    "title": "Free AI Video in 15 Minutes + Gamma Takes On Canva + NVIDIA NemoClaw",
+    "date": "2026-03-25",
+    "dateDisplay": "Mar 25, 2026",
+    "duration": "11:00",
+    "description": "AI video production just dropped to 15 minutes. Free. CapCut's rebuilt AI Video Maker, Gamma's new image generation tool taking on Canva and Adobe, and NVIDIA's NemoClaw \u2014 the agentic AI platform that could reshape how small marketing teams operate by late 2026.",
+    "tags": [
+      "CapCut AI Video",
+      "Gamma Imagine",
+      "NVIDIA NemoClaw"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/a9e3b188-dacc-4925-9455-6c0bb8f43ebc.mp3"
+    }
+  },
+  {
     "id": "ep20",
     "num": 20,
     "title": "Runway Characters + Adobe AI Assistant + Higgsfield Soul Cast",
@@ -12,7 +38,7 @@
       "Adobe AI Assistant",
       "Higgsfield Soul Cast"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

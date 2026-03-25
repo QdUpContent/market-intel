@@ -323,5 +323,62 @@
       "Avatars",
       "Character Consistency"
     ]
+  },
+  {
+    "name": "CapCut",
+    "slug": "capcut",
+    "category": "Video Generation",
+    "pricing": "Free / Pro available",
+    "description": "ByteDance's video editor rebuilt its AI Video Maker with free storyboard-to-video production. Drops AI video production time to 15 minutes with no cost for basic use.",
+    "status": "Rising Star",
+    "url": "https://www.capcut.com",
+    "episodes": [
+      21
+    ],
+    "lastMentioned": "2026-03-25",
+    "lastMentionedDisplay": "Mar 25, 2026",
+    "tags": [
+      "Video",
+      "Free",
+      "Storyboard"
+    ]
+  },
+  {
+    "name": "Gamma",
+    "slug": "gamma",
+    "category": "Design & Creative",
+    "pricing": "Free / from $10/mo",
+    "description": "Presentation and document platform that launched Gamma Imagine \u2014 an AI image generation tool challenging Canva and Adobe. Generates on-brand visuals directly inside the content creation workflow.",
+    "status": "Emerging",
+    "url": "https://gamma.app",
+    "episodes": [
+      21
+    ],
+    "lastMentioned": "2026-03-25",
+    "lastMentionedDisplay": "Mar 25, 2026",
+    "tags": [
+      "Design",
+      "Image Generation",
+      "Presentations"
+    ]
+  },
+  {
+    "name": "NVIDIA NemoClaw",
+    "slug": "nvidia-nemoclaw",
+    "category": "AI Agents",
+    "pricing": "Enterprise (TBA)",
+    "description": "NVIDIA's agentic AI platform for marketing workflows. Could reshape how small marketing teams operate by late 2026. Combines autonomous agent capabilities with enterprise-grade safety via OpenShell.",
+    "status": "Watch List",
+    "url": "https://developer.nvidia.com",
+    "episodes": [
+      21
+    ],
+    "lastMentioned": "2026-03-25",
+    "lastMentionedDisplay": "Mar 25, 2026",
+    "tags": [
+      "Agents",
+      "Enterprise",
+      "Marketing Automation"
+    ]
   }
 ]

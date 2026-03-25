@@ -17,7 +17,8 @@
     "episodes": [
       17,
       14,
-      18
+      18,
+      21
     ],
     "letter": "A"
   },
@@ -170,6 +171,15 @@
       13
     ],
     "letter": "R"
+  },
+  {
+    "term": "Storyboard-to-Video",
+    "definition": "An AI workflow where you provide a script or outline and the tool automatically generates a complete video with scenes, transitions, and visuals. CapCut's rebuilt AI Video Maker brings this to zero cost, cutting production time to 15 minutes.",
+    "category": "Content Creation",
+    "episodes": [
+      21
+    ],
+    "letter": "S"
   },
   {
     "term": "Text-to-Video",

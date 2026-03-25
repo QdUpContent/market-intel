@@ -290,5 +290,44 @@
     "lastUpdated": "2026-03-18",
     "lastUpdatedDisplay": "Mar 18, 2026",
     "url": "https://higgsfield.ai"
+  },
+  {
+    "name": "CapCut AI Video Maker",
+    "category": "Video Generation",
+    "pricing": "Free",
+    "useCase": "Rebuilt storyboard-to-video tool that drops AI video production to 15 minutes at zero cost. Ideal for SMB content teams producing social video at scale.",
+    "rating": "Top Pick",
+    "episodes": [
+      21
+    ],
+    "lastUpdated": "2026-03-25",
+    "lastUpdatedDisplay": "Mar 25, 2026",
+    "url": "https://www.capcut.com/tools/ai-video"
+  },
+  {
+    "name": "Gamma Imagine",
+    "category": "Design",
+    "pricing": "Free / from $10/mo",
+    "useCase": "AI image generation built into Gamma's presentation platform. Challenges Canva and Adobe by generating on-brand visuals directly inside the content creation workflow.",
+    "rating": "New",
+    "episodes": [
+      21
+    ],
+    "lastUpdated": "2026-03-25",
+    "lastUpdatedDisplay": "Mar 25, 2026",
+    "url": "https://gamma.app"
+  },
+  {
+    "name": "NVIDIA NemoClaw",
+    "category": "AI Agents",
+    "pricing": "Enterprise (TBA)",
+    "useCase": "Agentic AI platform for autonomous marketing workflows. Self-evolving agents that can operate entire campaign pipelines with enterprise safety guardrails via OpenShell.",
+    "rating": "Watch",
+    "episodes": [
+      21
+    ],
+    "lastUpdated": "2026-03-25",
+    "lastUpdatedDisplay": "Mar 25, 2026",
+    "url": "https://developer.nvidia.com"
   }
 ]

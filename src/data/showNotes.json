@@ -1175,5 +1175,81 @@
         "source": "TechCrunch"
       }
     ]
+  },
+  "ep21": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro"
+      },
+      {
+        "time": "1:25",
+        "seconds": 85,
+        "label": "Story 1: CapCut AI Video Maker Rebuild (Free Storyboard-to-Video)"
+      },
+      {
+        "time": "3:48",
+        "seconds": 228,
+        "label": "Story 2: Gamma Imagine \u2014 AI Image Generation Takes On Canva"
+      },
+      {
+        "time": "6:32",
+        "seconds": 392,
+        "label": "Story 3: NVIDIA NemoClaw \u2014 Agentic AI for Marketing Workflows"
+      },
+      {
+        "time": "9:10",
+        "seconds": 550,
+        "label": "Quick Hits: ChatGPT Ads, Meta AI Creative, AI Overview CTR Data"
+      },
+      {
+        "time": "10:41",
+        "seconds": 641,
+        "label": "Recap & Next Week Preview"
+      }
+    ],
+    "sources": [
+      {
+        "title": "CapCut AI Video Maker",
+        "url": "https://www.capcut.com/tools/ai-video",
+        "source": "CapCut"
+      },
+      {
+        "title": "CapCut AI Video Model Pricing",
+        "url": "https://fluxnote.io/guides/capcut-pro-pricing-2026",
+        "source": "Fluxnote"
+      },
+      {
+        "title": "Gamma Imagine Launch",
+        "url": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gamma Pricing",
+        "url": "https://gamma.app/pricing",
+        "source": "Gamma"
+      },
+      {
+        "title": "Gamma Imagine Review",
+        "url": "https://junia.ai/blog/gamma-imagine-review",
+        "source": "Junia AI"
+      },
+      {
+        "title": "NVIDIA NemoClaw Announcement",
+        "url": "https://finance.yahoo.com/news/nvidia-announces-nemoclaw-openclaw-community-201300795.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "NVIDIA OpenShell \u2014 Autonomous Agents",
+        "url": "https://developer.nvidia.com/blog/run-autonomous-self-evolving-agents-more-safely-with-nvidia-openshell/",
+        "source": "NVIDIA Developer Blog"
+      },
+      {
+        "title": "NVIDIA NemoClaw SMB Analysis",
+        "url": "https://www.baristalabs.io/blog/nvidia-nemoclaw-enterprise-ai-agent-smb-2026",
+        "source": "BaristaLabs"
+      }
+    ]
   }
 }
