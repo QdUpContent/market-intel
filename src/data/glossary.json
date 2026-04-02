@@ -60,6 +60,15 @@
     "letter": "C"
   },
   {
+    "term": "Compute Cost",
+    "definition": "The expense of running AI models on GPU infrastructure. Sora's shutdown illustrated this dramatically \u2014 generating $2.1M in revenue while burning $15M per day in compute costs, making the product economically unviable despite strong user interest.",
+    "category": "Concepts",
+    "episodes": [
+      22
+    ],
+    "letter": "C"
+  },
+  {
     "term": "Context Window",
     "definition": "The maximum amount of text an AI model can process in a single conversation, measured in tokens. GPT-5.4's 1M token context window means it can analyze roughly 750,000 words at once \u2014 equivalent to several full-length books.",
     "category": "Technical",
@@ -188,7 +197,8 @@
     "episodes": [
       15,
       12,
-      6
+      6,
+      22
     ],
     "letter": "T"
   },

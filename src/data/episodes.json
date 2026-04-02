@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep22",
+    "num": 22,
+    "title": "OpenAI Killed Sora + HeyGen Wins the Week + Claude Dispatch",
+    "date": "2026-04-01",
+    "dateDisplay": "Apr 1, 2026",
+    "duration": "9:00",
+    "description": "OpenAI shut down Sora \u2014 2.1M in revenue vs. 15M/day in compute costs. HeyGen hits 31 million users with Fast Company recognition. Claude Dispatch brings mobile-to-desktop AI content automation at $20/month.",
+    "tags": [
+      "Sora Shutdown",
+      "HeyGen",
+      "Claude Dispatch"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/ee22bd7e-8dd5-44ef-a3b8-3d1a5aab11ac.mp3"
+    }
+  },
+  {
     "id": "ep21",
     "num": 21,
     "title": "Free AI Video in 15 Minutes + Gamma Takes On Canva + NVIDIA NemoClaw",
@@ -12,7 +38,7 @@
       "Gamma Imagine",
       "NVIDIA NemoClaw"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

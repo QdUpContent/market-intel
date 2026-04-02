@@ -36,10 +36,11 @@
       9,
       8,
       7,
-      19
+      19,
+      22
     ],
-    "lastMentioned": "2026-03-05",
-    "lastMentionedDisplay": "Mar 5, 2026",
+    "lastMentioned": "2026-04-01",
+    "lastMentionedDisplay": "Apr 1, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -58,10 +59,11 @@
       17,
       16,
       13,
-      19
+      19,
+      22
     ],
-    "lastMentioned": "2026-03-05",
-    "lastMentionedDisplay": "Mar 5, 2026",
+    "lastMentioned": "2026-04-01",
+    "lastMentionedDisplay": "Apr 1, 2026",
     "tags": [
       "LLM",
       "Reasoning",
@@ -379,6 +381,26 @@
       "Agents",
       "Enterprise",
       "Marketing Automation"
+    ]
+  },
+  {
+    "name": "HeyGen",
+    "slug": "heygen",
+    "category": "Video Avatars",
+    "pricing": "From $29/mo",
+    "description": "AI avatar video platform with 31 million users. Named Fast Company's Most Innovative Video Company for 2026. Now integrated with Canva for in-platform avatar video creation.",
+    "status": "Leading",
+    "url": "https://heygen.com",
+    "episodes": [
+      22,
+      10
+    ],
+    "lastMentioned": "2026-04-01",
+    "lastMentionedDisplay": "Apr 1, 2026",
+    "tags": [
+      "Video",
+      "Avatars",
+      "Enterprise"
     ]
   }
 ]

@@ -154,10 +154,11 @@
     "useCase": "Create AI avatar videos for marketing, training, and content. Used in Market Intel's own production pipeline.",
     "rating": "Essential",
     "episodes": [
-      10
+      10,
+      22
     ],
-    "lastUpdated": "2026-01-07",
-    "lastUpdatedDisplay": "Jan 7, 2026",
+    "lastUpdated": "2026-04-01",
+    "lastUpdatedDisplay": "Apr 1, 2026",
     "url": "https://heygen.com"
   },
   {
@@ -329,5 +330,18 @@
     "lastUpdated": "2026-03-25",
     "lastUpdatedDisplay": "Mar 25, 2026",
     "url": "https://developer.nvidia.com"
+  },
+  {
+    "name": "Claude Dispatch",
+    "category": "AI Agents",
+    "pricing": "$20/mo (Pro subscription)",
+    "useCase": "Mobile-to-desktop AI content automation. Send tasks from your phone, Claude executes multi-step workflows on desktop. Real production workflows already running for content creation.",
+    "rating": "New",
+    "episodes": [
+      22
+    ],
+    "lastUpdated": "2026-04-01",
+    "lastUpdatedDisplay": "Apr 1, 2026",
+    "url": "https://claude.ai"
   }
 ]

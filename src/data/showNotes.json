@@ -1251,5 +1251,96 @@
         "source": "BaristaLabs"
       }
     ]
+  },
+  "ep22": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Hook"
+      },
+      {
+        "time": "0:30",
+        "seconds": 30,
+        "label": "Intro & Preview"
+      },
+      {
+        "time": "1:15",
+        "seconds": 75,
+        "label": "Story 1: OpenAI Kills Sora"
+      },
+      {
+        "time": "3:30",
+        "seconds": 210,
+        "label": "Story 2: HeyGen Wins the Week"
+      },
+      {
+        "time": "5:30",
+        "seconds": 330,
+        "label": "Story 3: Claude Dispatch"
+      },
+      {
+        "time": "7:15",
+        "seconds": 435,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "8:00",
+        "seconds": 480,
+        "label": "Recap & Next Week"
+      }
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Sora Shutting Down",
+        "url": "https://cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down",
+        "source": "CNN"
+      },
+      {
+        "title": "OpenAI Killed Sora \u2014 Ad Industry Had Already Moved On",
+        "url": "https://adweek.com/media/openai-killed-sora-the-ad-industry-had-already-moved-on",
+        "source": "Adweek"
+      },
+      {
+        "title": "Sora Alternatives Guide",
+        "url": "https://veed.io/learn/sora-alternatives",
+        "source": "VEED"
+      },
+      {
+        "title": "HeyGen \u2014 Fast Company Most Innovative Company 2026",
+        "url": "https://heygen.com/blog/heygen-fast-company-most-innovative-company-2026",
+        "source": "HeyGen"
+      },
+      {
+        "title": "Fast Company Most Innovative Video 2026",
+        "url": "https://fastcompany.com/91497316/video-most-innovative-companies-2026",
+        "source": "Fast Company"
+      },
+      {
+        "title": "HeyGen x Canva Integration",
+        "url": "https://heygen.com/blog/meet-the-new-heygen-canva-integration",
+        "source": "HeyGen"
+      },
+      {
+        "title": "HeyGen Review 2026",
+        "url": "https://ezugc.ai/blog/heygen-review",
+        "source": "EzUGC"
+      },
+      {
+        "title": "Claude Dispatch Explained",
+        "url": "https://lowcode.agency/blog/claude-dispatch-explained",
+        "source": "Low Code Agency"
+      },
+      {
+        "title": "Claude Subscription Growth",
+        "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Claude Cowork \u2014 Week of Content in 6 Minutes",
+        "url": "https://youtube.com/watch?v=5ADzUMZ9zm8",
+        "source": "YouTube"
+      }
+    ]
   }
 }
