@@ -1342,5 +1342,71 @@
         "source": "YouTube"
       }
     ]
+  },
+  "ep23": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Open & Intro"
+      },
+      {
+        "time": "1:46",
+        "seconds": 106,
+        "label": "Story 1: Google Vids Free AI Video \u2014 What It Means for SMBs"
+      },
+      {
+        "time": "3:58",
+        "seconds": 238,
+        "label": "Story 2: Google Gemma 4 \u2014 A Free AI Model You Own Outright"
+      },
+      {
+        "time": "6:16",
+        "seconds": 376,
+        "label": "Story 3: Seedance 2.0 \u2014 Now Accessible to U.S. Creators"
+      },
+      {
+        "time": "9:05",
+        "seconds": 545,
+        "label": "Quick Hits: Semrush AI Study, ChatGPT Ads, Meta Shopping & More"
+      },
+      {
+        "time": "10:35",
+        "seconds": 635,
+        "label": "Recap & What We're Watching Next Week"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Google Vids + Veo 3.1 Updates",
+        "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Veo 3.1 AI Video Now Free for All Google Users",
+        "url": "https://chromeunboxed.com/veo-3-1-ai-video-generation-is-now-free-for-all-google-users/",
+        "source": "Chrome Unboxed"
+      },
+      {
+        "title": "Google Gemma 4 Official Announcement",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Google Releases Gemma 4 Under Apache 2.0",
+        "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
+        "source": "VentureBeat"
+      },
+      {
+        "title": "Seedance China Video AI Model Available in the US",
+        "url": "https://www.fastcompany.com/91520507/seedance-china-video-ai-model-available-in-the-us",
+        "source": "Fast Company"
+      },
+      {
+        "title": "Seedance 2.0 Review, Issues and Alternatives",
+        "url": "https://wavespeed.ai/blog/posts/seedance-2-0-review-issues-and-alternatives/",
+        "source": "WaveSpeed"
+      }
+    ]
   }
 }

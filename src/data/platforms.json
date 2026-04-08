@@ -10,10 +10,11 @@
     "episodes": [
       17,
       9,
-      7
+      7,
+      23
     ],
-    "lastMentioned": "2026-02-19",
-    "lastMentionedDisplay": "Feb 19, 2026",
+    "lastMentioned": "2026-04-08",
+    "lastMentionedDisplay": "Apr 8, 2026",
     "tags": [
       "LLM",
       "Multimodal",
@@ -142,10 +143,11 @@
     "status": "Growing",
     "url": "https://deepmind.google/veo",
     "episodes": [
-      12
+      12,
+      23
     ],
-    "lastMentioned": "2026-01-21",
-    "lastMentionedDisplay": "Jan 21, 2026",
+    "lastMentioned": "2026-04-08",
+    "lastMentionedDisplay": "Apr 8, 2026",
     "tags": [
       "Video",
       "YouTube",
@@ -239,10 +241,11 @@
     "status": "Watch List",
     "url": "https://seedance.ai",
     "episodes": [
-      15
+      15,
+      23
     ],
-    "lastMentioned": "2026-02-11",
-    "lastMentionedDisplay": "Feb 11, 2026",
+    "lastMentioned": "2026-04-08",
+    "lastMentionedDisplay": "Apr 8, 2026",
     "tags": [
       "Video",
       "Budget",
@@ -401,6 +404,25 @@
       "Video",
       "Avatars",
       "Enterprise"
+    ]
+  },
+  {
+    "name": "Google Vids",
+    "slug": "google-vids",
+    "category": "Video Generation",
+    "pricing": "Free (10 clips/mo) / Workspace plans",
+    "description": "Google Workspace video creation tool now powered by Veo 3.1. Free for every Google account holder \u2014 10 AI video clips per month at zero cost. 8-second clips for social content and marketing.",
+    "status": "Growing",
+    "url": "https://workspace.google.com/products/vids/",
+    "episodes": [
+      23
+    ],
+    "lastMentioned": "2026-04-08",
+    "lastMentionedDisplay": "Apr 8, 2026",
+    "tags": [
+      "Video",
+      "Free",
+      "Google Workspace"
     ]
   }
 ]

@@ -162,6 +162,15 @@
     "letter": "M"
   },
   {
+    "term": "Open-Source AI Model",
+    "definition": "An AI model released with an open license (like Apache 2.0) that allows anyone to download, modify, and deploy it freely. Google's Gemma 4 runs locally on your laptop with no API fees or data leaving your machine \u2014 a cost-elimination play for SMB teams.",
+    "category": "Technical",
+    "episodes": [
+      23
+    ],
+    "letter": "O"
+  },
+  {
     "term": "Prompt Engineering",
     "definition": "The skill of crafting effective instructions for AI models to get optimal outputs. Involves techniques like providing context, examples, and specific formatting requirements.",
     "category": "Skills",

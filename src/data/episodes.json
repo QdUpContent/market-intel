@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep23",
+    "num": 23,
+    "title": "Google Just Made AI Video Free + Gemma 4 Open Source + Seedance 2.0 in the U.S.",
+    "date": "2026-04-08",
+    "dateDisplay": "Apr 8, 2026",
+    "duration": "11:00",
+    "description": "Google made AI video generation free for every Google account holder. Gemma 4 is a free open-source AI model you own outright. And Seedance 2.0 \u2014 ByteDance's top-ranked AI video model \u2014 is now accessible to U.S. creators.",
+    "tags": [
+      "Google Vids",
+      "Gemma 4",
+      "Seedance 2.0"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/77370158-b6a4-4f71-8d5e-feb5a8d8de98.mp3"
+    }
+  },
+  {
     "id": "ep22",
     "num": 22,
     "title": "OpenAI Killed Sora + HeyGen Wins the Week + Claude Dispatch",
@@ -12,7 +38,7 @@
       "HeyGen",
       "Claude Dispatch"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

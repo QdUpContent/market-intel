@@ -128,10 +128,11 @@
     "useCase": "Budget-friendly AI video generation delivering near-frontier quality. The 'DeepSeek moment' for AI video.",
     "rating": "Watch",
     "episodes": [
-      15
+      15,
+      23
     ],
-    "lastUpdated": "2026-02-11",
-    "lastUpdatedDisplay": "Feb 11, 2026",
+    "lastUpdated": "2026-04-08",
+    "lastUpdatedDisplay": "Apr 8, 2026",
     "url": "https://seedance.ai"
   },
   {
@@ -343,5 +344,31 @@
     "lastUpdated": "2026-04-01",
     "lastUpdatedDisplay": "Apr 1, 2026",
     "url": "https://claude.ai"
+  },
+  {
+    "name": "Google Vids",
+    "category": "Video Generation",
+    "pricing": "Free (10 clips/mo)",
+    "useCase": "AI video generation free for every Google account. 10 clips per month via Veo 3.1. Ideal for social content and quick marketing videos. Note: AI content labeling workflow needed before publishing at scale.",
+    "rating": "New",
+    "episodes": [
+      23
+    ],
+    "lastUpdated": "2026-04-08",
+    "lastUpdatedDisplay": "Apr 8, 2026",
+    "url": "https://workspace.google.com/products/vids/"
+  },
+  {
+    "name": "Google Gemma 4",
+    "category": "AI Assistant",
+    "pricing": "Free (Apache 2.0 open source)",
+    "useCase": "Free open-source AI model that runs locally on your laptop. No API fees, no subscription, no data leaving your machine. Eliminates costs for SMB content teams \u2014 though falls short of paid frontier models.",
+    "rating": "New",
+    "episodes": [
+      23
+    ],
+    "lastUpdated": "2026-04-08",
+    "lastUpdatedDisplay": "Apr 8, 2026",
+    "url": "https://ai.google.dev/gemma"
   }
 ]
