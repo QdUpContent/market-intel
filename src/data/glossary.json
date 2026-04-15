@@ -11,6 +11,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Shopping Mode",
+    "definition": "An AI-driven product discovery feature where social platforms use creator content to surface relevant products to users. Meta's Muse Spark Shopping Mode on Instagram creates a loop where AI matches creator posts with shoppable products \u2014 changing how products get discovered on social media.",
+    "category": "Marketing",
+    "episodes": [
+      24
+    ],
+    "letter": "A"
+  },
+  {
     "term": "Agentic AI",
     "definition": "AI systems that can autonomously take actions, make decisions, and complete multi-step tasks without human intervention at each step. Moves beyond chat-based assistants to agents that browse, code, and execute workflows.",
     "category": "Concepts",

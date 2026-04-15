@@ -1,5 +1,32 @@
 [
   {
+    "id": "ep24",
+    "num": 24,
+    "title": "Meta Muse Spark + HeyGen Avatar V + Microsoft MAI & ElevenMusic",
+    "date": "2026-04-15",
+    "dateDisplay": "Apr 15, 2026",
+    "duration": "11:00",
+    "description": "Meta's new AI model Muse Spark is rolling into Instagram and Facebook with Shopping Mode \u2014 a new AI-assisted discovery loop built on creator content. HeyGen Avatar V lets you record once and never re-record. Microsoft MAI offers transcription at $0.36/hour and ElevenLabs launches a legally-licensed AI music app.",
+    "tags": [
+      "Meta Muse Spark",
+      "HeyGen Avatar V",
+      "Microsoft MAI",
+      "ElevenMusic"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/2e4d8b45-a44e-4e4b-8af0-795775ab0e07.mp3"
+    }
+  },
+  {
     "id": "ep23",
     "num": 23,
     "title": "Google Just Made AI Video Free + Gemma 4 Open Source + Seedance 2.0 in the U.S.",
@@ -12,7 +39,7 @@
       "Gemma 4",
       "Seedance 2.0"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

@@ -124,10 +124,11 @@
     "episodes": [
       13,
       10,
-      8
+      8,
+      24
     ],
-    "lastMentioned": "2026-01-28",
-    "lastMentionedDisplay": "Jan 28, 2026",
+    "lastMentioned": "2026-04-15",
+    "lastMentionedDisplay": "Apr 15, 2026",
     "tags": [
       "Voice",
       "Cloning",
@@ -396,10 +397,11 @@
     "url": "https://heygen.com",
     "episodes": [
       22,
-      10
+      10,
+      24
     ],
-    "lastMentioned": "2026-04-01",
-    "lastMentionedDisplay": "Apr 1, 2026",
+    "lastMentioned": "2026-04-15",
+    "lastMentionedDisplay": "Apr 15, 2026",
     "tags": [
       "Video",
       "Avatars",
@@ -423,6 +425,25 @@
       "Video",
       "Free",
       "Google Workspace"
+    ]
+  },
+  {
+    "name": "Meta (Muse Spark)",
+    "slug": "meta",
+    "category": "AI Assistant",
+    "pricing": "Free (built into Instagram/Facebook)",
+    "description": "Meta Superintelligence Labs' first model is live. Muse Spark powers a new Shopping Mode on Instagram and Facebook \u2014 creating an AI-assisted product discovery loop built on creator content.",
+    "status": "Major Player",
+    "url": "https://about.fb.com",
+    "episodes": [
+      24
+    ],
+    "lastMentioned": "2026-04-15",
+    "lastMentionedDisplay": "Apr 15, 2026",
+    "tags": [
+      "Social",
+      "Shopping",
+      "Creator Economy"
     ]
   }
 ]

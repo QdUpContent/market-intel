@@ -1408,5 +1408,91 @@
         "source": "WaveSpeed"
       }
     ]
+  },
+  "ep24": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro & Hook"
+      },
+      {
+        "time": "0:20",
+        "seconds": 20,
+        "label": "Host Intro & AI Disclosure"
+      },
+      {
+        "time": "1:22",
+        "seconds": 82,
+        "label": "Story 1: Meta Muse Spark & Shopping Mode"
+      },
+      {
+        "time": "4:35",
+        "seconds": 275,
+        "label": "Story 2: HeyGen Avatar V"
+      },
+      {
+        "time": "6:50",
+        "seconds": 410,
+        "label": "Story 3: Microsoft MAI + ElevenMusic"
+      },
+      {
+        "time": "10:42",
+        "seconds": 642,
+        "label": "Recap & What to Watch Next Week"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Introducing Muse Spark \u2014 Meta Superintelligence Labs",
+        "url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+        "source": "Meta"
+      },
+      {
+        "title": "Meta Debuts the Muse Spark Model",
+        "url": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta's AI Model \u2014 Can It Make Money?",
+        "url": "https://www.cnbc.com/2026/04/09/metas-long-awaited-ai-model-is-finally-here-but-can-it-make-money.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "HeyGen Avatar V Launch",
+        "url": "https://www.heygen.com/blog/announcing-avatar-v",
+        "source": "HeyGen"
+      },
+      {
+        "title": "HeyGen Pricing Breakdown",
+        "url": "https://www.arcade.software/post/heygen-pricing",
+        "source": "Arcade Software"
+      },
+      {
+        "title": "HeyGen AI Review",
+        "url": "https://www.buzzcube.io/heygen-ai-review/",
+        "source": "BuzzCube"
+      },
+      {
+        "title": "Microsoft MAI Models in Foundry",
+        "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
+        "source": "Microsoft"
+      },
+      {
+        "title": "ElevenLabs AI Music App Launch",
+        "url": "https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft Builds Own AI Model Stack",
+        "url": "https://www.forbes.com/sites/janakirammsv/2026/04/02/microsoft-builds-its-own-ai-model-stack-to-reduce-openai-dependence/",
+        "source": "Forbes"
+      },
+      {
+        "title": "ElevenLabs Music Marketplace",
+        "url": "https://www.musicbusinessworldwide.com/elevenlabs-launches-music-marketplace/",
+        "source": "Music Business Worldwide"
+      }
+    ]
   }
 }

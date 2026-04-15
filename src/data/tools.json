@@ -156,10 +156,11 @@
     "rating": "Essential",
     "episodes": [
       10,
-      22
+      22,
+      24
     ],
-    "lastUpdated": "2026-04-01",
-    "lastUpdatedDisplay": "Apr 1, 2026",
+    "lastUpdated": "2026-04-15",
+    "lastUpdatedDisplay": "Apr 15, 2026",
     "url": "https://heygen.com"
   },
   {
@@ -370,5 +371,44 @@
     "lastUpdated": "2026-04-08",
     "lastUpdatedDisplay": "Apr 8, 2026",
     "url": "https://ai.google.dev/gemma"
+  },
+  {
+    "name": "HeyGen Avatar V",
+    "category": "Video Avatars",
+    "pricing": "From $29/mo (credit-based)",
+    "useCase": "Record yourself once (15 seconds) and never re-record for a different campaign look again. Generates consistent AI avatar videos across campaigns from a single reference recording.",
+    "rating": "Top Pick",
+    "episodes": [
+      24
+    ],
+    "lastUpdated": "2026-04-15",
+    "lastUpdatedDisplay": "Apr 15, 2026",
+    "url": "https://www.heygen.com"
+  },
+  {
+    "name": "Microsoft MAI",
+    "category": "Voice & Audio",
+    "pricing": "From $0.36/hour (transcription)",
+    "useCase": "Microsoft's own AI model stack in Foundry. Transcription at $0.36/hour and custom brand voice from seconds of audio \u2014 reducing OpenAI dependence while offering enterprise-grade audio AI.",
+    "rating": "New",
+    "episodes": [
+      24
+    ],
+    "lastUpdated": "2026-04-15",
+    "lastUpdatedDisplay": "Apr 15, 2026",
+    "url": "https://microsoft.ai"
+  },
+  {
+    "name": "ElevenLabs ElevenMusic",
+    "category": "Music Generation",
+    "pricing": "App-based (see ElevenLabs plans)",
+    "useCase": "Legally-licensed AI music generation app. Create custom music tracks for content with a proper licensing marketplace \u2014 solving the copyright concern that plagued earlier AI music tools.",
+    "rating": "New",
+    "episodes": [
+      24
+    ],
+    "lastUpdated": "2026-04-15",
+    "lastUpdatedDisplay": "Apr 15, 2026",
+    "url": "https://elevenlabs.io"
   }
 ]
