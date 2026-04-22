@@ -190,6 +190,15 @@
     "letter": "P"
   },
   {
+    "term": "Prompt-to-Prototype",
+    "definition": "An AI workflow where a text description generates a functional design prototype \u2014 pitch decks, landing pages, or marketing visuals \u2014 without manual design tools. Claude Design's launch disrupted the design tool market enough to drop Figma's stock 7%.",
+    "category": "Content Creation",
+    "episodes": [
+      25
+    ],
+    "letter": "P"
+  },
+  {
     "term": "RAG (Retrieval-Augmented Generation)",
     "definition": "A technique where AI models pull relevant information from a knowledge base before generating responses. Reduces hallucinations and keeps AI answers grounded in real, current data.",
     "category": "Technical",

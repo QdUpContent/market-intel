@@ -61,10 +61,11 @@
       16,
       13,
       19,
-      22
+      22,
+      25
     ],
-    "lastMentioned": "2026-04-01",
-    "lastMentionedDisplay": "Apr 1, 2026",
+    "lastMentioned": "2026-04-22",
+    "lastMentionedDisplay": "Apr 22, 2026",
     "tags": [
       "LLM",
       "Reasoning",
@@ -125,10 +126,11 @@
       13,
       10,
       8,
-      24
+      24,
+      25
     ],
-    "lastMentioned": "2026-04-15",
-    "lastMentionedDisplay": "Apr 15, 2026",
+    "lastMentioned": "2026-04-22",
+    "lastMentionedDisplay": "Apr 22, 2026",
     "tags": [
       "Voice",
       "Cloning",
@@ -281,16 +283,17 @@
     "status": "Major Player",
     "url": "https://descript.com",
     "episodes": [
-      18
+      18,
+      25
     ],
-    "lastMentioned": "2026-03-04",
+    "lastMentioned": "2026-04-22",
     "tags": [
       "Video",
       "Audio",
       "Editing",
       "AI Assistant"
     ],
-    "lastMentionedDisplay": "Mar 4, 2026"
+    "lastMentionedDisplay": "Apr 22, 2026"
   },
   {
     "name": "Pictory",

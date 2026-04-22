@@ -37,10 +37,11 @@
     "episodes": [
       13,
       10,
-      8
+      8,
+      25
     ],
-    "lastUpdated": "2026-01-28",
-    "lastUpdatedDisplay": "Jan 28, 2026",
+    "lastUpdated": "2026-04-22",
+    "lastUpdatedDisplay": "Apr 22, 2026",
     "url": "https://elevenlabs.io"
   },
   {
@@ -223,11 +224,12 @@
     "rating": "Top Pick",
     "episodes": [
       18,
-      19
+      19,
+      25
     ],
-    "lastUpdated": "2026-03-05",
+    "lastUpdated": "2026-04-22",
     "url": "https://descript.com",
-    "lastUpdatedDisplay": "Mar 5, 2026"
+    "lastUpdatedDisplay": "Apr 22, 2026"
   },
   {
     "name": "Pictory 2.0",
@@ -410,5 +412,31 @@
     "lastUpdated": "2026-04-15",
     "lastUpdatedDisplay": "Apr 15, 2026",
     "url": "https://elevenlabs.io"
+  },
+  {
+    "name": "Claude Design",
+    "category": "Design",
+    "pricing": "Included with Claude Pro ($20/mo) and Team plans",
+    "useCase": "Prompt-to-prototype tool for pitch decks, landing pages, and marketing visuals. Sent Figma stock down 7% on launch day. Note: IP gray zones around generated designs that agencies should understand.",
+    "rating": "Top Pick",
+    "episodes": [
+      25
+    ],
+    "lastUpdated": "2026-04-22",
+    "lastUpdatedDisplay": "Apr 22, 2026",
+    "url": "https://claude.ai"
+  },
+  {
+    "name": "Descript API",
+    "category": "Video & Audio Editing",
+    "pricing": "Open Beta (see Descript plans)",
+    "useCase": "Transcript-based video editing now chainable to Claude and GPT automations. Enables 'video waterfall' workflows where a single recording auto-generates multiple content formats.",
+    "rating": "New",
+    "episodes": [
+      25
+    ],
+    "lastUpdated": "2026-04-22",
+    "lastUpdatedDisplay": "Apr 22, 2026",
+    "url": "https://descript.com"
   }
 ]

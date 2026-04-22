@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep25",
+    "num": 25,
+    "title": "Claude Design Tanks Figma 7% + Descript API + ElevenLabs Agents Update",
+    "date": "2026-04-22",
+    "dateDisplay": "Apr 22, 2026",
+    "duration": "9:00",
+    "description": "Claude Design launched and sent Figma's stock down 7%. Descript opens its API for transcript-based video editing automations. ElevenLabs adds Gemini 3.1 Pro and Qwen 3.5 to its conversational agent platform.",
+    "tags": [
+      "Claude Design",
+      "Descript API",
+      "ElevenLabs Agents"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/cb04b55c-8617-421f-9832-fa63423dde4c.mp3"
+    }
+  },
+  {
     "id": "ep24",
     "num": 24,
     "title": "Meta Muse Spark + HeyGen Avatar V + Microsoft MAI & ElevenMusic",
@@ -13,7 +39,7 @@
       "Microsoft MAI",
       "ElevenMusic"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,
