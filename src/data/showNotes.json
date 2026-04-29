@@ -1555,5 +1555,91 @@
         "source": "ElevenLabs"
       }
     ]
+  },
+  "ep26": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Hook & Intro"
+      },
+      {
+        "time": "0:45",
+        "seconds": 45,
+        "label": "Story 1: OpenAI GPT-5.5 + Images 2.0 + Workspace Agents"
+      },
+      {
+        "time": "3:30",
+        "seconds": 210,
+        "label": "Story 2: Meta AI Business Assistant Goes Free for All Advertisers"
+      },
+      {
+        "time": "5:45",
+        "seconds": 345,
+        "label": "Story 3: LinkedIn 360Brew Rewrites Content Distribution Rules"
+      },
+      {
+        "time": "7:30",
+        "seconds": 450,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "8:15",
+        "seconds": 495,
+        "label": "Recap & What's Coming Next Week"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Introducing GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Everyday AI Podcast \u2014 GPT-5.5 Analysis",
+        "url": "https://www.youtube.com/watch?v=h8BnqYynNDo",
+        "source": "Everyday AI (YouTube)"
+      },
+      {
+        "title": "AI Weekly Top 5 \u2014 April 26, 2026",
+        "url": "https://champaignmagazine.com/2026/04/26/ai-by-ai-weekly-top-5-april-20-26-2026/",
+        "source": "Champaign Magazine"
+      },
+      {
+        "title": "LLM Stats Model Updates",
+        "url": "https://llm-stats.com/llm-updates",
+        "source": "LLM Stats"
+      },
+      {
+        "title": "Meta AI Business Assistant for Advertisers",
+        "url": "https://www.mediapost.com/publications/article/414547/",
+        "source": "MediaPost"
+      },
+      {
+        "title": "Meta AI Business Assistant SMB Deep-Dive",
+        "url": "https://didoo.ai/blog/meta-ai-business-assistant-small-business/",
+        "source": "Didoo AI"
+      },
+      {
+        "title": "Meta AI Creative Tools \u2014 Marketer Response",
+        "url": "https://www.marketingbrew.com/stories/2026/04/21/meta-ai-creative-tools-marketer-response",
+        "source": "Marketing Brew"
+      },
+      {
+        "title": "Top 20 AI Marketing Stories \u2014 Apr 22\u201325",
+        "url": "https://marketingagent.blog/2026/04/25/top-20-ai-marketing-stories-apr-22-apr-25-2026/",
+        "source": "Marketing Agent"
+      },
+      {
+        "title": "LinkedIn 360Brew Algorithm Analysis",
+        "url": "https://www.linkedin.com/pulse/ai-just-changed-social-media-again-ads-creator-tools-platform-voleti-dkwmc",
+        "source": "LinkedIn Pulse"
+      },
+      {
+        "title": "April 2026 Digital News Updates",
+        "url": "https://bootcampdigital.com/blog/april-2026-digital-news-updates/",
+        "source": "Bootcamp Digital"
+      }
+    ]
   }
 }

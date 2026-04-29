@@ -87,6 +87,15 @@
     "letter": "C"
   },
   {
+    "term": "Conversions API",
+    "definition": "A server-to-server connection between your website and an ad platform (like Meta) that tracks customer actions more accurately than browser-based pixels. Meta's one-click setup eliminated the typical $500-$2,000 developer cost for SMBs.",
+    "category": "Marketing",
+    "episodes": [
+      26
+    ],
+    "letter": "C"
+  },
+  {
     "term": "DeepSeek",
     "definition": "Chinese AI lab offering frontier-level AI models at roughly 90% less cost than Western competitors. Disrupted the market by proving high-quality AI doesn't require massive budgets.",
     "category": "Companies",
@@ -239,5 +248,14 @@
       8
     ],
     "letter": "V"
+  },
+  {
+    "term": "Workspace Agents",
+    "definition": "AI agents that automate multi-step workflows within a productivity platform. OpenAI's Workspace Agents can handle content research, drafting, and publishing sequences autonomously \u2014 running overnight while you sleep.",
+    "category": "Concepts",
+    "episodes": [
+      26
+    ],
+    "letter": "W"
   }
 ]

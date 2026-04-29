@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep26",
+    "num": 26,
+    "title": "OpenAI's Biggest Week + Meta AI Ads Go Free + LinkedIn 360Brew Breaks Playbooks",
+    "date": "2026-04-29",
+    "dateDisplay": "Apr 29, 2026",
+    "duration": "9:00",
+    "description": "OpenAI dropped GPT-5.5, ChatGPT Images 2.0, and Workspace Agents in 72 hours. Meta's AI Business Assistant is now free for all advertisers with one-click Conversions API. LinkedIn's 360Brew algorithm broke most content playbooks \u2014 saves now generate 5x more reach than likes.",
+    "tags": [
+      "GPT-5.5",
+      "Meta AI Ads",
+      "LinkedIn 360Brew"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/b818707d-7dee-462c-b06d-75fd9f5160d2.mp3"
+    }
+  },
+  {
     "id": "ep25",
     "num": 25,
     "title": "Claude Design Tanks Figma 7% + Descript API + ElevenLabs Agents Update",
@@ -12,7 +38,7 @@
       "Descript API",
       "ElevenLabs Agents"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

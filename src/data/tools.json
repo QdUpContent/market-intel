@@ -438,5 +438,57 @@
     "lastUpdated": "2026-04-22",
     "lastUpdatedDisplay": "Apr 22, 2026",
     "url": "https://descript.com"
+  },
+  {
+    "name": "ChatGPT Images 2.0",
+    "category": "Design",
+    "pricing": "Free tier available",
+    "useCase": "Production-ready social graphics and infographics with accurate text baked in. Available on the free tier \u2014 eliminates the need for separate design tools for basic social content.",
+    "rating": "Top Pick",
+    "episodes": [
+      26
+    ],
+    "lastUpdated": "2026-04-29",
+    "lastUpdatedDisplay": "Apr 29, 2026",
+    "url": "https://openai.com"
+  },
+  {
+    "name": "OpenAI Workspace Agents",
+    "category": "AI Agents",
+    "pricing": "Free trial through May 6 / ChatGPT plans",
+    "useCase": "Automate multi-step content workflows overnight. Set up agents to handle research, drafting, scheduling, and publishing sequences while you sleep.",
+    "rating": "New",
+    "episodes": [
+      26
+    ],
+    "lastUpdated": "2026-04-29",
+    "lastUpdatedDisplay": "Apr 29, 2026",
+    "url": "https://openai.com"
+  },
+  {
+    "name": "Meta AI Business Assistant",
+    "category": "Advertising",
+    "pricing": "Free (inside Ads Manager)",
+    "useCase": "AI assistant inside Meta Ads Manager. Analyzes your last 28 days and returns a scored action list per campaign. One-click Conversions API setup eliminates $500-$2,000 developer cost. 12% decrease in CPA documented.",
+    "rating": "Top Pick",
+    "episodes": [
+      26
+    ],
+    "lastUpdated": "2026-04-29",
+    "lastUpdatedDisplay": "Apr 29, 2026",
+    "url": "https://business.facebook.com"
+  },
+  {
+    "name": "GPT-5.5",
+    "category": "AI Assistant",
+    "pricing": "Free tier / $20/mo Plus / $200/mo Pro",
+    "useCase": "OpenAI's latest flagship model released alongside Images 2.0 and Workspace Agents \u2014 three products in 72 hours marking OpenAI's biggest product week in years.",
+    "rating": "New",
+    "episodes": [
+      26
+    ],
+    "lastUpdated": "2026-04-29",
+    "lastUpdatedDisplay": "Apr 29, 2026",
+    "url": "https://openai.com"
   }
 ]
