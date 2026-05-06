@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep27",
+    "num": 27,
+    "title": "Canva AI 2.0 + ElevenLabs Voice Agents + Runway Goes Multi-Model",
+    "date": "2026-05-06",
+    "dateDisplay": "May 6, 2026",
+    "duration": "10:00",
+    "description": "Canva declared its design-tool era is over with AI 2.0. ElevenLabs dropped 50+ voice agent templates and real-time collaboration in five days. Runway added Seedance 2.0 and Nano Banana Pro to become a multi-model video hub.",
+    "tags": [
+      "Canva AI 2.0",
+      "ElevenLabs Agents",
+      "Runway Multi-Model"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/295c582c-f1fa-40a1-b4d6-170d412c2cab.mp3"
+    }
+  },
+  {
     "id": "ep26",
     "num": 26,
     "title": "OpenAI's Biggest Week + Meta AI Ads Go Free + LinkedIn 360Brew Breaks Playbooks",
@@ -12,7 +38,7 @@
       "Meta AI Ads",
       "LinkedIn 360Brew"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

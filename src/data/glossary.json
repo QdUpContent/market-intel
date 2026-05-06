@@ -160,6 +160,15 @@
     "letter": "L"
   },
   {
+    "term": "Multi-Model Hub",
+    "definition": "A platform that integrates multiple AI models from different providers into a single interface. Runway's addition of Seedance 2.0 and Nano Banana Pro alongside its own Gen-4.5 lets creators choose the best model for each video task without switching tools.",
+    "category": "Concepts",
+    "episodes": [
+      27
+    ],
+    "letter": "M"
+  },
+  {
     "term": "Multi-Model Orchestration",
     "definition": "An approach where a single AI system coordinates multiple frontier models (like Claude, GPT, Gemini, Grok) simultaneously, routing each subtask to the best-suited model. Perplexity Computer uses this to complete entire projects from a single prompt.",
     "category": "Concepts",
@@ -237,6 +246,15 @@
       22
     ],
     "letter": "T"
+  },
+  {
+    "term": "Voice Agent",
+    "definition": "An AI-powered conversational system that speaks and listens in real-time, handling tasks like customer support, FAQ responses, and appointment booking. ElevenLabs' 50+ templates make these accessible to SMBs without custom development.",
+    "category": "Content Creation",
+    "episodes": [
+      27
+    ],
+    "letter": "V"
   },
   {
     "term": "Voice Cloning",

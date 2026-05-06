@@ -22,10 +22,11 @@
     "rating": "Top Pick",
     "episodes": [
       13,
-      6
+      6,
+      27
     ],
-    "lastUpdated": "2026-01-28",
-    "lastUpdatedDisplay": "Jan 28, 2026",
+    "lastUpdated": "2026-05-06",
+    "lastUpdatedDisplay": "May 6, 2026",
     "url": "https://runwayml.com"
   },
   {
@@ -38,10 +39,11 @@
       13,
       10,
       8,
-      25
+      25,
+      27
     ],
-    "lastUpdated": "2026-04-22",
-    "lastUpdatedDisplay": "Apr 22, 2026",
+    "lastUpdated": "2026-05-06",
+    "lastUpdatedDisplay": "May 6, 2026",
     "url": "https://elevenlabs.io"
   },
   {
@@ -64,10 +66,11 @@
     "useCase": "AI-powered design tools including Magic Write, Magic Edit, and text-to-image \u2014 now accessible within Claude and ChatGPT.",
     "rating": "Essential",
     "episodes": [
-      17
+      17,
+      27
     ],
-    "lastUpdated": "2026-02-19",
-    "lastUpdatedDisplay": "Feb 19, 2026",
+    "lastUpdated": "2026-05-06",
+    "lastUpdatedDisplay": "May 6, 2026",
     "url": "https://canva.com"
   },
   {
@@ -130,10 +133,11 @@
     "rating": "Watch",
     "episodes": [
       15,
-      23
+      23,
+      27
     ],
-    "lastUpdated": "2026-04-08",
-    "lastUpdatedDisplay": "Apr 8, 2026",
+    "lastUpdated": "2026-05-06",
+    "lastUpdatedDisplay": "May 6, 2026",
     "url": "https://seedance.ai"
   },
   {
@@ -490,5 +494,18 @@
     "lastUpdated": "2026-04-29",
     "lastUpdatedDisplay": "Apr 29, 2026",
     "url": "https://openai.com"
+  },
+  {
+    "name": "ElevenLabs Voice Agent Templates",
+    "category": "Voice & Audio",
+    "pricing": "See ElevenLabs plans",
+    "useCase": "50+ pre-built voice agent templates for customer support, FAQ bots, and multilingual voiceover. Real-time collaboration via Flows lets teams build conversational AI agents together.",
+    "rating": "New",
+    "episodes": [
+      27
+    ],
+    "lastUpdated": "2026-05-06",
+    "lastUpdatedDisplay": "May 6, 2026",
+    "url": "https://elevenlabs.io"
   }
 ]

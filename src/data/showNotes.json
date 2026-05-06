@@ -1641,5 +1641,71 @@
         "source": "Bootcamp Digital"
       }
     ]
+  },
+  "ep27": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Hook & Intro"
+      },
+      {
+        "time": "0:45",
+        "seconds": 45,
+        "label": "Canva AI 2.0: The Biggest SMB Design Shift Since 2013"
+      },
+      {
+        "time": "3:45",
+        "seconds": 225,
+        "label": "ElevenLabs: 50+ Voice Agent Templates + Real-Time Collaboration"
+      },
+      {
+        "time": "6:30",
+        "seconds": 390,
+        "label": "Runway Becomes a Multi-Model Video Hub (Seedance 2.0 + Nano Banana Pro)"
+      },
+      {
+        "time": "8:15",
+        "seconds": 495,
+        "label": "Quick Hits: Adobe Firefly, AI Disclosure Data, Google I/O Preview"
+      },
+      {
+        "time": "9:00",
+        "seconds": 540,
+        "label": "Recap & What We're Watching Next Week"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Canva Create 2026 \u2014 AI 2.0 Launch",
+        "url": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+        "source": "Canva Newsroom"
+      },
+      {
+        "title": "Canva Unveils AI 2.0",
+        "url": "https://www.afp.com/en/infos/canva-unveils-canva-ai-20-reimagining-how-world-designs-and-works",
+        "source": "AFP"
+      },
+      {
+        "title": "ElevenLabs Agent Templates",
+        "url": "https://elevenlabs.io/blog/introducing-agent-templates",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "ElevenLabs Flows Collaboration",
+        "url": "https://elevenlabs.io/blog/flows-collaboration",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "Runway Changelog April 2026",
+        "url": "https://releasebot.io/updates/runwayai",
+        "source": "ReleaseBot"
+      },
+      {
+        "title": "Seedance 2.0 on Runway Unlimited",
+        "url": "https://www.mindstudio.ai/blog/seedance-2-0-runway-unlimited-plan",
+        "source": "MindStudio"
+      }
+    ]
   }
 }
