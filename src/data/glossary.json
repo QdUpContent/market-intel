@@ -227,6 +227,15 @@
     "letter": "R"
   },
   {
+    "term": "Rate Limiting",
+    "definition": "Restrictions on how many AI requests you can make per time period. Anthropic doubled Claude's rate limits overnight via a SpaceX compute deal \u2014 eliminating mid-workflow throttling that previously interrupted content production for Pro and Max users.",
+    "category": "Technical",
+    "episodes": [
+      28
+    ],
+    "letter": "R"
+  },
+  {
     "term": "Storyboard-to-Video",
     "definition": "An AI workflow where you provide a script or outline and the tool automatically generates a complete video with scenes, transitions, and visuals. CapCut's rebuilt AI Video Maker brings this to zero cost, cutting production time to 15 minutes.",
     "category": "Content Creation",

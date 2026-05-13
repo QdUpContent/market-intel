@@ -1707,5 +1707,91 @@
         "source": "MindStudio"
       }
     ]
+  },
+  "ep28": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Hook: Your content calendar writes itself"
+      },
+      {
+        "time": "0:25",
+        "seconds": 25,
+        "label": "Intro & AI transparency disclosure"
+      },
+      {
+        "time": "1:05",
+        "seconds": 65,
+        "label": "Story 1: OpenAI Codex for content marketers"
+      },
+      {
+        "time": "4:00",
+        "seconds": 240,
+        "label": "Story 2: Anthropic doubles Claude rate limits (SpaceX deal)"
+      },
+      {
+        "time": "6:30",
+        "seconds": 390,
+        "label": "Story 3: Google I/O 2026 preview \u2014 Veo 4 & YouTube AI"
+      },
+      {
+        "time": "9:04",
+        "seconds": 544,
+        "label": "Quick Hits: Code with Claude London, Meta Muse Spark, Adobe Firefly"
+      },
+      {
+        "time": "10:10",
+        "seconds": 610,
+        "label": "Recap"
+      }
+    ],
+    "sources": [
+      {
+        "title": "OpenAI Turns Codex Into a Daily Work Agent",
+        "url": "https://www.thedeepview.com/newsletter/openai-turns-codex-into-a-daily-work-agent",
+        "source": "The Deep View"
+      },
+      {
+        "title": "Codex Is No Longer Just for Developers",
+        "url": "https://www.i-scoop.eu/openai-codex-is-no-longer-just-for-developers-you-can-use-it-for-everyday-work/",
+        "source": "i-scoop.eu"
+      },
+      {
+        "title": "The Codex Handbook",
+        "url": "https://www.freecodecamp.org/news/the-codex-handbook-a-practical-guide-to-openai-s-coding-platform/",
+        "source": "FreeCodeCamp"
+      },
+      {
+        "title": "10-App Codex Stack for Content Creators",
+        "url": "https://composio.dev/learning/best-apps-for-codex-content-creators",
+        "source": "Composio"
+      },
+      {
+        "title": "Codex for (Almost) Everything",
+        "url": "https://openai.com/index/codex-for-almost-everything/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Anthropic Doubles Claude Limits via SpaceX",
+        "url": "https://www.anthropic.com/news/higher-limits-spacex",
+        "source": "Anthropic"
+      },
+      {
+        "title": "Anthropic Doubles Claude Code Limits",
+        "url": "https://www.pcworld.com/article/3132997/anthropic-doubles-claude-code-limits-thanks-to-a-deal-with-spacex.html",
+        "source": "PCWorld"
+      },
+      {
+        "title": "Google I/O 2026 \u2014 What to Expect",
+        "url": "https://www.androidauthority.com/what-to-expect-from-google-io-2026-3664979/",
+        "source": "Android Authority"
+      },
+      {
+        "title": "Google I/O 2026 \u2014 Everything to Know",
+        "url": "https://www.cnet.com/tech/services-and-software/google-io-2026-everything-to-know/",
+        "source": "CNET"
+      }
+    ]
   }
 }
