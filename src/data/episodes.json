@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep29",
+    "num": 29,
+    "title": "Your Phone Is Now an AI Agent + Instagram AI Video + Krea 2 Brand Images",
+    "date": "2026-05-20",
+    "dateDisplay": "May 20, 2026",
+    "duration": "11:00",
+    "description": "Google Gemini Intelligence turns your Android phone into an autonomous AI agent. Instagram Edits adds native AI video generation directly in the timeline \u2014 free, no subscription. Krea 2 launches a brand-consistent image model that rivals GPT Image 2 on style fidelity.",
+    "tags": [
+      "Gemini Intelligence",
+      "Instagram Edits AI",
+      "Krea 2"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/1924f440-7771-4777-8c31-5c4378d1a8f5.mp3"
+    }
+  },
+  {
     "id": "ep28",
     "num": 28,
     "title": "OpenAI Codex for Marketers + Claude Doubles Limits via SpaceX + Google I/O Preview",
@@ -12,7 +38,7 @@
       "Claude SpaceX Deal",
       "Google I/O 2026"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

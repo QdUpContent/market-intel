@@ -520,5 +520,44 @@
     "lastUpdated": "2026-05-13",
     "lastUpdatedDisplay": "May 13, 2026",
     "url": "https://openai.com"
+  },
+  {
+    "name": "Instagram Edits AI Video",
+    "category": "Video Generation",
+    "pricing": "Free",
+    "useCase": "Generate AI video clips from text prompts, photos, or existing clips directly inside Instagram's editing timeline. Reels made in Edits get algorithmic promotion. No subscription required.",
+    "rating": "Top Pick",
+    "episodes": [
+      29
+    ],
+    "lastUpdated": "2026-05-20",
+    "lastUpdatedDisplay": "May 20, 2026",
+    "url": "https://creators.instagram.com/edits"
+  },
+  {
+    "name": "Krea 2",
+    "category": "Design",
+    "pricing": "Free / from $9/mo (commercial license included)",
+    "useCase": "Brand-consistent AI image generation. Upload a brand moodboard, generate new assets that visually match existing campaigns. Built from scratch without FLUX or Stable Diffusion. Rivals GPT Image 2 on style fidelity.",
+    "rating": "Top Pick",
+    "episodes": [
+      29
+    ],
+    "lastUpdated": "2026-05-20",
+    "lastUpdatedDisplay": "May 20, 2026",
+    "url": "https://www.krea.ai"
+  },
+  {
+    "name": "Google Gemini Intelligence",
+    "category": "AI Agents",
+    "pricing": "Free (compatible Android devices)",
+    "useCase": "Autonomous AI agent on Android \u2014 performs multi-step tasks across apps. Show it a content calendar screenshot and it builds your publishing schedule. Voice notes become clean drafts via Gboard AI.",
+    "rating": "New",
+    "episodes": [
+      29
+    ],
+    "lastUpdated": "2026-05-20",
+    "lastUpdatedDisplay": "May 20, 2026",
+    "url": "https://blog.google/products-and-platforms/platforms/android/"
   }
 ]

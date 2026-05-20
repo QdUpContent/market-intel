@@ -245,6 +245,15 @@
     "letter": "S"
   },
   {
+    "term": "Style Transfer",
+    "definition": "An AI technique that applies the visual style of one image (or brand moodboard) to newly generated content. Krea 2's style transfer system lets you upload existing campaign assets and generate new images that maintain brand consistency across all outputs.",
+    "category": "Content Creation",
+    "episodes": [
+      29
+    ],
+    "letter": "S"
+  },
+  {
     "term": "Text-to-Video",
     "definition": "AI technology that generates video clips from written descriptions. Rapidly evolving space with tools like Runway, Kling, Sora, and Seedance competing for the top spot.",
     "category": "Content Creation",

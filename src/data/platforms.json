@@ -12,10 +12,11 @@
       9,
       7,
       23,
-      28
+      28,
+      29
     ],
-    "lastMentioned": "2026-05-13",
-    "lastMentionedDisplay": "May 13, 2026",
+    "lastMentioned": "2026-05-20",
+    "lastMentionedDisplay": "May 20, 2026",
     "tags": [
       "LLM",
       "Multimodal",
@@ -475,6 +476,45 @@
       "Social",
       "Algorithm",
       "B2B"
+    ]
+  },
+  {
+    "name": "Instagram Edits",
+    "slug": "instagram-edits",
+    "category": "Video Generation",
+    "pricing": "Free",
+    "description": "Instagram's native video editing app with AI video clip generation directly in the timeline. Generate from text prompts, photos, or existing clips. Instagram algorithmically promotes Reels made inside Edits.",
+    "status": "Rising Star",
+    "url": "https://creators.instagram.com/edits",
+    "episodes": [
+      29
+    ],
+    "lastMentioned": "2026-05-20",
+    "lastMentionedDisplay": "May 20, 2026",
+    "tags": [
+      "Video",
+      "Free",
+      "Social",
+      "Instagram"
+    ]
+  },
+  {
+    "name": "Krea",
+    "slug": "krea",
+    "category": "Design & Creative",
+    "pricing": "Free public endpoint / from $9/mo",
+    "description": "AI image platform with its own foundation model built from scratch. Style transfer uploads a brand moodboard and generates assets matching existing campaigns. Within 0.14 points of GPT Image 2 on style fidelity benchmarks.",
+    "status": "Rising Star",
+    "url": "https://www.krea.ai",
+    "episodes": [
+      29
+    ],
+    "lastMentioned": "2026-05-20",
+    "lastMentionedDisplay": "May 20, 2026",
+    "tags": [
+      "Image Generation",
+      "Brand Consistency",
+      "Design"
     ]
   }
 ]

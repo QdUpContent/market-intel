@@ -1793,5 +1793,96 @@
         "source": "CNET"
       }
     ]
+  },
+  "ep29": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Open: Your Phone Just Became an AI Agent"
+      },
+      {
+        "time": "0:32",
+        "seconds": 32,
+        "label": "Host Introductions & AI Disclosure"
+      },
+      {
+        "time": "1:15",
+        "seconds": 75,
+        "label": "Story 1: Google Gemini Intelligence & Android AI Agents"
+      },
+      {
+        "time": "4:23",
+        "seconds": 263,
+        "label": "Story 2: Instagram Edits AI Video Generation"
+      },
+      {
+        "time": "6:35",
+        "seconds": 395,
+        "label": "Story 3: Krea 2 \u2014 Brand-Consistent Image Model"
+      },
+      {
+        "time": "9:08",
+        "seconds": 548,
+        "label": "Quick Hits: Claude Dreaming, ElevenLabs SDK, LinkedIn Feed AI"
+      },
+      {
+        "time": "10:20",
+        "seconds": 620,
+        "label": "Recap & What's Coming at Google I/O"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Google Android Show: I/O Edition",
+        "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Everything Google Announced at Android Show",
+        "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Android Show 2026",
+        "url": "https://9to5google.com/2026/05/12/the-android-show-2026/",
+        "source": "9to5Google"
+      },
+      {
+        "title": "Google Marketing Live 2026 Preview",
+        "url": "https://almcorp.com/blog/google-marketing-live-2026-agentic-ads-ai-powered-campaigns/",
+        "source": "ALM Corp"
+      },
+      {
+        "title": "Instagram Edits Update Tracker",
+        "url": "https://embedsocial.com/blog/new-instagram-features-2026/",
+        "source": "EmbedSocial"
+      },
+      {
+        "title": "Instagram AI Video Feature Analysis",
+        "url": "https://almcorp.com/blog/instagram-ai-video-generation-edits/",
+        "source": "ALM Corp"
+      },
+      {
+        "title": "Instagram Reels Editing Updates 2026",
+        "url": "https://avocadosocial.com/instagram-reels-editing-updates-2026-new-features-you-need-to-know/",
+        "source": "Avocado Social"
+      },
+      {
+        "title": "Krea 2 Image Model Launch",
+        "url": "https://www.krea.ai/blog/krea-2-image-model",
+        "source": "Krea"
+      },
+      {
+        "title": "Krea 2 vs GPT Image 2 vs Gemini Imagen",
+        "url": "https://www.mindstudio.ai/blog/krea-2-vs-gpt-image-2-vs-gemini-imagen-comparison/",
+        "source": "MindStudio"
+      },
+      {
+        "title": "Krea 2 Launch Analysis",
+        "url": "https://theplanettools.ai/blog/krea-2-launch-foundation-image-model-vs-gpt-image-2-may-2026",
+        "source": "ThePlanetTools"
+      }
+    ]
   }
 }
