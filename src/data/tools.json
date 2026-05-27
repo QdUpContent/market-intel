@@ -8,10 +8,11 @@
     "episodes": [
       15,
       10,
-      6
+      6,
+      30
     ],
-    "lastUpdated": "2026-02-11",
-    "lastUpdatedDisplay": "Feb 11, 2026",
+    "lastUpdated": "2026-05-27",
+    "lastUpdatedDisplay": "May 27, 2026",
     "url": "https://klingai.com"
   },
   {
@@ -23,10 +24,11 @@
     "episodes": [
       13,
       6,
-      27
+      27,
+      30
     ],
-    "lastUpdated": "2026-05-06",
-    "lastUpdatedDisplay": "May 6, 2026",
+    "lastUpdated": "2026-05-27",
+    "lastUpdatedDisplay": "May 27, 2026",
     "url": "https://runwayml.com"
   },
   {
@@ -559,5 +561,31 @@
     "lastUpdated": "2026-05-20",
     "lastUpdatedDisplay": "May 20, 2026",
     "url": "https://blog.google/products-and-platforms/platforms/android/"
+  },
+  {
+    "name": "Gemini Omni Flash",
+    "category": "Video Generation",
+    "pricing": "Free (YouTube creators)",
+    "useCase": "Free AI video creation rolling out on YouTube Shorts and YouTube Create app. No new subscription required. Generates clips for short-form content directly inside YouTube's ecosystem.",
+    "rating": "Top Pick",
+    "episodes": [
+      30
+    ],
+    "lastUpdated": "2026-05-27",
+    "lastUpdatedDisplay": "May 27, 2026",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/"
+  },
+  {
+    "name": "Runway Aleph 2.0",
+    "category": "Video Generation",
+    "pricing": "All paid Runway plans",
+    "useCase": "Photoshop-style localized video editing with multi-shot propagation and image-level control. Edit specific parts of a video frame without regenerating the whole clip. Makes your existing video library more valuable.",
+    "rating": "Top Pick",
+    "episodes": [
+      30
+    ],
+    "lastUpdated": "2026-05-27",
+    "lastUpdatedDisplay": "May 27, 2026",
+    "url": "https://runwayml.com"
   }
 ]

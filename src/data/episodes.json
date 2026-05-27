@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep30",
+    "num": 30,
+    "title": "Free AI Video for YouTube + LinkedIn's AI Crackdown + Runway Aleph 2.0",
+    "date": "2026-05-27",
+    "dateDisplay": "May 27, 2026",
+    "duration": "13:00",
+    "description": "Google Gemini Omni Flash makes AI video creation free for every YouTube creator. LinkedIn is suppressing AI-generated posts while rolling out more AI writing tools. Runway's Aleph 2.0 brings Photoshop-style localized video editing with multi-shot propagation.",
+    "tags": [
+      "Gemini Omni Flash",
+      "LinkedIn AI Crackdown",
+      "Runway Aleph 2.0"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/568d150b-bb3d-4a9f-94dd-83e59ddbdda3.mp3"
+    }
+  },
+  {
     "id": "ep29",
     "num": 29,
     "title": "Your Phone Is Now an AI Agent + Instagram AI Video + Krea 2 Brand Images",
@@ -12,7 +38,7 @@
       "Instagram Edits AI",
       "Krea 2"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

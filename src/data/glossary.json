@@ -11,6 +11,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Content Suppression",
+    "definition": "When a social platform algorithmically reduces the reach of posts detected as AI-generated. LinkedIn's 2026 crackdown suppresses AI-written posts in the recommendation feed while simultaneously expanding its own AI writing tools \u2014 creating a strategic paradox for B2B content teams.",
+    "category": "Marketing",
+    "episodes": [
+      30
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Shopping Mode",
     "definition": "An AI-driven product discovery feature where social platforms use creator content to surface relevant products to users. Meta's Muse Spark Shopping Mode on Instagram creates a loop where AI matches creator posts with shoppable products \u2014 changing how products get discovered on social media.",
     "category": "Marketing",
@@ -156,6 +165,15 @@
       9,
       7,
       19
+    ],
+    "letter": "L"
+  },
+  {
+    "term": "Localized Video Editing",
+    "definition": "The ability to edit specific regions within a video frame \u2014 changing a background, swapping an object, or adjusting a detail \u2014 without regenerating the entire clip. Runway's Aleph 2.0 Edit Studio brings this Photoshop-style control to AI video for the first time.",
+    "category": "Content Creation",
+    "episodes": [
+      30
     ],
     "letter": "L"
   },

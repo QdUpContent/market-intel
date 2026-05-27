@@ -1884,5 +1884,101 @@
         "source": "ThePlanetTools"
       }
     ]
+  },
+  "ep30": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro"
+      },
+      {
+        "time": "1:40",
+        "seconds": 100,
+        "label": "Story #1: Google Gemini Omni Flash (Free AI Video for YouTube)"
+      },
+      {
+        "time": "4:26",
+        "seconds": 266,
+        "label": "Story #2: LinkedIn's AI Content Crackdown"
+      },
+      {
+        "time": "7:32",
+        "seconds": 452,
+        "label": "Story #3: Runway Aleph 2.0 + Edit Studio"
+      },
+      {
+        "time": "9:52",
+        "seconds": 592,
+        "label": "Quick Hits (5 Rapid-Fire Updates)"
+      },
+      {
+        "time": "12:40",
+        "seconds": 760,
+        "label": "Closing Recap & Next Week Preview"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Introducing Gemini Omni",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Google I/O 2026 \u2014 100 Announcements",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Gemini Omni Flash Overview",
+        "url": "https://mashable.com/article/gemini-omni-flash-ai-video-generation-google-io-2026",
+        "source": "Mashable"
+      },
+      {
+        "title": "LinkedIn Wants to Limit AI-Generated Content",
+        "url": "https://www.socialmediatoday.com/news/linkedin-wants-to-limit-the-reach-of-ai-generated-content/820935/",
+        "source": "Social Media Today"
+      },
+      {
+        "title": "LinkedIn Cracks Down on AI Slop",
+        "url": "https://www.emarketer.com/content/linkedin-cracks-down-on-ai-slop-even-expands-available-ai-tools",
+        "source": "EMARKETER"
+      },
+      {
+        "title": "LinkedIn's AI Search Impact Numbers",
+        "url": "https://www.linkedin.com/pulse/linkedins-ai-search-impact-numbers-kaleigh-moore-mf0vc",
+        "source": "Kaleigh Moore (LinkedIn)"
+      },
+      {
+        "title": "Introducing Aleph 2.0 and Edit Studio",
+        "url": "https://runwayml.com/news/introducing-aleph-2-and-edit-studio",
+        "source": "Runway"
+      },
+      {
+        "title": "AI Film Critterz Misses Cannes After Sora Shutdown",
+        "url": "https://bloomberg.com/news/articles/2026-05-22/ai-cartoon-critterz-misses-cannes-debut-after-openai-shut-sora",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "$22M in Creator Earnings on ElevenLabs",
+        "url": "https://elevenlabs.io/blog/22-million-earned-by-voice-creators-on-elevenlabs",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "Kling AI at Cannes",
+        "url": "https://www.globenewswire.com/news-release/2026/05/20/3298186/0/en/global-filmmakers-are-leveraging-kling-ai-to-push-the-boundaries-of-storytelling-cannes-panel-presents.html",
+        "source": "GlobeNewswire"
+      },
+      {
+        "title": "TikTok World 2026 AI Ad Tools",
+        "url": "https://www.contentgrip.com/tiktok-world-2026-ai-ad-tools/",
+        "source": "ContentGrip"
+      },
+      {
+        "title": "EU AI Act Watermarking Deadline",
+        "url": "https://www.linkedin.com/pulse/ai-act-deadlines-reset-what-you-need-know-brief-thierry-zoller-dbxse",
+        "source": "Thierry Zoller (LinkedIn)"
+      }
+    ]
   }
 }
