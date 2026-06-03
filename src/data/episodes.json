@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep31",
+    "num": 31,
+    "title": "Claude Opus 4.8 + Runway MCP Integration + ElevenLabs Music v2",
+    "date": "2026-06-03",
+    "dateDisplay": "Jun 3, 2026",
+    "duration": "14:00",
+    "description": "Claude Opus 4.8 launches at the same price with Dynamic Workflows and 0% false reporting. Runway's MCP integration lets you generate video inside Claude and ChatGPT. ElevenLabs slashes music prices up to 50% with commercially cleared AI tracks.",
+    "tags": [
+      "Claude Opus 4.8",
+      "Runway MCP",
+      "ElevenLabs Music v2"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/28437fdd-d9a2-448c-a461-603b18904bf5.mp3"
+    }
+  },
+  {
     "id": "ep30",
     "num": 30,
     "title": "Free AI Video for YouTube + LinkedIn's AI Crackdown + Runway Aleph 2.0",
@@ -12,7 +38,7 @@
       "LinkedIn AI Crackdown",
       "Runway Aleph 2.0"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

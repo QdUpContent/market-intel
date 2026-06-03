@@ -42,10 +42,11 @@
       10,
       8,
       25,
-      27
+      27,
+      31
     ],
-    "lastUpdated": "2026-05-06",
-    "lastUpdatedDisplay": "May 6, 2026",
+    "lastUpdated": "2026-06-03",
+    "lastUpdatedDisplay": "Jun 3, 2026",
     "url": "https://elevenlabs.io"
   },
   {
@@ -587,5 +588,44 @@
     "lastUpdated": "2026-05-27",
     "lastUpdatedDisplay": "May 27, 2026",
     "url": "https://runwayml.com"
+  },
+  {
+    "name": "Claude Opus 4.8",
+    "category": "AI Assistant",
+    "pricing": "Same as Opus 4.7 ($20/mo Pro)",
+    "useCase": "Anthropic's most capable model with Effort Control (dial thinking depth), Dynamic Workflows (spawn hundreds of parallel agents), and 0% false reporting rate. Fast Mode is 3x cheaper.",
+    "rating": "Top Pick",
+    "episodes": [
+      31
+    ],
+    "lastUpdated": "2026-06-03",
+    "lastUpdatedDisplay": "Jun 3, 2026",
+    "url": "https://claude.ai"
+  },
+  {
+    "name": "Runway MCP",
+    "category": "Video Generation",
+    "pricing": "No extra cost (existing subscriptions)",
+    "useCase": "Generate video inside Claude, ChatGPT, Cursor, and Replit via Model Context Protocol. One OAuth connection gives access to Runway's full model library (Gen-4.5, Kling 3.0, Seedance 2.0). No API key, no platform switching.",
+    "rating": "Top Pick",
+    "episodes": [
+      31
+    ],
+    "lastUpdated": "2026-06-03",
+    "lastUpdatedDisplay": "Jun 3, 2026",
+    "url": "https://runwayml.com"
+  },
+  {
+    "name": "ElevenLabs Music v2",
+    "category": "Music Generation",
+    "pricing": "Up to 50% cheaper (API) / 40% off self-serve",
+    "useCase": "Commercial AI music with every track cleared \u2014 no sync fees, no licensing delays. New: mid-track genre transitions, section-level inpainting, and fast rap delivery.",
+    "rating": "Top Pick",
+    "episodes": [
+      31
+    ],
+    "lastUpdated": "2026-06-03",
+    "lastUpdatedDisplay": "Jun 3, 2026",
+    "url": "https://elevenlabs.io"
   }
 ]

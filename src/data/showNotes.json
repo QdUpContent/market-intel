@@ -1980,5 +1980,96 @@
         "source": "Thierry Zoller (LinkedIn)"
       }
     ]
+  },
+  "ep31": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Opening Statement"
+      },
+      {
+        "time": "0:15",
+        "seconds": 15,
+        "label": "Host Intros & AI Disclaimer"
+      },
+      {
+        "time": "1:36",
+        "seconds": 96,
+        "label": "Story #1: Claude Opus 4.8 \u2014 What Happened, Why It Matters, Reality Check"
+      },
+      {
+        "time": "5:46",
+        "seconds": 346,
+        "label": "Story #2: Runway MCP Integration"
+      },
+      {
+        "time": "8:58",
+        "seconds": 538,
+        "label": "Story #3: ElevenLabs Music v2"
+      },
+      {
+        "time": "11:42",
+        "seconds": 702,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "13:42",
+        "seconds": 822,
+        "label": "Closing Recap"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Claude Opus 4.8 Official Announcement",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "source": "Anthropic"
+      },
+      {
+        "title": "Claude Release Notes (May 28, 2026)",
+        "url": "https://support.claude.com/en/articles/12138966-release-notes",
+        "source": "Claude Help Center"
+      },
+      {
+        "title": "Opus 4.8 Dynamic Workflows",
+        "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic Mythos Preview + Opus 4.8",
+        "url": "https://www.reuters.com/business/anthropic-roll-out-claude-mythos-coming-weeks-launches-opus-48-2026-05-28/",
+        "source": "Reuters"
+      },
+      {
+        "title": "Runway MCP Official Announcement",
+        "url": "https://runwayml.com/news/mcp",
+        "source": "Runway"
+      },
+      {
+        "title": "Runway MCP Breakdown",
+        "url": "https://gigazine.net/gsc_news/en/20260528-runway-mcp-chatgpt-claude/",
+        "source": "GIGAZINE"
+      },
+      {
+        "title": "ElevenLabs Music v2",
+        "url": "https://elevenlabs.io/blog/introducing-music-v2",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "ElevenLabs Music v2 Coverage",
+        "url": "https://tech.yahoo.com/audio/articles/elevenlabs-music-generation-model-switch-141410217.html",
+        "source": "Yahoo Tech"
+      },
+      {
+        "title": "Zapier AI Models Update",
+        "url": "https://zapier.com/blog/ai-models-on-zapier/",
+        "source": "Zapier"
+      },
+      {
+        "title": "Notion Release Notes (May 26)",
+        "url": "https://www.notion.com/releases/2026-05-26",
+        "source": "Notion"
+      }
+    ]
   }
 }
