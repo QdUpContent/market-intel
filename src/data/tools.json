@@ -518,10 +518,11 @@
     "useCase": "Content workflow automation for non-developers. 20-minute setup turns one product brief into five pieces of content automatically. Practitioner guides now available for marketers.",
     "rating": "Top Pick",
     "episodes": [
-      28
+      28,
+      32
     ],
-    "lastUpdated": "2026-05-13",
-    "lastUpdatedDisplay": "May 13, 2026",
+    "lastUpdated": "2026-06-10",
+    "lastUpdatedDisplay": "Jun 10, 2026",
     "url": "https://openai.com"
   },
   {
@@ -627,5 +628,31 @@
     "lastUpdated": "2026-06-03",
     "lastUpdatedDisplay": "Jun 3, 2026",
     "url": "https://elevenlabs.io"
+  },
+  {
+    "name": "Microsoft Copilot for SMB",
+    "category": "AI Assistant",
+    "pricing": "$117.50\u2013$160/mo (5-person team)",
+    "useCase": "Permanent AI assistant across Microsoft 365 \u2014 Word, Excel, PowerPoint, Teams. New MAI-Image-2.5 generates presentation visuals. Model the pilot before July 1st deadline.",
+    "rating": "New",
+    "episodes": [
+      32
+    ],
+    "lastUpdated": "2026-06-10",
+    "lastUpdatedDisplay": "Jun 10, 2026",
+    "url": "https://microsoft.com/copilot"
+  },
+  {
+    "name": "OpenAI Codex Creative Plugin",
+    "category": "AI Agents",
+    "pricing": "ChatGPT Plus / Pro plans",
+    "useCase": "Brief-to-campaign-board in one workflow. Integrates directly with Figma, Canva, Shutterstock, Picsart, and Fal for end-to-end creative production without platform switching.",
+    "rating": "New",
+    "episodes": [
+      32
+    ],
+    "lastUpdated": "2026-06-10",
+    "lastUpdatedDisplay": "Jun 10, 2026",
+    "url": "https://openai.com"
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep32",
+    "num": 32,
+    "title": "Microsoft Copilot Goes Permanent + Anthropic Files for IPO + Codex Creative Plugins",
+    "date": "2026-06-10",
+    "dateDisplay": "Jun 10, 2026",
+    "duration": "11:00",
+    "description": "Microsoft made Copilot a permanent product for small business teams at $117.50\u2013$160/month for 5 people. Anthropic filed a draft S-1 with the SEC on a path toward a near-trillion-dollar IPO. OpenAI Codex expanded into creative production with Figma, Canva, and Shutterstock integrations.",
+    "tags": [
+      "Microsoft Copilot",
+      "Anthropic IPO",
+      "OpenAI Codex Plugins"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/4f18bbd6-c52c-4c36-b9fb-16aaff76b57f.mp3"
+    }
+  },
+  {
     "id": "ep31",
     "num": 31,
     "title": "Claude Opus 4.8 + Runway MCP Integration + ElevenLabs Music v2",
@@ -12,7 +38,7 @@
       "Runway MCP",
       "ElevenLabs Music v2"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

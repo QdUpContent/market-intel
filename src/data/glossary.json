@@ -272,6 +272,15 @@
     "letter": "R"
   },
   {
+    "term": "S-1 Filing",
+    "definition": "A registration statement filed with the SEC before a company goes public (IPO). Anthropic's confidential S-1 draft signals a near-trillion-dollar public offering \u2014 important for SMBs standardizing on Claude, as it means long-term platform commitment and stability.",
+    "category": "Companies",
+    "episodes": [
+      32
+    ],
+    "letter": "S"
+  },
+  {
     "term": "Storyboard-to-Video",
     "definition": "An AI workflow where you provide a script or outline and the tool automatically generates a complete video with scenes, transitions, and visuals. CapCut's rebuilt AI Video Maker brings this to zero cost, cutting production time to 15 minutes.",
     "category": "Content Creation",

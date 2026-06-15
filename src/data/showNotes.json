@@ -2071,5 +2071,81 @@
         "source": "Notion"
       }
     ]
+  },
+  "ep32": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Hook"
+      },
+      {
+        "time": "0:18",
+        "seconds": 18,
+        "label": "Intros + AI Disclosure"
+      },
+      {
+        "time": "0:50",
+        "seconds": 50,
+        "label": "This Week's Story Preview"
+      },
+      {
+        "time": "1:20",
+        "seconds": 80,
+        "label": "Story #1: Microsoft Copilot Permanent SMB SKUs + Build 2026"
+      },
+      {
+        "time": "4:30",
+        "seconds": 270,
+        "label": "Story #2: Anthropic S-1 IPO Filing"
+      },
+      {
+        "time": "7:00",
+        "seconds": 420,
+        "label": "Story #3: OpenAI Codex Creative Production Plugin"
+      },
+      {
+        "time": "9:15",
+        "seconds": 555,
+        "label": "Quick Hits (5 developments)"
+      },
+      {
+        "time": "10:45",
+        "seconds": 645,
+        "label": "Closing Recap + Next Week Watch List"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Microsoft Partner Center SKU Announcement",
+        "url": "https://learn.microsoft.com/en-us/partner-center/announcements/2026-june",
+        "source": "Microsoft"
+      },
+      {
+        "title": "Microsoft Build 2026 Official Blog",
+        "url": "https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/",
+        "source": "Microsoft"
+      },
+      {
+        "title": "Anthropic S-1 Filing",
+        "url": "https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Anthropic IPO \u2014 EdTech Analysis",
+        "url": "https://www.edtechinnovationhub.com/news/anthropic-files-confidential-draft-ipo-paperwork-as-sec-review-begins",
+        "source": "EdTech Innovation Hub"
+      },
+      {
+        "title": "OpenAI Codex Role Plugins",
+        "url": "https://openai.com/index/codex-for-every-role-tool-workflow/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Codex Creative Production Analysis",
+        "url": "https://www.digitalapplied.com/blog/openai-codex-chatgpt-business-plugins-june-2026-agentic-work",
+        "source": "Digital Applied"
+      }
+    ]
   }
 }
