@@ -2147,5 +2147,86 @@
         "source": "Digital Applied"
       }
     ]
+  },
+  "ep33": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Beginning"
+      },
+      {
+        "time": "0:18",
+        "seconds": 18,
+        "label": "Host Intros & AI Disclaimer"
+      },
+      {
+        "time": "1:42",
+        "seconds": 102,
+        "label": "Story #1: Adobe Firefly Multi-Model Hub"
+      },
+      {
+        "time": "5:42",
+        "seconds": 342,
+        "label": "Story #2: Meta Edits AI Assistant"
+      },
+      {
+        "time": "8:27",
+        "seconds": 507,
+        "label": "Story #3: Descript Tone Tags & MCP"
+      },
+      {
+        "time": "10:50",
+        "seconds": 650,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "12:38",
+        "seconds": 758,
+        "label": "Closing Recap"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Adobe Firefly What's New (June 10)",
+        "url": "https://helpx.adobe.com/in/firefly/web/whats-new/new-features/whats-new.html",
+        "source": "Adobe"
+      },
+      {
+        "title": "Adobe Firefly Boards",
+        "url": "https://helpx.adobe.com/in/firefly/web/create-mood-boards/firefly-boards/create-mood-boards.html",
+        "source": "Adobe"
+      },
+      {
+        "title": "Adobe Firefly Partner Video Models",
+        "url": "https://helpx.adobe.com/ie/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-non-adobe-models.html",
+        "source": "Adobe"
+      },
+      {
+        "title": "Adobe Partner Models in Adobe Products",
+        "url": "https://helpx.adobe.com/creative-cloud/apps/generative-ai/non-adobe-models-in-adobe-products.html",
+        "source": "Adobe"
+      },
+      {
+        "title": "Meta Edits App AI Assistant & Desktop",
+        "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instagram Edits Beat Markers & AI Tools",
+        "url": "https://hypebeast.com/2026/6/instagram-edits-app-adds-beat-markers-and-ai-tools",
+        "source": "Hypebeast"
+      },
+      {
+        "title": "Descript June 11 Release Round-Up",
+        "url": "https://descript.canny.io/changelog/release-round-upjune-11th-2026",
+        "source": "Descript"
+      },
+      {
+        "title": "Salesforce Summer '26 Developer Guide",
+        "url": "https://developer.salesforce.com/blogs/2026/06/the-salesforce-developers-guide-to-the-summer-26-release",
+        "source": "Salesforce"
+      }
+    ]
   }
 }

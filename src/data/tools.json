@@ -232,11 +232,12 @@
     "episodes": [
       18,
       19,
-      25
+      25,
+      33
     ],
-    "lastUpdated": "2026-04-22",
+    "lastUpdated": "2026-06-17",
     "url": "https://descript.com",
-    "lastUpdatedDisplay": "Apr 22, 2026"
+    "lastUpdatedDisplay": "Jun 17, 2026"
   },
   {
     "name": "Pictory 2.0",
@@ -440,10 +441,11 @@
     "useCase": "Transcript-based video editing now chainable to Claude and GPT automations. Enables 'video waterfall' workflows where a single recording auto-generates multiple content formats.",
     "rating": "New",
     "episodes": [
-      25
+      25,
+      33
     ],
-    "lastUpdated": "2026-04-22",
-    "lastUpdatedDisplay": "Apr 22, 2026",
+    "lastUpdated": "2026-06-17",
+    "lastUpdatedDisplay": "Jun 17, 2026",
     "url": "https://descript.com"
   },
   {
@@ -654,5 +656,44 @@
     "lastUpdated": "2026-06-10",
     "lastUpdatedDisplay": "Jun 10, 2026",
     "url": "https://openai.com"
+  },
+  {
+    "name": "Adobe Firefly Multi-Model Hub",
+    "category": "Design",
+    "pricing": "Creative Cloud / Firefly free tier",
+    "useCase": "Access Kling, Runway Gen-4.5, Veo 3.1, and Ray video models plus Image Model 4 and text-to-vector from one interface. Firefly Boards enable model bake-offs inside a single workflow. Watch generative credit consumption.",
+    "rating": "Top Pick",
+    "episodes": [
+      33
+    ],
+    "lastUpdated": "2026-06-17",
+    "lastUpdatedDisplay": "Jun 17, 2026",
+    "url": "https://firefly.adobe.com"
+  },
+  {
+    "name": "Meta Edits AI Assistant",
+    "category": "Video Generation",
+    "pricing": "Free",
+    "useCase": "AI assistant for Instagram's Edits app using your actual performance data (views, retention) to power ideation and recommendations. Multi-version testing, expanded audience insights, and 4K watermark-free export. Still in testing but live features ready now.",
+    "rating": "New",
+    "episodes": [
+      33
+    ],
+    "lastUpdated": "2026-06-17",
+    "lastUpdatedDisplay": "Jun 17, 2026",
+    "url": "https://creators.instagram.com/edits"
+  },
+  {
+    "name": "Descript Tone Tags",
+    "category": "Voice & Audio",
+    "pricing": "Descript paid plans",
+    "useCase": "Direct emotion in ElevenLabs v3 AI voices with inline tone instructions. Concurrent AI media generation (up to 5 parallel jobs). MCP connector lets you edit projects and trigger publishes through natural language in Claude and ChatGPT.",
+    "rating": "New",
+    "episodes": [
+      33
+    ],
+    "lastUpdated": "2026-06-17",
+    "lastUpdatedDisplay": "Jun 17, 2026",
+    "url": "https://descript.com"
   }
 ]

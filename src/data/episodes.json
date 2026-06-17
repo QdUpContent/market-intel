@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep33",
+    "num": 33,
+    "title": "Adobe Firefly Multi-Model Hub + Meta Edits AI + Descript Tone Tags & MCP",
+    "date": "2026-06-17",
+    "dateDisplay": "Jun 17, 2026",
+    "duration": "13:00",
+    "description": "Adobe Firefly became a multi-model creative hub with Runway, Sora, Veo, and Kling inside it. Meta previewed an AI assistant for Edits that uses your actual Instagram performance data. Descript added Tone Tags for ElevenLabs voices and an MCP connector live in Claude and ChatGPT.",
+    "tags": [
+      "Adobe Firefly Hub",
+      "Meta Edits AI",
+      "Descript MCP"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/f0f0d461-0597-4063-9ca5-24ca20ecce2e.mp3"
+    }
+  },
+  {
     "id": "ep32",
     "num": 32,
     "title": "Microsoft Copilot Goes Permanent + Anthropic Files for IPO + Codex Creative Plugins",
@@ -12,7 +38,7 @@
       "Anthropic IPO",
       "OpenAI Codex Plugins"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

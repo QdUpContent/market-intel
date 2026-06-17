@@ -96,10 +96,11 @@
       20,
       27,
       30,
-      31
+      31,
+      33
     ],
-    "lastMentioned": "2026-06-03",
-    "lastMentionedDisplay": "Jun 3, 2026",
+    "lastMentioned": "2026-06-17",
+    "lastMentionedDisplay": "Jun 17, 2026",
     "tags": [
       "Video",
       "Audio",
@@ -117,10 +118,11 @@
     "episodes": [
       15,
       10,
-      6
+      6,
+      33
     ],
-    "lastMentioned": "2026-02-11",
-    "lastMentionedDisplay": "Feb 11, 2026",
+    "lastMentioned": "2026-06-17",
+    "lastMentionedDisplay": "Jun 17, 2026",
     "tags": [
       "Video",
       "Audio"
@@ -300,16 +302,17 @@
     "url": "https://descript.com",
     "episodes": [
       18,
-      25
+      25,
+      33
     ],
-    "lastMentioned": "2026-04-22",
+    "lastMentioned": "2026-06-17",
     "tags": [
       "Video",
       "Audio",
       "Editing",
       "AI Assistant"
     ],
-    "lastMentionedDisplay": "Apr 22, 2026"
+    "lastMentionedDisplay": "Jun 17, 2026"
   },
   {
     "name": "Pictory",
@@ -495,10 +498,11 @@
     "status": "Rising Star",
     "url": "https://creators.instagram.com/edits",
     "episodes": [
-      29
+      29,
+      33
     ],
-    "lastMentioned": "2026-05-20",
-    "lastMentionedDisplay": "May 20, 2026",
+    "lastMentioned": "2026-06-17",
+    "lastMentionedDisplay": "Jun 17, 2026",
     "tags": [
       "Video",
       "Free",
@@ -542,6 +546,26 @@
       "Productivity",
       "Office",
       "Enterprise"
+    ]
+  },
+  {
+    "name": "Adobe Firefly",
+    "slug": "adobe-firefly",
+    "category": "Design & Creative",
+    "pricing": "Creative Cloud plans / Firefly free tier",
+    "description": "Adobe transformed Firefly into a multi-model creative production hub with partner video models (Kling, Runway Gen-4.5, Veo 3.1, Ray), Image Model 4, text-to-vector, Firefly Boards, and audio/video translation \u2014 all from one interface.",
+    "status": "Leading",
+    "url": "https://firefly.adobe.com",
+    "episodes": [
+      33
+    ],
+    "lastMentioned": "2026-06-17",
+    "lastMentionedDisplay": "Jun 17, 2026",
+    "tags": [
+      "Design",
+      "Multi-Model",
+      "Video",
+      "Image Generation"
     ]
   }
 ]
