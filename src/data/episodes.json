@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep34",
+    "num": 34,
+    "title": "Grok Imagine Video 1.5 Just Beat Everyone",
+    "date": "2026-06-24",
+    "dateDisplay": "Jun 24, 2026",
+    "duration": "9:00",
+    "description": "xAI dropped the most price-competitive AI video model at $0.14/sec \u2014 now #1 on the leaderboard. OpenAI officially entered the ad creative business with self-serve tools for all US advertisers. Meta's AI Mode on Facebook is quietly changing how brands get discovered organically.",
+    "tags": [
+      "Grok Imagine Video",
+      "OpenAI Ads",
+      "Meta AI Mode"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/3494748f-1c49-4cca-b5e0-c3c30389dc9d.mp3"
+    }
+  },
+  {
     "id": "ep33",
     "num": 33,
     "title": "Adobe Firefly Multi-Model Hub + Meta Edits AI + Descript Tone Tags & MCP",
@@ -12,7 +38,7 @@
       "Meta Edits AI",
       "Descript MCP"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

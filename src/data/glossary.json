@@ -20,6 +20,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Mode (Social Search)",
+    "definition": "A social platform search layer that synthesizes answers from community content (Groups, Reels, posts) instead of returning traditional links. Meta's AI Mode on Facebook changes how brands get discovered organically \u2014 answers are assembled from creator content rather than website links.",
+    "category": "Marketing",
+    "episodes": [
+      34
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Shopping Mode",
     "definition": "An AI-driven product discovery feature where social platforms use creator content to surface relevant products to users. Meta's Muse Spark Shopping Mode on Instagram creates a loop where AI matches creator posts with shoppable products \u2014 changing how products get discovered on social media.",
     "category": "Marketing",

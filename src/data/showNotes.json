@@ -2228,5 +2228,96 @@
         "source": "Salesforce"
       }
     ]
+  },
+  "ep34": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Cold Hook"
+      },
+      {
+        "time": "0:15",
+        "seconds": 15,
+        "label": "Host Intros & AI Disclosure"
+      },
+      {
+        "time": "0:45",
+        "seconds": 45,
+        "label": "Story Previews"
+      },
+      {
+        "time": "1:10",
+        "seconds": 70,
+        "label": "Story #1: Grok Imagine Video 1.5 (xAI)"
+      },
+      {
+        "time": "3:30",
+        "seconds": 210,
+        "label": "Story #2: OpenAI Ad Creative Tools"
+      },
+      {
+        "time": "5:15",
+        "seconds": 315,
+        "label": "Story #3: Meta AI Mode & Creator Wave"
+      },
+      {
+        "time": "6:55",
+        "seconds": 415,
+        "label": "Quick Hits (5 rapid-fire)"
+      },
+      {
+        "time": "8:10",
+        "seconds": 490,
+        "label": "Closing Recap & Next Week Preview"
+      }
+    ],
+    "sources": [
+      {
+        "title": "xAI Grok Imagine Video 1.5",
+        "url": "https://x.ai",
+        "source": "xAI"
+      },
+      {
+        "title": "Image-to-Video Arena Leaderboard",
+        "url": "https://artificialanalysis.ai",
+        "source": "Artificial Analysis"
+      },
+      {
+        "title": "OpenAI Ad Tools Terms Update",
+        "url": "https://digiday.com",
+        "source": "Digiday"
+      },
+      {
+        "title": "OpenAI Ads Manager",
+        "url": "https://ads.openai.com",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Meta AI Mode Announcement",
+        "url": "https://about.fb.com",
+        "source": "Meta"
+      },
+      {
+        "title": "Meta Creator Tools",
+        "url": "https://techcrunch.com",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Americans and AI 2026",
+        "url": "https://pewresearch.org",
+        "source": "Pew Research"
+      },
+      {
+        "title": "State of AI Report 2026",
+        "url": "https://sensortower.com",
+        "source": "Sensor Tower"
+      },
+      {
+        "title": "TikTok Symphony \u2014 Seedance 2.0 Confirmation",
+        "url": "https://ads.tiktok.com",
+        "source": "TikTok"
+      }
+    ]
   }
 }

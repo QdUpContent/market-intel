@@ -695,5 +695,31 @@
     "lastUpdated": "2026-06-17",
     "lastUpdatedDisplay": "Jun 17, 2026",
     "url": "https://descript.com"
+  },
+  {
+    "name": "Grok Imagine Video 1.5",
+    "category": "Video Generation",
+    "pricing": "$0.14/sec",
+    "useCase": "Image-to-video AI model ranked #1 on the Artificial Analysis leaderboard (1.15M+ votes). Most price-competitive option on the market for AI video generation via API.",
+    "rating": "Top Pick",
+    "episodes": [
+      34
+    ],
+    "lastUpdated": "2026-06-24",
+    "lastUpdatedDisplay": "Jun 24, 2026",
+    "url": "https://x.ai"
+  },
+  {
+    "name": "OpenAI Ads Manager",
+    "category": "Advertising",
+    "pricing": "Self-serve / no minimum spend",
+    "useCase": "AI-powered ad creative automation now open to all US advertisers. Daily budget cap doubled to $200. OpenAI formally entered the ad creative business with updated Ad Tools Terms.",
+    "rating": "New",
+    "episodes": [
+      34
+    ],
+    "lastUpdated": "2026-06-24",
+    "lastUpdatedDisplay": "Jun 24, 2026",
+    "url": "https://ads.openai.com"
   }
 ]

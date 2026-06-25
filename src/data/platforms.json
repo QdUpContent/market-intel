@@ -44,10 +44,11 @@
       22,
       26,
       28,
-      32
+      32,
+      34
     ],
-    "lastMentioned": "2026-06-10",
-    "lastMentionedDisplay": "Jun 10, 2026",
+    "lastMentioned": "2026-06-24",
+    "lastMentionedDisplay": "Jun 24, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -459,10 +460,11 @@
     "url": "https://about.fb.com",
     "episodes": [
       24,
-      26
+      26,
+      34
     ],
-    "lastMentioned": "2026-04-29",
-    "lastMentionedDisplay": "Apr 29, 2026",
+    "lastMentioned": "2026-06-24",
+    "lastMentionedDisplay": "Jun 24, 2026",
     "tags": [
       "Social",
       "Shopping",
@@ -566,6 +568,25 @@
       "Multi-Model",
       "Video",
       "Image Generation"
+    ]
+  },
+  {
+    "name": "xAI Grok",
+    "slug": "xai-grok",
+    "category": "Video Generation",
+    "pricing": "$0.14/sec (API)",
+    "description": "xAI's Grok Imagine Video 1.5 claimed the #1 spot on the Artificial Analysis leaderboard with 1.15M+ votes. The most price-competitive AI video model on the market at $0.14 per second of generated video.",
+    "status": "Disruptor",
+    "url": "https://x.ai",
+    "episodes": [
+      34
+    ],
+    "lastMentioned": "2026-06-24",
+    "lastMentionedDisplay": "Jun 24, 2026",
+    "tags": [
+      "Video",
+      "API",
+      "Budget"
     ]
   }
 ]
