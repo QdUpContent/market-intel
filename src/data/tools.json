@@ -96,10 +96,11 @@
     "useCase": "Workflow automation with new agent governance features for controlling AI-powered automations at scale.",
     "rating": "Essential",
     "episodes": [
-      8
+      8,
+      35
     ],
-    "lastUpdated": "2025-12-24",
-    "lastUpdatedDisplay": "Dec 24, 2025",
+    "lastUpdated": "2026-07-01",
+    "lastUpdatedDisplay": "Jul 1, 2026",
     "url": "https://zapier.com"
   },
   {
@@ -721,5 +722,44 @@
     "lastUpdated": "2026-06-24",
     "lastUpdatedDisplay": "Jun 24, 2026",
     "url": "https://ads.openai.com"
+  },
+  {
+    "name": "TikTok Symphony Agent",
+    "category": "Advertising",
+    "pricing": "Free (TikTok Business)",
+    "useCase": "AI campaign operating layer \u2014 writes briefs, searches thousands of creator videos, matches creators to your goals, and builds TikTok-native ads. Custom Creator Networks for employee and advocate programs.",
+    "rating": "Top Pick",
+    "episodes": [
+      35
+    ],
+    "lastUpdated": "2026-07-01",
+    "lastUpdatedDisplay": "Jul 1, 2026",
+    "url": "https://ads.tiktok.com"
+  },
+  {
+    "name": "Claude Tag",
+    "category": "AI Assistant",
+    "pricing": "Claude Team / Enterprise plans",
+    "useCase": "Claude joins Slack as a channel-aware AI teammate. Tag @Claude, assign async work, get results without leaving the collaboration stream. Channel-scoped memory keeps separate contexts per client or project.",
+    "rating": "New",
+    "episodes": [
+      35
+    ],
+    "lastUpdated": "2026-07-01",
+    "lastUpdatedDisplay": "Jul 1, 2026",
+    "url": "https://claude.ai"
+  },
+  {
+    "name": "Zapier Agents",
+    "category": "Automation",
+    "pricing": "See Zapier plans",
+    "useCase": "AI teammates that work across your entire app stack. Autonomous agents that chain actions across connected apps without manual triggers.",
+    "rating": "New",
+    "episodes": [
+      35
+    ],
+    "lastUpdated": "2026-07-01",
+    "lastUpdatedDisplay": "Jul 1, 2026",
+    "url": "https://zapier.com/agents"
   }
 ]

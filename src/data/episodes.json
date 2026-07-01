@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep35",
+    "num": 35,
+    "title": "TikTok Symphony Agent + Claude Tag for Slack + GPT-5.5 Instant Update",
+    "date": "2026-07-01",
+    "dateDisplay": "Jul 1, 2026",
+    "duration": "14:00",
+    "description": "TikTok launched Symphony Agent at Cannes Lions \u2014 an AI that writes briefs, matches creators, and builds TikTok-native ads. Claude Tag brings Claude into Slack as a channel-aware AI teammate. OpenAI quietly updated GPT-5.5 Instant with better planning, research, and recommendations.",
+    "tags": [
+      "TikTok Symphony Agent",
+      "Claude Tag",
+      "GPT-5.5 Instant"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/d0ac2802-d81f-4e40-a15d-89f04429b6ba.mp3"
+    }
+  },
+  {
     "id": "ep34",
     "num": 34,
     "title": "Grok Imagine Video 1.5 Just Beat Everyone",
@@ -12,7 +38,7 @@
       "OpenAI Ads",
       "Meta AI Mode"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

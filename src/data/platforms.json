@@ -45,10 +45,11 @@
       26,
       28,
       32,
-      34
+      34,
+      35
     ],
-    "lastMentioned": "2026-06-24",
-    "lastMentionedDisplay": "Jun 24, 2026",
+    "lastMentioned": "2026-07-01",
+    "lastMentionedDisplay": "Jul 1, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -72,10 +73,11 @@
       25,
       28,
       31,
-      32
+      32,
+      35
     ],
-    "lastMentioned": "2026-06-10",
-    "lastMentionedDisplay": "Jun 10, 2026",
+    "lastMentioned": "2026-07-01",
+    "lastMentionedDisplay": "Jul 1, 2026",
     "tags": [
       "LLM",
       "Reasoning",
@@ -587,6 +589,25 @@
       "Video",
       "API",
       "Budget"
+    ]
+  },
+  {
+    "name": "TikTok Symphony",
+    "slug": "tiktok-symphony",
+    "category": "Advertising",
+    "pricing": "Free for Business users",
+    "description": "TikTok's first AI campaign operating layer launched at Cannes Lions. Symphony Agent writes campaign briefs, searches creator videos, matches creators to goals, and builds TikTok-native ads \u2014 all inside the platform. Starbucks named as first partner.",
+    "status": "Rising Star",
+    "url": "https://ads.tiktok.com",
+    "episodes": [
+      35
+    ],
+    "lastMentioned": "2026-07-01",
+    "lastMentionedDisplay": "Jul 1, 2026",
+    "tags": [
+      "Ads",
+      "Creator Economy",
+      "AI Agents"
     ]
   }
 ]

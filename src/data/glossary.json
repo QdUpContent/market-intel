@@ -78,6 +78,15 @@
     "letter": "C"
   },
   {
+    "term": "Channel-Scoped Memory",
+    "definition": "An AI feature where the assistant maintains separate memory contexts based on which Slack channel it's operating in. Claude Tag uses this so conversations about Client A in #client-a stay separate from Client B in #client-b \u2014 critical for agencies managing multiple accounts.",
+    "category": "Concepts",
+    "episodes": [
+      35
+    ],
+    "letter": "C"
+  },
+  {
     "term": "Character Consistency",
     "definition": "The ability to maintain a character's appearance, proportions, and visual identity across multiple AI-generated video scenes. Previously the hardest unsolved problem in AI video \u2014 tools like Higgsfield Soul Cast now address this with parametric design systems.",
     "category": "Content Creation",
@@ -110,6 +119,15 @@
     "category": "Marketing",
     "episodes": [
       26
+    ],
+    "letter": "C"
+  },
+  {
+    "term": "Creator Network",
+    "definition": "A curated group of content creators organized around a brand's goals. TikTok Symphony Agent's Custom Creator Networks let brands build networks from employees, advocates, or matched creators \u2014 then the AI generates campaign-ready content from their videos.",
+    "category": "Marketing",
+    "episodes": [
+      35
     ],
     "letter": "C"
   },

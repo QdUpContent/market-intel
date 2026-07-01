@@ -2319,5 +2319,91 @@
         "source": "TikTok"
       }
     ]
+  },
+  "ep35": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Start"
+      },
+      {
+        "time": "0:30",
+        "seconds": 30,
+        "label": "Host Intros & AI Disclaimer"
+      },
+      {
+        "time": "1:00",
+        "seconds": 60,
+        "label": "Story Preview"
+      },
+      {
+        "time": "1:30",
+        "seconds": 90,
+        "label": "Story #1: TikTok Symphony Agent (The Big One)"
+      },
+      {
+        "time": "5:30",
+        "seconds": 330,
+        "label": "Story #2: Anthropic Claude Tag (The Challenger)"
+      },
+      {
+        "time": "8:30",
+        "seconds": 510,
+        "label": "Story #3: OpenAI GPT-5.5 Instant Update (The Sleeper)"
+      },
+      {
+        "time": "11:00",
+        "seconds": 660,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "13:00",
+        "seconds": 780,
+        "label": "Closing Recap & Takeaways"
+      }
+    ],
+    "sources": [
+      {
+        "title": "TikTok Symphony Agent \u2014 Cannes Lions 2026",
+        "url": "https://newsroom.tiktok.com/tiktok-at-cannes-lions-2026-where-creative-solutions-creator-voices-and-culture-turn-creativity-into-business-impact?lang=en",
+        "source": "TikTok Newsroom"
+      },
+      {
+        "title": "Introducing Claude Tag",
+        "url": "https://www.anthropic.com/news/introducing-claude-tag",
+        "source": "Anthropic"
+      },
+      {
+        "title": "ChatGPT Release Notes",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Gemini 3.5 Flash Computer Use",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "ElevenLabs June 22 Changelog",
+        "url": "https://elevenlabs.io/docs/changelog/2026/6/22",
+        "source": "ElevenLabs"
+      },
+      {
+        "title": "HubSpot AI Outcomes for GTM Teams",
+        "url": "https://www.hubspot.com/company-news/hubspot-data-ai-is-driving-real-outcomes-for-gtm-teams",
+        "source": "HubSpot"
+      },
+      {
+        "title": "Zapier Agents",
+        "url": "https://zapier.com/agents",
+        "source": "Zapier"
+      },
+      {
+        "title": "HubSpot Agent CLI Public Beta",
+        "url": "https://community.hubspot.com/t/hubspot-agent-cli-available-in-public-beta/151146",
+        "source": "HubSpot Community"
+      }
+    ]
   }
 }
