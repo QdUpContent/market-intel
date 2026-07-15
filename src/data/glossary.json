@@ -270,6 +270,15 @@
     "letter": "O"
   },
   {
+    "term": "Performance Max",
+    "definition": "A Google Ads campaign type that uses AI to optimize ad delivery across all Google channels (Search, Display, YouTube, Gmail, Maps) from a single campaign. ActiveCampaign's new connector lets SMBs feed CRM data directly into Performance Max with AI-guided setup.",
+    "category": "Marketing",
+    "episodes": [
+      36
+    ],
+    "letter": "P"
+  },
+  {
     "term": "Prompt Engineering",
     "definition": "The skill of crafting effective instructions for AI models to get optimal outputs. Involves techniques like providing context, examples, and specific formatting requirements.",
     "category": "Skills",

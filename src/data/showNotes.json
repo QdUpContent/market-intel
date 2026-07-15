@@ -2405,5 +2405,96 @@
         "source": "HubSpot Community"
       }
     ]
+  },
+  "ep36": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Start"
+      },
+      {
+        "time": "1:15",
+        "seconds": 75,
+        "label": "Story 1: OpenAI ChatGPT Work & Sites"
+      },
+      {
+        "time": "4:30",
+        "seconds": 270,
+        "label": "Story 2: ActiveCampaign Google Ads Connector"
+      },
+      {
+        "time": "6:45",
+        "seconds": 405,
+        "label": "Story 3: Meta Muse Image"
+      },
+      {
+        "time": "8:30",
+        "seconds": 510,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "9:45",
+        "seconds": 585,
+        "label": "Recap & Closing"
+      }
+    ],
+    "sources": [
+      {
+        "title": "ChatGPT for Your Most Ambitious Work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "ChatGPT Release Notes",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "source": "OpenAI"
+      },
+      {
+        "title": "ActiveCampaign Google Ads Connector",
+        "url": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/ActiveCampaign-Launches-Google-Ads-Connector%C2%A0for-Active-Intelligence-175662.aspx",
+        "source": "DestinationCRM"
+      },
+      {
+        "title": "AI-Powered MarTech Releases",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "source": "MarTech"
+      },
+      {
+        "title": "Introducing Muse Image",
+        "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+        "source": "Meta Newsroom"
+      },
+      {
+        "title": "Meta AI Muse Image",
+        "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Microsoft Copilot Computer Use",
+        "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/announcing-computer-use-microsoft-copilot-studio-ui-automation/",
+        "source": "Microsoft"
+      },
+      {
+        "title": "Microsoft Copilot Agent Flows",
+        "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/introducing-agent-flows-transforming-automation-with-ai-first-workflows/",
+        "source": "Microsoft"
+      },
+      {
+        "title": "Google Ads AI Transparency Labels",
+        "url": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Introducing GPT-Live",
+        "url": "https://openai.com/index/introducing-gpt-live/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Adobe Firefly Seedance Integration",
+        "url": "https://helpx.adobe.com/ph_fil/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-seedance.html",
+        "source": "Adobe"
+      }
+    ]
   }
 }
