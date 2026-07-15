@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep37",
+    "num": 37,
+    "title": "ChatGPT Work & Sites + ActiveCampaign Google Ads + Meta Muse Image",
+    "date": "2026-07-15",
+    "dateDisplay": "Jul 15, 2026",
+    "duration": "10:00",
+    "description": "OpenAI turns ChatGPT into a real work agent that finishes deliverables \u2014 docs, decks, dashboards. ActiveCampaign adds an AI-guided Google Ads connector linking CRM data to Performance Max campaigns. Meta's Muse Image model is headed straight into Advantage+ ad creative.",
+    "tags": [
+      "ChatGPT Work",
+      "ActiveCampaign Ads",
+      "Meta Muse Image"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/880d10d7-8715-422f-8fcd-86c08d4b635b.mp3"
+    }
+  },
+  {
     "id": "ep36",
     "num": 36,
     "title": "Google's Cheapest AI Images + LinkedIn AI Ad Tools + Klaviyo AI Agent",
@@ -12,7 +38,7 @@
       "LinkedIn AI Ads",
       "Klaviyo AI Agent"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

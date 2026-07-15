@@ -800,5 +800,44 @@
     "lastUpdated": "2026-07-08",
     "lastUpdatedDisplay": "Jul 8, 2026",
     "url": "https://klaviyo.com"
+  },
+  {
+    "name": "ChatGPT Work & Sites",
+    "category": "AI Agents",
+    "pricing": "ChatGPT Plus / Pro plans",
+    "useCase": "AI agent that finishes real deliverables \u2014 docs, decks, dashboards \u2014 instead of just drafting. Pick one recurring task and let it own that first, with a human review step.",
+    "rating": "Top Pick",
+    "episodes": [
+      37
+    ],
+    "lastUpdated": "2026-07-15",
+    "lastUpdatedDisplay": "Jul 15, 2026",
+    "url": "https://openai.com"
+  },
+  {
+    "name": "ActiveCampaign Google Ads Connector",
+    "category": "Advertising",
+    "pricing": "Included with ActiveCampaign plans",
+    "useCase": "Connect CRM and email data straight to Google Performance Max campaigns. AI guides goal setting, copy, and creative. Treat your first campaign as a controlled test, not autopilot.",
+    "rating": "New",
+    "episodes": [
+      37
+    ],
+    "lastUpdated": "2026-07-15",
+    "lastUpdatedDisplay": "Jul 15, 2026",
+    "url": "https://activecampaign.com"
+  },
+  {
+    "name": "Meta Muse Image",
+    "category": "Design",
+    "pricing": "Free (coming to Advantage+)",
+    "useCase": "Meta's AI image generation model heading into Advantage+ ad creative. AI-generated ad variants coming to advertisers and agencies. Get catalog images ready now.",
+    "rating": "Watch",
+    "episodes": [
+      37
+    ],
+    "lastUpdated": "2026-07-15",
+    "lastUpdatedDisplay": "Jul 15, 2026",
+    "url": "https://about.fb.com"
   }
 ]
