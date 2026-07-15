@@ -763,42 +763,42 @@
     "url": "https://zapier.com/agents"
   },
   {
-    "name": "ChatGPT Work & Sites",
-    "category": "AI Agents",
-    "pricing": "ChatGPT Plus / Pro plans",
-    "useCase": "AI agent that finishes real deliverables \u2014 docs, decks, dashboards \u2014 instead of just drafting. Pick one recurring task and let it own that first, with a human review step.",
-    "rating": "Top Pick",
-    "episodes": [
-      36
-    ],
-    "lastUpdated": "2026-07-08",
-    "lastUpdatedDisplay": "Jul 8, 2026",
-    "url": "https://openai.com"
-  },
-  {
-    "name": "ActiveCampaign Google Ads Connector",
-    "category": "Advertising",
-    "pricing": "Included with ActiveCampaign plans",
-    "useCase": "Connect CRM and email data straight to Google Performance Max campaigns. AI guides goal setting, copy, and creative. Treat your first campaign as a controlled test, not autopilot.",
+    "name": "Google Nano Banana 2 Lite",
+    "category": "Design",
+    "pricing": "$0.034 per 1K images",
+    "useCase": "Google's fastest, cheapest AI image model \u2014 four-second generation at $0.034 per 1,000 images. Ideal for cheap creative concepting and rapid iteration on visual ideas.",
     "rating": "New",
     "episodes": [
       36
     ],
     "lastUpdated": "2026-07-08",
     "lastUpdatedDisplay": "Jul 8, 2026",
-    "url": "https://activecampaign.com"
+    "url": "https://cloud.google.com"
   },
   {
-    "name": "Meta Muse Image",
-    "category": "Design",
-    "pricing": "Free (coming to Advantage+)",
-    "useCase": "Meta's AI image generation model heading into Advantage+ ad creative. AI-generated ad variants coming to advertisers and agencies. Get catalog images ready now.",
-    "rating": "Watch",
+    "name": "LinkedIn AI Ad Creative Tools",
+    "category": "Advertising",
+    "pricing": "Included with LinkedIn Campaign Manager",
+    "useCase": "Brand kit, Draft with AI, and AI ad variants launched directly in Campaign Manager. Advertisers running 5+ variants see 20%+ higher CTR \u2014 this makes variant testing native to the platform.",
+    "rating": "Top Pick",
     "episodes": [
       36
     ],
     "lastUpdated": "2026-07-08",
     "lastUpdatedDisplay": "Jul 8, 2026",
-    "url": "https://about.fb.com"
+    "url": "https://linkedin.com"
+  },
+  {
+    "name": "Klaviyo Composer",
+    "category": "Marketing Automation",
+    "pricing": "Included with Klaviyo plans (public beta)",
+    "useCase": "AI marketing agent that audits existing flows and builds cross-channel campaigns from 14 years of customer context. Best for ecommerce teams with existing Klaviyo flow and segment history.",
+    "rating": "New",
+    "episodes": [
+      36
+    ],
+    "lastUpdated": "2026-07-08",
+    "lastUpdatedDisplay": "Jul 8, 2026",
+    "url": "https://klaviyo.com"
   }
 ]

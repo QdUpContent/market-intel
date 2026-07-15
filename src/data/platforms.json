@@ -14,10 +14,11 @@
       23,
       28,
       29,
-      30
+      30,
+      36
     ],
-    "lastMentioned": "2026-05-27",
-    "lastMentionedDisplay": "May 27, 2026",
+    "lastMentioned": "2026-07-08",
+    "lastMentionedDisplay": "Jul 8, 2026",
     "tags": [
       "LLM",
       "Multimodal",
@@ -46,11 +47,10 @@
       28,
       32,
       34,
-      35,
-      36
+      35
     ],
-    "lastMentioned": "2026-07-08",
-    "lastMentionedDisplay": "Jul 8, 2026",
+    "lastMentioned": "2026-07-01",
+    "lastMentionedDisplay": "Jul 1, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -464,11 +464,10 @@
     "episodes": [
       24,
       26,
-      34,
-      36
+      34
     ],
-    "lastMentioned": "2026-07-08",
-    "lastMentionedDisplay": "Jul 8, 2026",
+    "lastMentioned": "2026-06-24",
+    "lastMentionedDisplay": "Jun 24, 2026",
     "tags": [
       "Social",
       "Shopping",
@@ -485,10 +484,11 @@
     "url": "https://linkedin.com",
     "episodes": [
       26,
-      30
+      30,
+      36
     ],
-    "lastMentioned": "2026-05-27",
-    "lastMentionedDisplay": "May 27, 2026",
+    "lastMentioned": "2026-07-08",
+    "lastMentionedDisplay": "Jul 8, 2026",
     "tags": [
       "Social",
       "Algorithm",
@@ -544,11 +544,10 @@
     "status": "Major Player",
     "url": "https://microsoft.com/copilot",
     "episodes": [
-      32,
-      36
+      32
     ],
-    "lastMentioned": "2026-07-08",
-    "lastMentionedDisplay": "Jul 8, 2026",
+    "lastMentioned": "2026-06-10",
+    "lastMentionedDisplay": "Jun 10, 2026",
     "tags": [
       "Productivity",
       "Office",
@@ -614,22 +613,22 @@
     ]
   },
   {
-    "name": "ActiveCampaign",
-    "slug": "activecampaign",
+    "name": "Klaviyo",
+    "slug": "klaviyo",
     "category": "Marketing Automation",
-    "pricing": "From $15/mo",
-    "description": "CRM and email marketing platform that added an AI-guided Google Ads connector. Connect CRM/email data directly to Google Performance Max campaigns with AI help on goals, copy, and creative.",
+    "pricing": "Free tier / from $20/mo",
+    "description": "Email and SMS marketing platform with AI marketing agent now in public beta. Klaviyo Composer audits flows and builds cross-channel campaigns from 14 years of customer context. Best fit for ecommerce teams with existing flow and segment history.",
     "status": "Growing",
-    "url": "https://activecampaign.com",
+    "url": "https://klaviyo.com",
     "episodes": [
       36
     ],
     "lastMentioned": "2026-07-08",
     "lastMentionedDisplay": "Jul 8, 2026",
     "tags": [
-      "CRM",
-      "Ads",
-      "Email Marketing"
+      "Email",
+      "Ecommerce",
+      "AI Agents"
     ]
   }
 ]

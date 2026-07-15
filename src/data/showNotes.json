@@ -2416,44 +2416,79 @@
       {
         "time": "1:15",
         "seconds": 75,
-        "label": "Story 1: OpenAI ChatGPT Work & Sites"
+        "label": "Story 1: Google Nano Banana 2 Lite & Gemini Omni Flash"
       },
       {
-        "time": "4:30",
-        "seconds": 270,
-        "label": "Story 2: ActiveCampaign Google Ads Connector"
+        "time": "3:15",
+        "seconds": 195,
+        "label": "Story 2: LinkedIn AI Creative Tools for Campaign Manager"
       },
       {
-        "time": "6:45",
-        "seconds": 405,
-        "label": "Story 3: Meta Muse Image"
+        "time": "5:00",
+        "seconds": 300,
+        "label": "Story 3: Klaviyo Composer & Customer Agent"
       },
       {
-        "time": "8:30",
-        "seconds": 510,
-        "label": "Quick Hits"
+        "time": "6:30",
+        "seconds": 390,
+        "label": "Quick Hits (Square, AGNT LAB, Claude Sonnet 5, MarTech roundup, Google Meet)"
       },
       {
-        "time": "9:45",
-        "seconds": 585,
-        "label": "Recap & Closing"
+        "time": "7:30",
+        "seconds": 450,
+        "label": "Closing Recap"
       }
     ],
     "sources": [
       {
-        "title": "ChatGPT for Your Most Ambitious Work",
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-        "source": "OpenAI"
+        "title": "Gemini Omni Flash & Nano Banana 2 Lite",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+        "source": "Google AI Blog"
       },
       {
-        "title": "ChatGPT Release Notes",
-        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
-        "source": "OpenAI"
+        "title": "Nano Banana 2 Lite & Gemini Omni Flash Available",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-2-lite-and-gemini-omni-flash-available",
+        "source": "Google Cloud Blog"
       },
       {
-        "title": "ActiveCampaign Google Ads Connector",
-        "url": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/ActiveCampaign-Launches-Google-Ads-Connector%C2%A0for-Active-Intelligence-175662.aspx",
-        "source": "DestinationCRM"
+        "title": "Google Introduces Faster Cheaper Image Generator",
+        "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LinkedIn AI Creative Tools: Draft with AI, Brand Kit, Ad Variants",
+        "url": "https://www.linkedin.com/business/marketing/blog/linkedin-ads/introducing-linkedins-new-creative-tools-draft-with-ai-brand-kit-and-ad-variants",
+        "source": "LinkedIn Marketing Blog"
+      },
+      {
+        "title": "LinkedIn AI-Powered Promotional Tools",
+        "url": "https://www.socialmediatoday.com/news/linkedin-rolls-out-new-ai-powered-promotional-tools/824290/",
+        "source": "Social Media Today"
+      },
+      {
+        "title": "Klaviyo Launches AI Agents",
+        "url": "https://finance.yahoo.com/technology/ai/articles/klaviyo-launches-ai-agents-together-090000322.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Klaviyo Composer & Customer Agent Launch",
+        "url": "https://www.klaviyo.com/blog/klaviyo-composer-customer-agent-launch",
+        "source": "Klaviyo"
+      },
+      {
+        "title": "Square Claude & ChatGPT Integrations",
+        "url": "https://squareup.com/us/en/press/claude-chatgpt-integrations",
+        "source": "Square"
+      },
+      {
+        "title": "AGNT LAB AI Agent Launch",
+        "url": "https://www.prweb.com/releases/agnt-lab-officially-launches-ai-agent-for-social-media-use-nationwide-302815746.html",
+        "source": "PRWeb"
+      },
+      {
+        "title": "Claude Sonnet",
+        "url": "https://www.anthropic.com/claude/sonnet",
+        "source": "Anthropic"
       },
       {
         "title": "AI-Powered MarTech Releases",
@@ -2461,39 +2496,9 @@
         "source": "MarTech"
       },
       {
-        "title": "Introducing Muse Image",
-        "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
-        "source": "Meta Newsroom"
-      },
-      {
-        "title": "Meta AI Muse Image",
-        "url": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
-        "source": "CNBC"
-      },
-      {
-        "title": "Microsoft Copilot Computer Use",
-        "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/announcing-computer-use-microsoft-copilot-studio-ui-automation/",
-        "source": "Microsoft"
-      },
-      {
-        "title": "Microsoft Copilot Agent Flows",
-        "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/copilot-studio/introducing-agent-flows-transforming-automation-with-ai-first-workflows/",
-        "source": "Microsoft"
-      },
-      {
-        "title": "Google Ads AI Transparency Labels",
-        "url": "https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/",
+        "title": "Google Meet Take Notes for Me",
+        "url": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
         "source": "Google Blog"
-      },
-      {
-        "title": "Introducing GPT-Live",
-        "url": "https://openai.com/index/introducing-gpt-live/",
-        "source": "OpenAI"
-      },
-      {
-        "title": "Adobe Firefly Seedance Integration",
-        "url": "https://helpx.adobe.com/ph_fil/firefly/web/work-with-audio-and-video/work-with-video/generate-videos-using-seedance.html",
-        "source": "Adobe"
       }
     ]
   }

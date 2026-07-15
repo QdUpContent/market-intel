@@ -38,6 +38,15 @@
     "letter": "A"
   },
   {
+    "term": "Ad Variant Testing",
+    "definition": "Running multiple versions of an ad with different copy, images, or CTAs to identify the highest-performing combination. LinkedIn's data shows advertisers running 5+ variants see 20%+ higher CTR \u2014 their new AI tools make this native to Campaign Manager.",
+    "category": "Marketing",
+    "episodes": [
+      36
+    ],
+    "letter": "A"
+  },
+  {
     "term": "Agentic AI",
     "definition": "AI systems that can autonomously take actions, make decisions, and complete multi-step tasks without human intervention at each step. Moves beyond chat-based assistants to agents that browse, code, and execute workflows.",
     "category": "Concepts",
@@ -268,15 +277,6 @@
       23
     ],
     "letter": "O"
-  },
-  {
-    "term": "Performance Max",
-    "definition": "A Google Ads campaign type that uses AI to optimize ad delivery across all Google channels (Search, Display, YouTube, Gmail, Maps) from a single campaign. ActiveCampaign's new connector lets SMBs feed CRM data directly into Performance Max with AI-guided setup.",
-    "category": "Marketing",
-    "episodes": [
-      36
-    ],
-    "letter": "P"
   },
   {
     "term": "Prompt Engineering",
