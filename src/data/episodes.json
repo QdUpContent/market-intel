@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep38",
+    "num": 38,
+    "title": "Meta Just Opened Ads to AI Agents",
+    "date": "2026-07-22",
+    "dateDisplay": "Jul 22, 2026",
+    "duration": "10:00",
+    "description": "Meta opened its ad platform to outside AI agents via MCP \u2014 zero custom integration code. HubSpot dropped its AI prospecting tool to every paid tier. Canva quietly became a no-code app builder with Code 2.0.",
+    "tags": [
+      "Meta Ads MCP",
+      "HubSpot Breeze",
+      "Canva Code 2.0"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/91e2bc19-aec1-4d0f-8e09-47e6b51f754b.mp3"
+    }
+  },
+  {
     "id": "ep37",
     "num": 37,
     "title": "ChatGPT Work & Sites + ActiveCampaign Google Ads + Meta Muse Image",
@@ -12,7 +38,7 @@
       "ActiveCampaign Ads",
       "Meta Muse Image"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

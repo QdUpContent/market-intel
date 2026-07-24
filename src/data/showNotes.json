@@ -2592,5 +2592,81 @@
         "source": "Adobe"
       }
     ]
+  },
+  "ep38": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Start"
+      },
+      {
+        "time": "1:15",
+        "seconds": 75,
+        "label": "Story #1: Meta Opens Ads MCP to External AI Apps"
+      },
+      {
+        "time": "4:15",
+        "seconds": 255,
+        "label": "Story #2: HubSpot Expands Breeze & Prospecting Agent"
+      },
+      {
+        "time": "6:45",
+        "seconds": 405,
+        "label": "Story #3: Canva Code 2.0"
+      },
+      {
+        "time": "8:45",
+        "seconds": 525,
+        "label": "Quick Hits"
+      },
+      {
+        "time": "9:45",
+        "seconds": 585,
+        "label": "Closing Recap"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Meta Opens Ads MCP to Any App",
+        "url": "https://ppc.land/meta-opens-ads-mcp-to-any-app-cutting-integration-code-to-zero/",
+        "source": "PPC Land"
+      },
+      {
+        "title": "HubSpot Monthly Product Update July 2026",
+        "url": "https://www.iv-lead.com/blog/hubspots-monthly-product-update-july-2026-edition?hsLang=en",
+        "source": "IV-Lead"
+      },
+      {
+        "title": "HubSpot Prospecting Agent GA",
+        "url": "https://imisofts.com/blog/hubspot-prospecting-agent-general-availability-news-july-14-2026/",
+        "source": "Imisofts"
+      },
+      {
+        "title": "HubSpot Release Notes",
+        "url": "https://releasebot.io/updates/hubspot",
+        "source": "ReleaseBot"
+      },
+      {
+        "title": "Canva Code 2.0",
+        "url": "https://www.emarketer.com/content/canva-code-2-0-turns-branded-assets-vibe-coded-web-experiences",
+        "source": "EMARKETER"
+      },
+      {
+        "title": "OneSignal AI/MCP for Lifecycle Marketing",
+        "url": "https://onesignal.com/blog/the-future-of-lifecycle-marketing-is-autonomous/",
+        "source": "OneSignal"
+      },
+      {
+        "title": "Klaviyo, Cision, Omneky MarTech Roundup",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "source": "MarTech"
+      },
+      {
+        "title": "Salesforce Agentforce Coworker",
+        "url": "https://www.salesforce.com/jp/news/press-releases/2026/07/15/agentforce-coworker-salesforce-ai-teammate/?bc=OTH",
+        "source": "Salesforce"
+      }
+    ]
   }
 }

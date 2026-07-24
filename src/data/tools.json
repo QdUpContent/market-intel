@@ -839,5 +839,44 @@
     "lastUpdated": "2026-07-15",
     "lastUpdatedDisplay": "Jul 15, 2026",
     "url": "https://about.fb.com"
+  },
+  {
+    "name": "Meta Ads MCP",
+    "category": "Advertising",
+    "pricing": "Free (MCP protocol)",
+    "useCase": "External AI tools can now connect directly to Meta's ad system for campaign creation, reporting, catalog management, and A/B testing with zero custom integration code. Any MCP-compatible agent can manage Meta ads.",
+    "rating": "Top Pick",
+    "episodes": [
+      38
+    ],
+    "lastUpdated": "2026-07-22",
+    "lastUpdatedDisplay": "Jul 22, 2026",
+    "url": "https://about.fb.com"
+  },
+  {
+    "name": "HubSpot Breeze & Prospecting Agent",
+    "category": "Marketing Automation",
+    "pricing": "All paid HubSpot tiers",
+    "useCase": "AI-assisted prospecting with buyer-intent signals and CRM-native email drafting. Now available on every paid portal, not just Sales Hub. Identifies high-intent leads and drafts personalized outreach.",
+    "rating": "New",
+    "episodes": [
+      38
+    ],
+    "lastUpdated": "2026-07-22",
+    "lastUpdatedDisplay": "Jul 22, 2026",
+    "url": "https://hubspot.com"
+  },
+  {
+    "name": "Canva Code 2.0",
+    "category": "Design",
+    "pricing": "Canva plans",
+    "useCase": "Turn brand assets into interactive web experiences \u2014 quizzes, microsites, and lead magnets from your existing Canva brand kit. No developer required. Canva is now a no-code app builder.",
+    "rating": "New",
+    "episodes": [
+      38
+    ],
+    "lastUpdated": "2026-07-22",
+    "lastUpdatedDisplay": "Jul 22, 2026",
+    "url": "https://canva.com"
   }
 ]
