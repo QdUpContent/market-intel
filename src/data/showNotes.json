@@ -2668,5 +2668,86 @@
         "source": "Salesforce"
       }
     ]
+  },
+  "ep39": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Start"
+      },
+      {
+        "time": "1:36",
+        "seconds": 96,
+        "label": "Constant Contact \"Great Needs Great\": Prompt-to-Campaign AI for SMBs"
+      },
+      {
+        "time": "4:06",
+        "seconds": 246,
+        "label": "HubSpot Agent Hub & Agent Builder: CRM-Aware AI Agents Explained"
+      },
+      {
+        "time": "5:42",
+        "seconds": 342,
+        "label": "Webflow MCP 2.0: AI Agents Get Live Website Editing Access"
+      },
+      {
+        "time": "7:34",
+        "seconds": 454,
+        "label": "Quick Hits: Runway Media Router, Higher Images AEO/GEO, Vivideo.ai & TikTok Symphony Agent"
+      },
+      {
+        "time": "8:51",
+        "seconds": 531,
+        "label": "Wrap-up & Key Takeaways: AI Marketing Moves From Generating Content to Running the Workflow"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Constant Contact \"Great Needs Great\" Launch",
+        "url": "https://news.constantcontact.com/2026-07-22-Constant-Contact-Launches-Great-Needs-Great,-Defining-the-Company-as-the-AI-Partner-for-Small-Business-Growth",
+        "source": "Constant Contact"
+      },
+      {
+        "title": "HubSpot Agent Hub and Agent Builder",
+        "url": "https://www.hubspot.com/company-news/meet-agent-hub-and-agent-builder",
+        "source": "HubSpot"
+      },
+      {
+        "title": "HubSpot Agent Hub Recap",
+        "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-july-24-2026/",
+        "source": "Agile Brand Guide"
+      },
+      {
+        "title": "Webflow MCP 2.0 Changelog",
+        "url": "https://developers.webflow.com/home/changelog/2026/7/21",
+        "source": "Webflow Developers"
+      },
+      {
+        "title": "Runway Media Router",
+        "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Runway Media Router Announcement",
+        "url": "https://runwayml.com/news/company-news/introducing-runway-media-router",
+        "source": "Runway"
+      },
+      {
+        "title": "Higher Images AI Optimization Packages",
+        "url": "https://www.globenewswire.com/news-release/2026/07/23/3332673/0/en/higher-images-launches-ai-optimization-packages-to-help-small-businesses-compete-in-the-new-era-of-search.html",
+        "source": "GlobeNewswire"
+      },
+      {
+        "title": "Vivideo.ai Expansion",
+        "url": "https://finance.yahoo.com/technology/ai/articles/vivideo-ai-expands-ai-video-003100417.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "AI MarTech Roundup",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "source": "MarTech"
+      }
+    ]
   }
 }

@@ -237,7 +237,8 @@
     "category": "Technical",
     "episodes": [
       31,
-      38
+      38,
+      39
     ],
     "letter": "M"
   },
@@ -295,6 +296,15 @@
     "episodes": [
       17,
       13
+    ],
+    "letter": "P"
+  },
+  {
+    "term": "Prompt-to-Campaign",
+    "definition": "An AI workflow where a single text description generates a complete marketing campaign \u2014 emails, social posts, and send-time optimization \u2014 without manual creation of each asset. Constant Contact's launch marks the shift from AI-assisted content to AI-operated campaigns.",
+    "category": "Marketing",
+    "episodes": [
+      39
     ],
     "letter": "P"
   },

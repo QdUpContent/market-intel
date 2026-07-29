@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep39",
+    "num": 39,
+    "title": "AI Now Builds Your Whole Campaign",
+    "date": "2026-07-29",
+    "dateDisplay": "Jul 29, 2026",
+    "duration": "9:00",
+    "description": "Constant Contact tells small businesses they only need a prompt to launch a full campaign. HubSpot's Agent Hub puts CRM-aware AI agents to work saving hundreds of hours. Webflow lets AI agents edit your live marketing site with a full audit trail.",
+    "tags": [
+      "Constant Contact AI",
+      "HubSpot Agent Hub",
+      "Webflow MCP 2.0"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/a9fd47c3-16bd-410b-b4d8-2eca357b822c.mp3"
+    }
+  },
+  {
     "id": "ep38",
     "num": 38,
     "title": "Meta Just Opened Ads to AI Agents",
@@ -12,7 +38,7 @@
       "HubSpot Breeze",
       "Canva Code 2.0"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

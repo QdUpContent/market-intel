@@ -878,5 +878,57 @@
     "lastUpdated": "2026-07-22",
     "lastUpdatedDisplay": "Jul 22, 2026",
     "url": "https://canva.com"
+  },
+  {
+    "name": "Constant Contact AI Campaign",
+    "category": "Marketing Automation",
+    "pricing": "From $12/mo",
+    "useCase": "Prompt-to-campaign workflow \u2014 describe your need, get email, social, and send-time recommendations back. Fewer tools, faster output. Human review of tone, offers, and disclaimers still required.",
+    "rating": "New",
+    "episodes": [
+      39
+    ],
+    "lastUpdated": "2026-07-29",
+    "lastUpdatedDisplay": "Jul 29, 2026",
+    "url": "https://constantcontact.com"
+  },
+  {
+    "name": "HubSpot Agent Hub",
+    "category": "AI Agents",
+    "pricing": "Professional / Enterprise tiers",
+    "useCase": "CRM-aware AI agents operating off real deal history and contact records. One custom agent cut a 15-20 minute task to seconds, projected to save 350+ hours a year. Professional/Enterprise tier only.",
+    "rating": "Top Pick",
+    "episodes": [
+      39
+    ],
+    "lastUpdated": "2026-07-29",
+    "lastUpdatedDisplay": "Jul 29, 2026",
+    "url": "https://hubspot.com"
+  },
+  {
+    "name": "Webflow MCP 2.0",
+    "category": "Website Builder",
+    "pricing": "Webflow plans",
+    "useCase": "AI agents can query and edit site elements, CMS content, schema, forms, and analytics directly \u2014 with every change logged in an audit trail. Closes the gap between 'AI wrote the copy' and 'the copy is live on the site.'",
+    "rating": "Top Pick",
+    "episodes": [
+      39
+    ],
+    "lastUpdated": "2026-07-29",
+    "lastUpdatedDisplay": "Jul 29, 2026",
+    "url": "https://webflow.com"
+  },
+  {
+    "name": "Runway Media Router",
+    "category": "Video Generation",
+    "pricing": "Runway plans",
+    "useCase": "AI model routing for generative media \u2014 automatically selects the best model for each video task as the multi-model landscape gets crowded.",
+    "rating": "New",
+    "episodes": [
+      39
+    ],
+    "lastUpdated": "2026-07-29",
+    "lastUpdatedDisplay": "Jul 29, 2026",
+    "url": "https://runwayml.com"
   }
 ]

@@ -102,10 +102,11 @@
       27,
       30,
       31,
-      33
+      33,
+      39
     ],
-    "lastMentioned": "2026-06-17",
-    "lastMentionedDisplay": "Jun 17, 2026",
+    "lastMentioned": "2026-07-29",
+    "lastMentionedDisplay": "Jul 29, 2026",
     "tags": [
       "Video",
       "Audio",
@@ -664,14 +665,53 @@
     "status": "Major Player",
     "url": "https://hubspot.com",
     "episodes": [
-      38
+      38,
+      39
     ],
-    "lastMentioned": "2026-07-22",
-    "lastMentionedDisplay": "Jul 22, 2026",
+    "lastMentioned": "2026-07-29",
+    "lastMentionedDisplay": "Jul 29, 2026",
     "tags": [
       "CRM",
       "Sales",
       "AI Agents"
+    ]
+  },
+  {
+    "name": "Constant Contact",
+    "slug": "constant-contact",
+    "category": "Marketing Automation",
+    "pricing": "From $12/mo",
+    "description": "Email marketing platform launching prompt-to-campaign AI workflow. Describe your need, get email, social, and send-time recommendations back. \"Great Needs Great\" campaign positions it as the AI partner for small business growth.",
+    "status": "Growing",
+    "url": "https://constantcontact.com",
+    "episodes": [
+      39
+    ],
+    "lastMentioned": "2026-07-29",
+    "lastMentionedDisplay": "Jul 29, 2026",
+    "tags": [
+      "Email",
+      "SMB",
+      "AI Campaign"
+    ]
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "category": "Website Builder",
+    "pricing": "Free tier / from $14/mo",
+    "description": "No-code website builder with MCP 2.0 \u2014 AI agents can now query and edit site elements, CMS content, schema, forms, and analytics directly. Every change logged in an audit trail.",
+    "status": "Major Player",
+    "url": "https://webflow.com",
+    "episodes": [
+      39
+    ],
+    "lastMentioned": "2026-07-29",
+    "lastMentionedDisplay": "Jul 29, 2026",
+    "tags": [
+      "Website",
+      "No-Code",
+      "MCP"
     ]
   }
 ]
