@@ -2749,5 +2749,81 @@
         "source": "MarTech"
       }
     ]
+  },
+  "ep40": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Market Intel Ep. 40: Adwave Wavemaker, ChatGPT Ads & Whengine AI"
+      },
+      {
+        "time": "1:15",
+        "seconds": 75,
+        "label": "Adwave Wavemaker: AI Video Ads in Under 5 Minutes for SMBs"
+      },
+      {
+        "time": "3:30",
+        "seconds": 210,
+        "label": "OpenAI ChatGPT Ads: Promotional Credits for New Advertisers"
+      },
+      {
+        "time": "5:15",
+        "seconds": 315,
+        "label": "Audience Town Whengine AI: Vertical AI Agent for Home Builders"
+      },
+      {
+        "time": "6:45",
+        "seconds": 405,
+        "label": "Quick Hits: Netcore.ai, IAB Tech Lab AAMP 2.3, Monetate, G2A & AI Measurement Gaps"
+      },
+      {
+        "time": "8:00",
+        "seconds": 480,
+        "label": "Key Takeaways: AI Marketing Tools Are Getting Narrower and More Useful"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Adwave Launches New AI Video Generator",
+        "url": "https://www.demandgenreport.com/industry-news/news-brief/adwave-launches-new-ai-video-generator-built-on-its-ctv-ad-technology/53859/",
+        "source": "Demand Gen Report"
+      },
+      {
+        "title": "OpenAI ChatGPT Reaches the Coupon Stage of Building an Ad Business",
+        "url": "https://digiday.com/marketing/openais-chatgpt-reaches-the-coupon-stage-of-building-an-ad-business/?ref=ppc.land",
+        "source": "Digiday"
+      },
+      {
+        "title": "Audience Town Launches Whengine AI",
+        "url": "https://www.aol.com/articles/audience-town-launches-whengine-ai-122300000.html",
+        "source": "AOL / PRNewswire"
+      },
+      {
+        "title": "Netcore Is Now Netcore.ai",
+        "url": "https://www.prnewswire.com/news-releases/netcore-is-now-netcoreai-becoming-the-first-agentic-marketing-platform-to-share-accountability-for-customer-growth-302837826.html",
+        "source": "PR Newswire"
+      },
+      {
+        "title": "IAB Tech Lab AAMP 2.3 Release",
+        "url": "https://iabtechlab.com/press-releases/iab-tech-lab-releases-aamp-2-3-bringing-enterprise-grade-infrastructure-and-privacy-diligence-to-agentic-advertising/",
+        "source": "IAB Tech Lab"
+      },
+      {
+        "title": "Monetate Acquires Simon AI",
+        "url": "https://www.businesswire.com/news/home/20260730429295/en/Monetate-Acquires-Simon-AI-Uniting-the-Leader-in-AI-Powered-Experience-Optimization-with-the-AI-First-Composable-CDP",
+        "source": "Business Wire"
+      },
+      {
+        "title": "G2A.COM Autonomous AI Agent Dave",
+        "url": "https://www.globenewswire.com/news-release/2026/07/30/3335811/0/en/G2A-COM-s-Autonomous-AI-Agent-Dave-Helps-Sellers-Resolve-14-400-Support-Tickets-in-63-Days.html",
+        "source": "GlobeNewswire"
+      },
+      {
+        "title": "AI Speeds Marketing Production, But Measurement Lags",
+        "url": "https://martech.org/ai-speeds-marketing-production-but-measurement-lags/",
+        "source": "MarTech"
+      }
+    ]
   }
 }

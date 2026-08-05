@@ -376,6 +376,15 @@
     "letter": "T"
   },
   {
+    "term": "Vertical AI Agent",
+    "definition": "An AI agent built for one specific industry rather than general-purpose use. Audience Town's Whengine AI for home builders is grounded in private community data and a 280M-person dataset \u2014 it builds audiences, drafts copy, and activates to Meta. A preview of where every industry's AI tools are headed.",
+    "category": "Concepts",
+    "episodes": [
+      40
+    ],
+    "letter": "V"
+  },
+  {
     "term": "Voice Agent",
     "definition": "An AI-powered conversational system that speaks and listens in real-time, handling tasks like customer support, FAQ responses, and appointment booking. ElevenLabs' 50+ templates make these accessible to SMBs without custom development.",
     "category": "Content Creation",

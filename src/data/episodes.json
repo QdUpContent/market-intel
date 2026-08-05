@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep40",
+    "num": 40,
+    "title": "AI Builds Video Ads in 5 Minutes",
+    "date": "2026-08-05",
+    "dateDisplay": "Aug 5, 2026",
+    "duration": "9:00",
+    "description": "Adwave's Wavemaker turns a prompt into a finished, voiced, scored video ad in under five minutes. OpenAI hands out promotional credits to recruit ChatGPT advertisers. Audience Town launches a vertical AI agent for home builder marketers that hints at where every industry's AI tools are headed.",
+    "tags": [
+      "Adwave Wavemaker",
+      "ChatGPT Ad Credits",
+      "Whengine AI"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/d97b7578-5466-48c8-89bb-d75a1cc85d61.mp3"
+    }
+  },
+  {
     "id": "ep39",
     "num": 39,
     "title": "AI Now Builds Your Whole Campaign",
@@ -12,7 +38,7 @@
       "HubSpot Agent Hub",
       "Webflow MCP 2.0"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

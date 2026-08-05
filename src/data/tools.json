@@ -717,10 +717,11 @@
     "useCase": "AI-powered ad creative automation now open to all US advertisers. Daily budget cap doubled to $200. OpenAI formally entered the ad creative business with updated Ad Tools Terms.",
     "rating": "New",
     "episodes": [
-      34
+      34,
+      40
     ],
-    "lastUpdated": "2026-06-24",
-    "lastUpdatedDisplay": "Jun 24, 2026",
+    "lastUpdated": "2026-08-05",
+    "lastUpdatedDisplay": "Aug 5, 2026",
     "url": "https://ads.openai.com"
   },
   {
@@ -930,5 +931,31 @@
     "lastUpdated": "2026-07-29",
     "lastUpdatedDisplay": "Jul 29, 2026",
     "url": "https://runwayml.com"
+  },
+  {
+    "name": "Adwave Wavemaker",
+    "category": "Video Generation",
+    "pricing": "150 credits free / paid TBA",
+    "useCase": "Turn a prompt, URL, file, or topic into a scripted, voiced, scored video ad in 2-5 minutes. Real production shortcut for teams without video staff. Output still needs human review before shipping.",
+    "rating": "New",
+    "episodes": [
+      40
+    ],
+    "lastUpdated": "2026-08-05",
+    "lastUpdatedDisplay": "Aug 5, 2026",
+    "url": "https://adwave.com"
+  },
+  {
+    "name": "Audience Town Whengine AI",
+    "category": "AI Agents",
+    "pricing": "Contact for pricing",
+    "useCase": "Vertical AI agent for home builder marketers. Conversational AI grounded in private community data plus a 280M-person dataset. Builds audiences, drafts copy, and activates straight to Meta.",
+    "rating": "Watch",
+    "episodes": [
+      40
+    ],
+    "lastUpdated": "2026-08-05",
+    "lastUpdatedDisplay": "Aug 5, 2026",
+    "url": "https://audiencetown.com"
   }
 ]

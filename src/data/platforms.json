@@ -48,10 +48,11 @@
       32,
       34,
       35,
-      37
+      37,
+      40
     ],
-    "lastMentioned": "2026-07-15",
-    "lastMentionedDisplay": "Jul 15, 2026",
+    "lastMentioned": "2026-08-05",
+    "lastMentionedDisplay": "Aug 5, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -712,6 +713,25 @@
       "Website",
       "No-Code",
       "MCP"
+    ]
+  },
+  {
+    "name": "Adwave",
+    "slug": "adwave",
+    "category": "Video Generation",
+    "pricing": "150 credits free / paid plans TBA",
+    "description": "AI video ad generator built on CTV ad technology. Wavemaker turns a prompt, URL, file, or topic into a scripted, voiced, scored video in 2-5 minutes. Designed for teams without video staff.",
+    "status": "Emerging",
+    "url": "https://adwave.com",
+    "episodes": [
+      40
+    ],
+    "lastMentioned": "2026-08-05",
+    "lastMentionedDisplay": "Aug 5, 2026",
+    "tags": [
+      "Video Ads",
+      "CTV",
+      "SMB"
     ]
   }
 ]
