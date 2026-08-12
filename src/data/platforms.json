@@ -15,10 +15,11 @@
       28,
       29,
       30,
-      36
+      36,
+      41
     ],
-    "lastMentioned": "2026-07-08",
-    "lastMentionedDisplay": "Jul 8, 2026",
+    "lastMentioned": "2026-08-12",
+    "lastMentionedDisplay": "Aug 12, 2026",
     "tags": [
       "LLM",
       "Multimodal",
@@ -271,10 +272,11 @@
     "episodes": [
       15,
       23,
-      27
+      27,
+      41
     ],
-    "lastMentioned": "2026-05-06",
-    "lastMentionedDisplay": "May 6, 2026",
+    "lastMentioned": "2026-08-12",
+    "lastMentionedDisplay": "Aug 12, 2026",
     "tags": [
       "Video",
       "Budget",
@@ -609,10 +611,11 @@
     "status": "Rising Star",
     "url": "https://ads.tiktok.com",
     "episodes": [
-      35
+      35,
+      41
     ],
-    "lastMentioned": "2026-07-01",
-    "lastMentionedDisplay": "Jul 1, 2026",
+    "lastMentioned": "2026-08-12",
+    "lastMentionedDisplay": "Aug 12, 2026",
     "tags": [
       "Ads",
       "Creator Economy",
@@ -732,6 +735,25 @@
       "Video Ads",
       "CTV",
       "SMB"
+    ]
+  },
+  {
+    "name": "Black Forest Labs",
+    "slug": "black-forest-labs",
+    "category": "Video Generation",
+    "pricing": "$0.06-$0.17/sec",
+    "description": "Creators of FLUX image models, now offering FLUX 3 Video \u2014 20-second clips with native in-pass audio at the cheapest serious pricing yet (~$3.40 for a finished 720p clip). Requires some technical setup.",
+    "status": "Emerging",
+    "url": "https://bfl.ai",
+    "episodes": [
+      41
+    ],
+    "lastMentioned": "2026-08-12",
+    "lastMentionedDisplay": "Aug 12, 2026",
+    "tags": [
+      "Video",
+      "API",
+      "Budget"
     ]
   }
 ]

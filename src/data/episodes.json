@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep41",
+    "num": 41,
+    "title": "TikTok's 30-Sec AI Video Ads Are Here",
+    "date": "2026-08-12",
+    "dateDisplay": "Aug 12, 2026",
+    "duration": "13:00",
+    "description": "TikTok Symphony doubles AI video ads from 15 to 30 seconds with Seedance 2.5. Black Forest Labs FLUX 3 Video delivers 20-second clips at ~$3.40 each. Google auto-upgrades Search campaigns to AI Max on September 1 \u2014 audit now.",
+    "tags": [
+      "TikTok Seedance 2.5",
+      "FLUX 3 Video",
+      "Google AI Max"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/2dfa6652-16b1-42c8-a628-9f4373d5eab3.mp3"
+    }
+  },
+  {
     "id": "ep40",
     "num": 40,
     "title": "AI Builds Video Ads in 5 Minutes",
@@ -12,7 +38,7 @@
       "ChatGPT Ad Credits",
       "Whengine AI"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

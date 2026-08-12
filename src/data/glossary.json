@@ -20,6 +20,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Max (Google Ads)",
+    "definition": "Google's automatic upgrade that adds AI-written ad copy and broader keyword matching to existing Search campaigns. Enrolling by default on September 1, 2026 for campaigns using automatically created assets or campaign-level broad match. Advertisers should audit and pin critical copy before the deadline.",
+    "category": "Marketing",
+    "episodes": [
+      41
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Mode (Social Search)",
     "definition": "A social platform search layer that synthesizes answers from community content (Groups, Reels, posts) instead of returning traditional links. Meta's AI Mode on Facebook changes how brands get discovered organically \u2014 answers are assembled from creator content rather than website links.",
     "category": "Marketing",

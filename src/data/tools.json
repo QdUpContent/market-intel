@@ -957,5 +957,44 @@
     "lastUpdated": "2026-08-05",
     "lastUpdatedDisplay": "Aug 5, 2026",
     "url": "https://audiencetown.com"
+  },
+  {
+    "name": "TikTok Symphony Seedance 2.5",
+    "category": "Video Generation",
+    "pricing": "Free (TikTok Business)",
+    "useCase": "AI video ads doubled from 15 to 30 seconds. Reference uploads jump from 9 to 50 (image, video, audio). Full hook-to-CTA ad in one asset. Access still gated \u2014 get your reference library organized now.",
+    "rating": "Top Pick",
+    "episodes": [
+      41
+    ],
+    "lastUpdated": "2026-08-12",
+    "lastUpdatedDisplay": "Aug 12, 2026",
+    "url": "https://ads.tiktok.com"
+  },
+  {
+    "name": "FLUX 3 Video",
+    "category": "Video Generation",
+    "pricing": "$0.06/sec drafts, $0.17/sec 720p (~$3.40/clip)",
+    "useCase": "20-second clips with native in-pass audio at the cheapest serious short-form video pricing yet. Requires some technical help to access via API/partners.",
+    "rating": "New",
+    "episodes": [
+      41
+    ],
+    "lastUpdated": "2026-08-12",
+    "lastUpdatedDisplay": "Aug 12, 2026",
+    "url": "https://bfl.ai"
+  },
+  {
+    "name": "Google AI Max",
+    "category": "Advertising",
+    "pricing": "Google Ads (free feature)",
+    "useCase": "Auto-upgrades Search campaigns with AI-written ad copy and broader matching on September 1. Campaigns using automatically created assets or campaign-level broad match get enrolled by default. Audit your account and pin any copy the AI must not touch.",
+    "rating": "Watch",
+    "episodes": [
+      41
+    ],
+    "lastUpdated": "2026-08-12",
+    "lastUpdatedDisplay": "Aug 12, 2026",
+    "url": "https://ads.google.com"
   }
 ]

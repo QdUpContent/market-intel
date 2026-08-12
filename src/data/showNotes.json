@@ -2825,5 +2825,76 @@
         "source": "MarTech"
       }
     ]
+  },
+  "ep41": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Market Intel Ep. 41: This Week's AI Marketing Stories"
+      },
+      {
+        "time": "1:43",
+        "seconds": 103,
+        "label": "TikTok Symphony Seedance 2.5: 30-Second AI Ads With 50 References (What It Means for SMBs)"
+      },
+      {
+        "time": "5:14",
+        "seconds": 314,
+        "label": "Black Forest Labs FLUX 3 Video: $3 AI Clips With Native Audio"
+      },
+      {
+        "time": "8:30",
+        "seconds": 510,
+        "label": "Google AI Max Auto-Upgrades Search Ad Copy September 1 (Audit Now)"
+      },
+      {
+        "time": "11:09",
+        "seconds": 669,
+        "label": "Quick Hits: Klaviyo, Snap Ads MCP, Cloudflare AI Visibility & More"
+      },
+      {
+        "time": "12:42",
+        "seconds": 762,
+        "label": "Key Takeaways: Test the Creative Tools, Audit the Automation"
+      }
+    ],
+    "sources": [
+      {
+        "title": "TikTok Symphony + Dreamina Seedance 2.5",
+        "url": "https://ads.tiktok.com/business/en-US/blog/transforming-video-creation-tiktok-symphony-dreamina-seedance",
+        "source": "TikTok for Business"
+      },
+      {
+        "title": "TikTok Symphony Gains 30-Second AI Video",
+        "url": "https://ppc.land/tiktok-symphony-gains-30-second-ai-video-with-seedance-2-5-upgrade/",
+        "source": "PPC Land"
+      },
+      {
+        "title": "TikTok Rolls Out Longer-Form AI Video Ads",
+        "url": "https://www.mediapost.com/publications/article/417017/tiktok-rolls-out-longer-form-ai-video-ads.html",
+        "source": "MediaPost"
+      },
+      {
+        "title": "FLUX 3 Video Launch",
+        "url": "https://bfl.ai/blog/flux-3-video",
+        "source": "Black Forest Labs"
+      },
+      {
+        "title": "FLUX 3 Video Pricing",
+        "url": "https://gigazine.net/gsc_news/en/20260805-flux-3-video/",
+        "source": "GIGAZINE"
+      },
+      {
+        "title": "FLUX 3 Video General Availability",
+        "url": "https://kingy.ai/blog/flux-3-video-general-availability-world-model/",
+        "source": "Kingy AI"
+      },
+      {
+        "title": "Google AI Max Auto-Upgrades",
+        "url": "https://ppc.land/what-did-the-first-week-of-august-change-in-digital-advertising/",
+        "source": "PPC Land"
+      }
+    ]
   }
 }
