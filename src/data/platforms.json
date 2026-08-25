@@ -16,10 +16,11 @@
       29,
       30,
       36,
-      41
+      41,
+      42
     ],
-    "lastMentioned": "2026-08-12",
-    "lastMentionedDisplay": "Aug 12, 2026",
+    "lastMentioned": "2026-08-19",
+    "lastMentionedDisplay": "Aug 19, 2026",
     "tags": [
       "LLM",
       "Multimodal",
@@ -754,6 +755,44 @@
       "Video",
       "API",
       "Budget"
+    ]
+  },
+  {
+    "name": "Wix Symphony",
+    "slug": "wix-symphony",
+    "category": "Marketing Automation",
+    "pricing": "Free (500 credits) / $16-$80/mo",
+    "description": "Standalone multi-agent system for SMBs with orchestrating agent Maestro, quality-review agent, approval gates, and daily morning meeting digest. Works whether or not you're on Wix. Cheapest real on-ramp to agentic marketing operations.",
+    "status": "Rising Star",
+    "url": "https://www.wix.com",
+    "episodes": [
+      42
+    ],
+    "lastMentioned": "2026-08-19",
+    "lastMentionedDisplay": "Aug 19, 2026",
+    "tags": [
+      "AI Agents",
+      "SMB",
+      "Multi-Agent"
+    ]
+  },
+  {
+    "name": "Ahrefs",
+    "slug": "ahrefs",
+    "category": "SEO & Analytics",
+    "pricing": "From $99/mo (Letaido) + Ahrefs subscription",
+    "description": "SEO platform that launched Letaido \u2014 a persistent agentic workspace for recurring workflows, dashboards, and continuous competitor monitoring. Includes AI visibility tracking showing which brands appear in LLM answers.",
+    "status": "Established",
+    "url": "https://ahrefs.com",
+    "episodes": [
+      42
+    ],
+    "lastMentioned": "2026-08-19",
+    "lastMentionedDisplay": "Aug 19, 2026",
+    "tags": [
+      "SEO",
+      "AI Visibility",
+      "Analytics"
     ]
   }
 ]

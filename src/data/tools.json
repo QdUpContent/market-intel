@@ -996,5 +996,44 @@
     "lastUpdated": "2026-08-12",
     "lastUpdatedDisplay": "Aug 12, 2026",
     "url": "https://ads.google.com"
+  },
+  {
+    "name": "Wix Symphony",
+    "category": "AI Agents",
+    "pricing": "Free (500 credits/mo) / $16-$80/mo",
+    "useCase": "Multi-agent marketing platform with orchestrating agent Maestro, quality-review agent, approval gates, and daily digest. The cheapest real on-ramp to agentic marketing \u2014 but test your credit burn for a week before building processes on it.",
+    "rating": "Top Pick",
+    "episodes": [
+      42
+    ],
+    "lastUpdated": "2026-08-19",
+    "lastUpdatedDisplay": "Aug 19, 2026",
+    "url": "https://www.wix.com"
+  },
+  {
+    "name": "Google Ads AI Dashboards",
+    "category": "Advertising",
+    "pricing": "Free (Google Ads)",
+    "useCase": "AI insight cards, prompt-built dashboards, and Ask Advisor benchmarking against anonymized similar businesses. Kills the weekly reporting hour at zero cost \u2014 but verify anything that leaves your building.",
+    "rating": "New",
+    "episodes": [
+      42
+    ],
+    "lastUpdated": "2026-08-19",
+    "lastUpdatedDisplay": "Aug 19, 2026",
+    "url": "https://ads.google.com"
+  },
+  {
+    "name": "Ahrefs Letaido",
+    "category": "SEO & Analytics",
+    "pricing": "$99/mo + Ahrefs subscription (extra credits 25% surcharge)",
+    "useCase": "Always-on agentic SEO workspace for recurring workflows, dashboards, and competitor monitoring. AI visibility tracking shows which brands appear in LLM answers and which sources feed them. Integrates Notion, Slack, HubSpot, Google Ads, WordPress.",
+    "rating": "New",
+    "episodes": [
+      42
+    ],
+    "lastUpdated": "2026-08-19",
+    "lastUpdatedDisplay": "Aug 19, 2026",
+    "url": "https://ahrefs.com"
   }
 ]

@@ -2896,5 +2896,121 @@
         "source": "PPC Land"
       }
     ]
+  },
+  "ep42": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Market Intel Ep. 42: Wix, Google & Ahrefs Ship AI Agents This Week"
+      },
+      {
+        "time": "0:38",
+        "seconds": 38,
+        "label": "Preview: Symphony by Wix, Google Ads AI Homepage & Ahrefs Letaido"
+      },
+      {
+        "time": "1:05",
+        "seconds": 65,
+        "label": "Symphony by Wix Launches Multi-Agent AI Platform for Small Business"
+      },
+      {
+        "time": "2:10",
+        "seconds": 130,
+        "label": "Wix Symphony Pricing: Free Tier, $16 Basic and the Credit Catch"
+      },
+      {
+        "time": "3:25",
+        "seconds": 205,
+        "label": "Google Ads & Analytics Add AI Overviews and Prompt-Built Dashboards"
+      },
+      {
+        "time": "4:40",
+        "seconds": 280,
+        "label": "Google Ask Advisor Benchmarking: What PPC Land Found Missing"
+      },
+      {
+        "time": "5:35",
+        "seconds": 335,
+        "label": "Ahrefs Letaido: Tracking Whether AI Answers Recommend Your Competitor"
+      },
+      {
+        "time": "6:50",
+        "seconds": 410,
+        "label": "Letaido Pricing: Why $99/Month Isn't the Real Ahrefs Cost"
+      },
+      {
+        "time": "7:35",
+        "seconds": 455,
+        "label": "Quick Hits: AdRoll ChatGPT Ads, Gemini 3.7 Flash, Suno Studio 2.0 & More"
+      },
+      {
+        "time": "8:40",
+        "seconds": 520,
+        "label": "Key Takeaways: AI Marketing Tools Shift From Generating to Monitoring"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wix Launches Symphony \u2014 Multi-Agent System for SMBs",
+        "url": "https://www.wix.com/press-room/home/post/wix-launches-symphony-by-wix-a-new-standalone-multi-agent-system-built-for-smbs",
+        "source": "Wix Press Room"
+      },
+      {
+        "title": "Ronny Elkayam on Symphony by Wix",
+        "url": "https://www.wix.com/blog/ronny-elkayam-symphony-by-wix",
+        "source": "Wix Blog"
+      },
+      {
+        "title": "How Much Does Symphony by Wix Cost",
+        "url": "https://www.wix.com/blog/how-much-does-symphony-by-wix-cost",
+        "source": "Wix Blog"
+      },
+      {
+        "title": "Google Ads & Analytics AI Updates",
+        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Google Ads Gains AI Dashboards Built From Text Prompts",
+        "url": "https://ppc.land/google-ads-gains-ai-dashboards-built-from-text-prompts/",
+        "source": "PPC Land"
+      },
+      {
+        "title": "Ahrefs Launches Letaido Agent-Powered Workspace",
+        "url": "https://www.prweb.com/releases/ahrefs-launches-new-agent-powered-workspace-to-help-marketing-teams-and-agencies-improve-collaboration-on-ai-generated-work-across-the-entire-marketing-stack-302849305.html",
+        "source": "PRWeb"
+      },
+      {
+        "title": "Ahrefs Letaido Launch",
+        "url": "https://siliconangle.com/2026/08/12/ahrefs-launches-ai-agent-workspace-letaido-marketers-agencies/",
+        "source": "SiliconANGLE"
+      },
+      {
+        "title": "Ahrefs Letaido Pricing",
+        "url": "https://venturepost.co/enterprise/ahrefs-letaido-launch",
+        "source": "Venture Post"
+      },
+      {
+        "title": "AdRoll ChatGPT Ads Pilot",
+        "url": "https://www.globenewswire.com/news-release/2026/08/11/3342795/0/en/adroll-expands-multichannel-advertising-capabilities-through-chatgpt-ads-pilot.html",
+        "source": "GlobeNewswire"
+      },
+      {
+        "title": "Google Gemini 3.7 Flash",
+        "url": "https://www.reuters.com/business/google-unveils-gemini-37-flash-ai-model-coding-agent-workflows-2026-08-13/",
+        "source": "Reuters"
+      },
+      {
+        "title": "AI MarTech Roundup",
+        "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+        "source": "MarTech"
+      },
+      {
+        "title": "Suno Studio 2.0 Release Notes",
+        "url": "https://suno.com/release-notes/studio-2",
+        "source": "Suno"
+      }
+    ]
   }
 }

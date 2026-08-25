@@ -47,6 +47,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Visibility Tracking",
+    "definition": "Monitoring which brands and URLs appear in AI-generated answers (from ChatGPT, Gemini, Perplexity, etc.) rather than traditional search rankings. Ahrefs Letaido tracks whether LLM answers recommend your brand or your competitor \u2014 a new layer of competitive intelligence beyond SEO.",
+    "category": "Marketing",
+    "episodes": [
+      42
+    ],
+    "letter": "A"
+  },
+  {
     "term": "Ad Variant Testing",
     "definition": "Running multiple versions of an ad with different copy, images, or CTAs to identify the highest-performing combination. LinkedIn's data shows advertisers running 5+ variants see 20%+ higher CTR \u2014 their new AI tools make this native to Campaign Manager.",
     "category": "Marketing",
@@ -286,6 +295,15 @@
     "category": "Technical",
     "episodes": [
       23
+    ],
+    "letter": "O"
+  },
+  {
+    "term": "Orchestrating Agent",
+    "definition": "A central AI agent that coordinates multiple specialized sub-agents to complete complex tasks. Wix Symphony's Maestro assigns work to specialized agents, routes quality checks, and manages approval gates \u2014 turning multi-step marketing workflows into supervised automated processes.",
+    "category": "Concepts",
+    "episodes": [
+      42
     ],
     "letter": "O"
   },

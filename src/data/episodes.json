@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep42",
+    "num": 42,
+    "title": "Wix Launched AI Agents for $16",
+    "date": "2026-08-19",
+    "dateDisplay": "Aug 19, 2026",
+    "duration": "9:00",
+    "description": "Wix launched Symphony \u2014 a multi-agent platform with an orchestrating agent, quality review, and approval gates starting at $16/month. Google put AI on the Ads and Analytics homepage with prompt-built dashboards. Ahrefs launched Letaido, a persistent agentic SEO workspace with AI visibility tracking.",
+    "tags": [
+      "Wix Symphony",
+      "Google Ads AI",
+      "Ahrefs Letaido"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/58e72bfd-45ba-4d8c-b528-a2701c0f46ed.mp3"
+    }
+  },
+  {
     "id": "ep41",
     "num": 41,
     "title": "TikTok's 30-Sec AI Video Ads Are Here",
@@ -12,7 +38,7 @@
       "FLUX 3 Video",
       "Google AI Max"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,
