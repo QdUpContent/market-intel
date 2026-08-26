@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep43",
+    "num": 43,
+    "title": "LinkedIn Flags AI Slop, Meta Goes Free",
+    "date": "2026-08-26",
+    "dateDisplay": "Aug 26, 2026",
+    "duration": "14:00",
+    "description": "LinkedIn's AI slop button has been clicked over 1 million times \u2014 flagged posts now see 40% fewer views. Meta AI plugs into your ad account and Google Workspace for free. YouTube wrote the rulebook for AI avatars and voice clones with new likeness claim grounds.",
+    "tags": [
+      "LinkedIn AI Penalty",
+      "Meta AI Business",
+      "YouTube AI Claims"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/da67741e-c542-47e4-ba2f-cd3019c1aa8b.mp3"
+    }
+  },
+  {
     "id": "ep42",
     "num": 42,
     "title": "Wix Launched AI Agents for $16",
@@ -12,7 +38,7 @@
       "Google Ads AI",
       "Ahrefs Letaido"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

@@ -3012,5 +3012,111 @@
         "source": "Suno"
       }
     ]
+  },
+  "ep43": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "LinkedIn, Meta & YouTube AI Rules Changed This Week"
+      },
+      {
+        "time": "1:27",
+        "seconds": 87,
+        "label": "LinkedIn Penalizes AI Posts With 40% Less Reach (Hari Srinivasan Data)"
+      },
+      {
+        "time": "5:38",
+        "seconds": 338,
+        "label": "Meta AI Business Connections: Free Ad & Google Workspace Assistant"
+      },
+      {
+        "time": "8:22",
+        "seconds": 502,
+        "label": "YouTube AI Likeness Claims + MPA\u2013ByteDance Seedance & CapCut Deal"
+      },
+      {
+        "time": "11:28",
+        "seconds": 688,
+        "label": "Quick Hits: YouTube View Counting, Higgsfield, Patreon, X Ads MCP & Harvard AI Avatars"
+      },
+      {
+        "time": "13:32",
+        "seconds": 812,
+        "label": "Wrap Up"
+      }
+    ],
+    "sources": [
+      {
+        "title": "LinkedIn Says Its AI Slop Button Is Working",
+        "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
+        "source": "Engadget"
+      },
+      {
+        "title": "LinkedIn Adds Button to Report AI-Generated Slop",
+        "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LinkedIn Automated Comment Data",
+        "url": "https://fortune.com/2026/07/31/linkedin-seems-like-ai-slop-button-billions-automated-comments-attempts/",
+        "source": "Fortune"
+      },
+      {
+        "title": "A Third of Webpages Show Signs of AI Authorship",
+        "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta Adds AI-Powered Assistant for SMB Owners",
+        "url": "https://www.socialmediatoday.com/news/meta-adds-ai-powered-assistant-for-smb-owners/828344/",
+        "source": "Social Media Today"
+      },
+      {
+        "title": "Meta AI Ad Account + Workspace Connections",
+        "url": "https://www.digitalapplied.com/blog/meta-ai-ad-account-workspace-connections",
+        "source": "Digital Applied"
+      },
+      {
+        "title": "Meta Rolls Out New AI Features for Small Businesses",
+        "url": "https://www.afaqs.com/news/digital/meta-rolls-out-new-ai-features-for-small-businesses-12398288",
+        "source": "Afaqs"
+      },
+      {
+        "title": "YouTube Simplifies Its AI Claims Process",
+        "url": "https://www.socialmediatoday.com/news/youtube-simplifies-its-ai-claims-process/828462/",
+        "source": "Social Media Today"
+      },
+      {
+        "title": "YouTube Claims Tab",
+        "url": "https://support.google.com/youtube/thread/460907644",
+        "source": "YouTube Help"
+      },
+      {
+        "title": "MPA\u2013ByteDance Global IP Agreement",
+        "url": "https://newsroom.tiktok.com/mpa-and-bytedance-announce-global-agreement-to-protect-intellectual-property-on-ai-video-and-image-generation-models?lang=en",
+        "source": "TikTok Newsroom"
+      },
+      {
+        "title": "YouTube View Counting Change",
+        "url": "https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Harvard AI Avatars in $699 Bootcamp",
+        "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X Launches Ads MCP Server",
+        "url": "https://www.socialmediatoday.com/news/x-launches-mcp-server/828552/",
+        "source": "Social Media Today"
+      },
+      {
+        "title": "Patreon Launches 30 New Creator Features",
+        "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
+        "source": "TechCrunch"
+      }
+    ]
   }
 }

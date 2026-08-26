@@ -20,6 +20,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Likeness Claim",
+    "definition": "A formal dispute process for unauthorized AI-generated use of someone's face or voice. YouTube added four named dispute grounds including Explicit Consent. If you use AI avatars or cloned voices, get consent documentation into a folder now.",
+    "category": "Legal",
+    "episodes": [
+      43
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Max (Google Ads)",
     "definition": "Google's automatic upgrade that adds AI-written ad copy and broader keyword matching to existing Search campaigns. Enrolling by default on September 1, 2026 for campaigns using automatically created assets or campaign-level broad match. Advertisers should audit and pin critical copy before the deadline.",
     "category": "Marketing",
@@ -43,6 +52,15 @@
     "category": "Marketing",
     "episodes": [
       24
+    ],
+    "letter": "A"
+  },
+  {
+    "term": "AI Slop Penalty",
+    "definition": "A measurable reduction in content distribution when a platform detects AI-generated writing. LinkedIn's 'Seems like AI slop' button has been clicked over 1 million times, and flagged posts now see 40% fewer views. The platform notifies posters in their analytics when flagged.",
+    "category": "Marketing",
+    "episodes": [
+      43
     ],
     "letter": "A"
   },
