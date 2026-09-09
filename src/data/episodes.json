@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep44",
+    "num": 44,
+    "title": "AI Search Cut Traffic 10.5%",
+    "date": "2026-09-02",
+    "dateDisplay": "Sep 2, 2026",
+    "duration": "14:00",
+    "description": "Brainlabs measured 54 companies over 16 months: AI search cut web traffic 10.5%, but AI referral visitors convert at 1.5x the rate. OpenAI switched on ChatGPT ads in India at under $8/day. Google made AI video directable with Gemini Omni 1.1 and a 360p draft mode.",
+    "tags": [
+      "AI Search Traffic",
+      "ChatGPT Ads India",
+      "Gemini Omni 1.1"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/08dbb142-d1e5-46a5-8a93-9831d2386575.mp3"
+    }
+  },
+  {
     "id": "ep43",
     "num": 43,
     "title": "LinkedIn Flags AI Slop, Meta Goes Free",
@@ -12,7 +38,7 @@
       "Meta AI Business",
       "YouTube AI Claims"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

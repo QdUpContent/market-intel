@@ -47,6 +47,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Referral Traffic",
+    "definition": "Website visitors arriving via AI assistants (ChatGPT, Gemini, Perplexity, Claude) rather than traditional search engines. Brainlabs found AI referral traffic grew 163% and converts at 1.5x the rate of organic search \u2014 but it's still under 0.2% of total volume. Split it into its own analytics line to start measuring it as a channel.",
+    "category": "Marketing",
+    "episodes": [
+      44
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Shopping Mode",
     "definition": "An AI-driven product discovery feature where social platforms use creator content to surface relevant products to users. Meta's Muse Spark Shopping Mode on Instagram creates a loop where AI matches creator posts with shoppable products \u2014 changing how products get discovered on social media.",
     "category": "Marketing",
@@ -235,6 +244,15 @@
       19
     ],
     "letter": "F"
+  },
+  {
+    "term": "Generative Engine Optimization (GEO)",
+    "definition": "The practice of optimizing content to appear in AI-generated answers rather than traditional search results. As AI search cut web traffic 10.5% across 54 companies, GEO is emerging as the next layer of search strategy alongside traditional SEO.",
+    "category": "Marketing",
+    "episodes": [
+      44
+    ],
+    "letter": "G"
   },
   {
     "term": "LLM (Large Language Model)",

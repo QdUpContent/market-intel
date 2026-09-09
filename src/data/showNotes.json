@@ -3118,5 +3118,106 @@
         "source": "TechCrunch"
       }
     ]
+  },
+  "ep44": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Market Intel Ep. 44: AI Search Traffic Data, ChatGPT Ads & Gemini Omni"
+      },
+      {
+        "time": "1:25",
+        "seconds": 85,
+        "label": "Brainlabs Data: AI Search Cut Web Traffic 10.5% Across 54 Companies"
+      },
+      {
+        "time": "5:32",
+        "seconds": 332,
+        "label": "OpenAI Launches ChatGPT Ads in India at $7.60 Per Day Minimum"
+      },
+      {
+        "time": "8:02",
+        "seconds": 482,
+        "label": "Google Gemini Omni 1.1 Flash: 40-Second Scenes & 360p Draft Mode"
+      },
+      {
+        "time": "11:40",
+        "seconds": 700,
+        "label": "Quick Hits: Instagram First Draft, YouTube Amazon Tagging, Meta Auto-DM & Gemini Transcribe"
+      },
+      {
+        "time": "13:42",
+        "seconds": 822,
+        "label": "Key Takeaways: Measure AI Referrals as a Channel, Not a Loss"
+      }
+    ],
+    "sources": [
+      {
+        "title": "How AI Search Has Impacted Web Traffic of Over 50 Advertisers",
+        "url": "https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/",
+        "source": "Digiday"
+      },
+      {
+        "title": "Google Dynamically Expanding AI Overviews",
+        "url": "https://searchengineland.com/google-is-dynamically-expanding-ai-overviews-for-some-queries-486200",
+        "source": "Search Engine Land"
+      },
+      {
+        "title": "Google AI Overviews Push AI Mode Responses",
+        "url": "https://www.seroundtable.com/google-ai-overviews-push-ai-mode-responses-41974.html",
+        "source": "Search Engine Roundtable"
+      },
+      {
+        "title": "OpenAI to Start Showing Ads on ChatGPT in India",
+        "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Build with Gemini Omni 1.1 Flash",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Gemini API Pricing",
+        "url": "https://ai.google.dev/gemini-api/docs/pricing",
+        "source": "Google"
+      },
+      {
+        "title": "Google Brings Gemini Omni Video to Google Ads",
+        "url": "https://searchengineland.com/google-brings-gemini-omni-video-creation-to-google-ads-485814",
+        "source": "Search Engine Land"
+      },
+      {
+        "title": "Instagram's First Draft Feature",
+        "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube Amazon Product Tagging",
+        "url": "https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta Tests Auto-DM for Instagram Ad Comments",
+        "url": "https://www.socialmediatoday.com/news/meta-tests-auto-dm-response-for-instagram-ad-comments/828791/",
+        "source": "Social Media Today"
+      },
+      {
+        "title": "Sony/Warner Sue Anthropic",
+        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Gemini 3.5 Transcribe",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Google August 2026 Spam Update",
+        "url": "https://searchengineland.com/google-august-2026-spam-update-ranking-impact-485980",
+        "source": "Search Engine Land"
+      }
+    ]
   }
 }

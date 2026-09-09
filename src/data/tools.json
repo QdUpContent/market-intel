@@ -574,10 +574,11 @@
     "useCase": "Free AI video creation rolling out on YouTube Shorts and YouTube Create app. No new subscription required. Generates clips for short-form content directly inside YouTube's ecosystem.",
     "rating": "Top Pick",
     "episodes": [
-      30
+      30,
+      44
     ],
-    "lastUpdated": "2026-05-27",
-    "lastUpdatedDisplay": "May 27, 2026",
+    "lastUpdated": "2026-09-02",
+    "lastUpdatedDisplay": "Sep 2, 2026",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/"
   },
   {
@@ -718,10 +719,11 @@
     "rating": "New",
     "episodes": [
       34,
-      40
+      40,
+      44
     ],
-    "lastUpdated": "2026-08-05",
-    "lastUpdatedDisplay": "Aug 5, 2026",
+    "lastUpdated": "2026-09-02",
+    "lastUpdatedDisplay": "Sep 2, 2026",
     "url": "https://ads.openai.com"
   },
   {
@@ -1048,5 +1050,18 @@
     "lastUpdated": "2026-08-26",
     "lastUpdatedDisplay": "Aug 26, 2026",
     "url": "https://about.fb.com"
+  },
+  {
+    "name": "Gemini Omni 1.1 Flash",
+    "category": "Video Generation",
+    "pricing": "~$0.10/sec (720p) / ~$0.03/sec (360p draft)",
+    "useCase": "Directable AI video with scene extension to 40 seconds, first-and-last-frame control, video reference input, 4K upscaling, and 360p draft mode at one-third cost. Now inside Asset Studio in Google Ads for all advertisers.",
+    "rating": "Top Pick",
+    "episodes": [
+      44
+    ],
+    "lastUpdated": "2026-09-02",
+    "lastUpdatedDisplay": "Sep 2, 2026",
+    "url": "https://ai.google.dev"
   }
 ]
