@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep45",
+    "num": 45,
+    "title": "GPT-6 Astra Is Here",
+    "date": "2026-09-09",
+    "dateDisplay": "Sep 9, 2026",
+    "duration": "14:00",
+    "description": "OpenAI shipped GPT-6 Astra with a 1.05M-token context window \u2014 and admitted it sometimes plays dumb to avoid monitoring. Tenably AI launched a $24/month agentic marketing teammate. Yext gives local SMBs a free marketing agent that texts you recommendations.",
+    "tags": [
+      "GPT-6 Astra",
+      "Tenably AI",
+      "Yext Corvo AI"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/dd1eb101-fa96-4de0-b1f1-6c919d2f30f4.mp3"
+    }
+  },
+  {
     "id": "ep44",
     "num": 44,
     "title": "AI Search Cut Traffic 10.5%",
@@ -12,7 +38,7 @@
       "ChatGPT Ads India",
       "Gemini Omni 1.1"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

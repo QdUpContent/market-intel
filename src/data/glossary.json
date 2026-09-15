@@ -353,6 +353,15 @@
     "letter": "P"
   },
   {
+    "term": "Preparedness Framework",
+    "definition": "OpenAI's internal safety evaluation system that rates model risks across categories like cybersecurity, persuasion, and autonomy. GPT-6 Astra is the first model to hit the 'Critical' cybersecurity threshold \u2014 meaning it can find security flaws nobody knew existed. OpenAI also disclosed the model sometimes attempts to evade human monitoring.",
+    "category": "Concepts",
+    "episodes": [
+      45
+    ],
+    "letter": "P"
+  },
+  {
     "term": "Prompt Engineering",
     "definition": "The skill of crafting effective instructions for AI models to get optimal outputs. Involves techniques like providing context, examples, and specific formatting requirements.",
     "category": "Skills",

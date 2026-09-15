@@ -53,10 +53,11 @@
       35,
       37,
       40,
-      44
+      44,
+      45
     ],
-    "lastMentioned": "2026-09-02",
-    "lastMentionedDisplay": "Sep 2, 2026",
+    "lastMentioned": "2026-09-09",
+    "lastMentionedDisplay": "Sep 9, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -797,6 +798,44 @@
       "SEO",
       "AI Visibility",
       "Analytics"
+    ]
+  },
+  {
+    "name": "Tenably AI",
+    "slug": "tenably-ai",
+    "category": "Marketing Automation",
+    "pricing": "$24-$90/mo",
+    "description": "Agentic marketing teammate that plans, creates, executes, and manages cross-channel campaigns from plain-language objectives. Video, images, social posting, review management, email/SMS, and lead prospecting. Business tier ($90/mo) runs truly unattended with browser automation.",
+    "status": "Emerging",
+    "url": "https://www.tenablyai.com",
+    "episodes": [
+      45
+    ],
+    "lastMentioned": "2026-09-09",
+    "lastMentionedDisplay": "Sep 9, 2026",
+    "tags": [
+      "AI Agents",
+      "SMB",
+      "Cross-Channel"
+    ]
+  },
+  {
+    "name": "Yext",
+    "slug": "yext",
+    "category": "Local Marketing",
+    "pricing": "Free (Corvo AI) / paid Action Center",
+    "description": "Local marketing platform that launched Corvo AI \u2014 a free marketing agent that proactively texts small business owners ranked recommendations for improving local marketing and outranking competitors. Stock rose ~6% on the announcement.",
+    "status": "Growing",
+    "url": "https://www.yext.com",
+    "episodes": [
+      45
+    ],
+    "lastMentioned": "2026-09-09",
+    "lastMentionedDisplay": "Sep 9, 2026",
+    "tags": [
+      "Local SEO",
+      "SMS",
+      "AI Agents"
     ]
   }
 ]

@@ -3219,5 +3219,116 @@
         "source": "Search Engine Land"
       }
     ]
+  },
+  "ep45": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro"
+      },
+      {
+        "time": "1:45",
+        "seconds": 105,
+        "label": "GPT-6 Astra's 1M-Token Window"
+      },
+      {
+        "time": "3:20",
+        "seconds": 200,
+        "label": "Astra Pricing"
+      },
+      {
+        "time": "4:10",
+        "seconds": 250,
+        "label": "Safety Card: Critical Cyber Threshold & Evading Oversight"
+      },
+      {
+        "time": "6:15",
+        "seconds": 375,
+        "label": "Tenably AI: $24/mo Unattended Agent"
+      },
+      {
+        "time": "9:08",
+        "seconds": 548,
+        "label": "Yext Corvo AI"
+      },
+      {
+        "time": "12:00",
+        "seconds": 720,
+        "label": "Quick Hits: ElevenLabs, Alibaba Wan3.0, Sora Sunset, Claude Fable 5.1, Pepper Agent Atlas"
+      },
+      {
+        "time": "13:48",
+        "seconds": 828,
+        "label": "Wrap Up - Key Takeaways"
+      }
+    ],
+    "sources": [
+      {
+        "title": "GPT-6 Astra Safety Overview",
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "OpenAI Astra GPT-6 Cyber",
+        "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Welcome to the AGI Era",
+        "url": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+        "source": "Axios"
+      },
+      {
+        "title": "OpenAI Astra \u2014 Evading Human Monitoring",
+        "url": "https://www.reuters.com/legal/litigation/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-2026-09-03/",
+        "source": "Reuters"
+      },
+      {
+        "title": "OpenAI Debuts GPT-6 Astra",
+        "url": "https://www.nbcnews.com/tech/tech-news/openai-debuts-gpt-6-astra-security-measures-rcna595940",
+        "source": "NBC News"
+      },
+      {
+        "title": "GPT-6 Astra \u2014 Or Does It?",
+        "url": "https://www.forbes.com/sites/ronschmelzer/2026/09/03/openai-announces-gpt-6-astra-or-does-it/",
+        "source": "Forbes"
+      },
+      {
+        "title": "GPT-6 Astra Reviews \u2014 Real Users",
+        "url": "https://favtutor.com/gpt-6-astra-reviews-real-users/",
+        "source": "FavTutor"
+      },
+      {
+        "title": "Tenably AI Launches Agentic Marketing Teammate",
+        "url": "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-9-2-tenably-ai-launches-agentic-ai-marketing-teammate-built-to-execute-marketing-work",
+        "source": "Financial Content"
+      },
+      {
+        "title": "Tenably AI Marketing Agent",
+        "url": "https://www.tenablyai.com/ai-marketing-agent",
+        "source": "Tenably AI"
+      },
+      {
+        "title": "Yext Expands Agentic Capabilities",
+        "url": "https://finance.yahoo.com/small-business/articles/yext-expands-agentic-capabilities-grow-120000210.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Yext Q2 FY2027 Results",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/yext-announces-second-quarter-fiscal-120000593.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Claude Fable 5.1 & the New Model Stack",
+        "url": "https://patmcguinness.substack.com/p/claude-fable-51-gpt-6-astra-and-the",
+        "source": "Pat McGuinness (Substack)"
+      },
+      {
+        "title": "Pepper Agent Atlas",
+        "url": "https://www.tribuneindia.com/news/business/pepper-launches-agent-atlas-an-ai-agent-that-runs-geo-work-instead-of-reporting-on-it/amp",
+        "source": "Tribune India"
+      }
+    ]
   }
 }
