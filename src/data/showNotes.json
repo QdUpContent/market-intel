@@ -3330,5 +3330,96 @@
         "source": "Tribune India"
       }
     ]
+  },
+  "ep46": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Market Intel Ep. 46: Amazon, OpenAI & Universal Music AI News"
+      },
+      {
+        "time": "1:34",
+        "seconds": 94,
+        "label": "Amazon Opens ChatGPT Advertising Through Amazon DSP (What It Means for SMBs)"
+      },
+      {
+        "time": "6:27",
+        "seconds": 387,
+        "label": "ElevenLabs Signs Universal Music Group: Licensed AI Music Explained"
+      },
+      {
+        "time": "9:48",
+        "seconds": 588,
+        "label": "Adobe Firefly Unified Workspace, Precision Flow & Brand Intelligence"
+      },
+      {
+        "time": "14:00",
+        "seconds": 840,
+        "label": "Quick Hits: Sora API Shutdown, Kling 3.0, Veo 3.1, DeepSeek V4.1 & Anthropic"
+      },
+      {
+        "time": "15:36",
+        "seconds": 936,
+        "label": "Key Takeaways: Why AI Access Is Moving Behind Gates You Don't Control"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Amazon Ads ChatGPT Advertising Integration",
+        "url": "https://advertising.amazon.com/library/news/amazon-ads-chat-gpt-advertising-integration",
+        "source": "Amazon Ads"
+      },
+      {
+        "title": "Amazon ChatGPT Ads Pilot",
+        "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
+        "source": "CNBC"
+      },
+      {
+        "title": "Stackline Analysis \u2014 Amazon ChatGPT",
+        "url": "https://www.stackline.com/news/amazon-ads-expands-into-chatgpt-with-a-new-partnership",
+        "source": "Stackline"
+      },
+      {
+        "title": "Amazon Ads ChatGPT DSP Integration",
+        "url": "https://channelx.world/2026/09/new-amazon-ads-chatgpt-integration-for-dsp/",
+        "source": "ChannelX"
+      },
+      {
+        "title": "Universal Music Group \u00d7 ElevenLabs Agreement",
+        "url": "https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/",
+        "source": "Universal Music"
+      },
+      {
+        "title": "UMG and ElevenLabs AI Music Licensing Deal",
+        "url": "https://www.musicnews.com/news/2026-09-11-universal-music-group-and-elevenlabs-announce-multi-year-ai-music-licensing-deal",
+        "source": "MusicNews"
+      },
+      {
+        "title": "Adobe Firefly September 2026 Updates",
+        "url": "https://releasebot.io/updates/adobe/firefly",
+        "source": "ReleaseBot"
+      },
+      {
+        "title": "Adobe Firefly Feature Overview",
+        "url": "https://www.adobe.com/products/firefly/features.html",
+        "source": "Adobe"
+      },
+      {
+        "title": "AI Video Model Release Tracker",
+        "url": "https://magichour.ai/blog/ai-video-model-release-tracker-2026",
+        "source": "Magic Hour"
+      },
+      {
+        "title": "Veo vs Sora vs Kling Comparison",
+        "url": "https://tech-insider.org/best-ai-video-generator-2026/",
+        "source": "Tech Insider"
+      },
+      {
+        "title": "The AI Slowdown the Ad Industry Didn't See Coming",
+        "url": "https://www.mediapost.com/publications/article/417897/the-ai-slowdown-the-ad-industry-didnt-see-coming.html",
+        "source": "MediaPost"
+      }
+    ]
   }
 }

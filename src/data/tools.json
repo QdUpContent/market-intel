@@ -43,10 +43,11 @@
       8,
       25,
       27,
-      31
+      31,
+      46
     ],
-    "lastUpdated": "2026-06-03",
-    "lastUpdatedDisplay": "Jun 3, 2026",
+    "lastUpdated": "2026-09-16",
+    "lastUpdatedDisplay": "Sep 16, 2026",
     "url": "https://elevenlabs.io"
   },
   {
@@ -720,10 +721,11 @@
     "episodes": [
       34,
       40,
-      44
+      44,
+      46
     ],
-    "lastUpdated": "2026-09-02",
-    "lastUpdatedDisplay": "Sep 2, 2026",
+    "lastUpdated": "2026-09-16",
+    "lastUpdatedDisplay": "Sep 16, 2026",
     "url": "https://ads.openai.com"
   },
   {
@@ -1102,5 +1104,31 @@
     "lastUpdated": "2026-09-09",
     "lastUpdatedDisplay": "Sep 9, 2026",
     "url": "https://askcorvo.com"
+  },
+  {
+    "name": "Amazon ChatGPT Ads (DSP)",
+    "category": "Advertising",
+    "pricing": "CPC/CPM via Amazon DSP",
+    "useCase": "Text and image ads beneath ChatGPT responses, purchased through Amazon DSP. Product-feed ads auto-generate creative from your catalog. Limited US pilot with broader rollout expected into 2027. Clean up your product feed now.",
+    "rating": "Watch",
+    "episodes": [
+      46
+    ],
+    "lastUpdated": "2026-09-16",
+    "lastUpdatedDisplay": "Sep 16, 2026",
+    "url": "https://advertising.amazon.com"
+  },
+  {
+    "name": "Adobe Firefly Unified Workspace",
+    "category": "Design",
+    "pricing": "Pro Plus $49.99/mo (SMB sweet spot)",
+    "useCase": "Unified image, video, audio, Boards, timelines, and AI Assistant in one environment. Precision Flow (beta) for slider-based multi-variation editing. Brand Intelligence for automated brand-guideline validation. Track which model generates each asset \u2014 IP indemnification covers Adobe's models, not partners.",
+    "rating": "Top Pick",
+    "episodes": [
+      46
+    ],
+    "lastUpdated": "2026-09-16",
+    "lastUpdatedDisplay": "Sep 16, 2026",
+    "url": "https://firefly.adobe.com"
   }
 ]

@@ -54,10 +54,11 @@
       37,
       40,
       44,
-      45
+      45,
+      46
     ],
-    "lastMentioned": "2026-09-09",
-    "lastMentionedDisplay": "Sep 9, 2026",
+    "lastMentioned": "2026-09-16",
+    "lastMentionedDisplay": "Sep 16, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -155,10 +156,11 @@
       24,
       25,
       27,
-      31
+      31,
+      46
     ],
-    "lastMentioned": "2026-06-03",
-    "lastMentionedDisplay": "Jun 3, 2026",
+    "lastMentioned": "2026-09-16",
+    "lastMentionedDisplay": "Sep 16, 2026",
     "tags": [
       "Voice",
       "Cloning",
@@ -578,10 +580,11 @@
     "status": "Leading",
     "url": "https://firefly.adobe.com",
     "episodes": [
-      33
+      33,
+      46
     ],
-    "lastMentioned": "2026-06-17",
-    "lastMentionedDisplay": "Jun 17, 2026",
+    "lastMentioned": "2026-09-16",
+    "lastMentionedDisplay": "Sep 16, 2026",
     "tags": [
       "Design",
       "Multi-Model",

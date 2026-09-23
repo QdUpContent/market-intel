@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep46",
+    "num": 46,
+    "title": "Amazon Opens ChatGPT to Advertisers + Universal Music \u00d7 ElevenLabs + Adobe Firefly Unified",
+    "date": "2026-09-16",
+    "dateDisplay": "Sep 16, 2026",
+    "duration": "16:00",
+    "description": "Amazon Ads and OpenAI opened ChatGPT to advertisers through Amazon DSP on familiar CPC/CPM pricing. Universal Music signed its first major AI licensing deal with ElevenLabs. Adobe folded Firefly into a single creative workspace with Precision Flow and Brand Intelligence.",
+    "tags": [
+      "Amazon ChatGPT Ads",
+      "ElevenLabs \u00d7 UMG",
+      "Adobe Firefly Workspace"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/92046eda-6c80-4445-b151-c3f19eb71559.mp3"
+    }
+  },
+  {
     "id": "ep45",
     "num": 45,
     "title": "GPT-6 Astra Is Here",
@@ -12,7 +38,7 @@
       "Tenably AI",
       "Yext Corvo AI"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,
