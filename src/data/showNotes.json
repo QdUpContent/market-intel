@@ -3421,5 +3421,106 @@
         "source": "MediaPost"
       }
     ]
+  },
+  "ep47": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Market Intel Ep. 47: Pipedrive Nova, Meta One & TypeSafe Jev"
+      },
+      {
+        "time": "1:51",
+        "seconds": 111,
+        "label": "Pipedrive Nova Puts AI Meeting Notes Inside Every CRM Plan"
+      },
+      {
+        "time": "6:42",
+        "seconds": 402,
+        "label": "Meta One Pricing Revealed: $14.99 to $499 Across Instagram & WhatsApp"
+      },
+      {
+        "time": "11:17",
+        "seconds": 677,
+        "label": "TypeSafe AI's Jev: The Decision Model That Won't Generate Text"
+      },
+      {
+        "time": "16:20",
+        "seconds": 980,
+        "label": "Quick Hits: Vosko AI, MiniMax H3 Max Turbo & Constant Contact in Claude"
+      },
+      {
+        "time": "17:57",
+        "seconds": 1077,
+        "label": "Key Takeaways: Cheaper AI Tools, Same Human Judgment"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pipedrive Launches Nova",
+        "url": "https://www.pipedrive.com/en/newsroom/pipedrive-launches-nova-to-turn-sales-meetings-into-crm-intelligence",
+        "source": "Pipedrive"
+      },
+      {
+        "title": "Pipedrive Nova Overview",
+        "url": "https://support.pipedrive.com/en/article/nova",
+        "source": "Pipedrive Docs"
+      },
+      {
+        "title": "Pipedrive Nova Meetings & Consent",
+        "url": "https://support.pipedrive.com/en/article/nova-meetings",
+        "source": "Pipedrive Docs"
+      },
+      {
+        "title": "Pipedrive Pricing",
+        "url": "https://www.pipedrive.com/en/pricing",
+        "source": "Pipedrive"
+      },
+      {
+        "title": "Destination CRM on Nova",
+        "url": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Pipedrive-Launches-Nova-to-Turn-Sales-Meetings-into-CRM-Intelligence-176628.aspx",
+        "source": "Destination CRM"
+      },
+      {
+        "title": "Introducing Meta One",
+        "url": "https://about.fb.com/news/2026/09/introducing-meta-one/",
+        "source": "Meta"
+      },
+      {
+        "title": "Meta Expands Subscription Push",
+        "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta One Subscription",
+        "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/09/15/meta-one-turns-instagram-whatsapp-and-meta-ai-into-a-subscription/",
+        "source": "Forbes"
+      },
+      {
+        "title": "Introducing System One Models & Jev",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "source": "TypeSafe AI"
+      },
+      {
+        "title": "A New Kind of AI Model From a ChatGPT Inventor",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TypeSafe AI Debuts Model for Machines",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/16/typesafe-ai-debuts-model-for-machines-that-plays-doom/",
+        "source": "The Register"
+      },
+      {
+        "title": "Vosko AI Video Localization",
+        "url": "https://finance.yahoo.com/technology/ai/articles/vosko-ai-launches-video-localization-183500514.html",
+        "source": "Yahoo Finance"
+      },
+      {
+        "title": "Constant Contact in Claude",
+        "url": "https://www.constantcontact.com/news/2026-09-10-constant-contact-launches-in-claude-to-power-ai-driven-marketing",
+        "source": "Constant Contact"
+      }
+    ]
   }
 }

@@ -1130,5 +1130,44 @@
     "lastUpdated": "2026-09-16",
     "lastUpdatedDisplay": "Sep 16, 2026",
     "url": "https://firefly.adobe.com"
+  },
+  {
+    "name": "Pipedrive Nova",
+    "category": "CRM",
+    "pricing": "Included in all Pipedrive plans",
+    "useCase": "AI meeting intelligence \u2014 briefs you before calls, records and transcribes across Google Meet/Zoom/Teams, drafts CRM updates for approval. Configure consent rules before first recorded call (IL, CA, PA are all-party-consent states).",
+    "rating": "Top Pick",
+    "episodes": [
+      47
+    ],
+    "lastUpdated": "2026-09-23",
+    "lastUpdatedDisplay": "Sep 23, 2026",
+    "url": "https://pipedrive.com"
+  },
+  {
+    "name": "Meta One",
+    "category": "Social & Advertising",
+    "pricing": "$14.99\u2013$499/mo",
+    "useCase": "Bundled 50+ paid features across Instagram, Facebook, WhatsApp and Meta AI. Advanced tier ($49.99) adds 30-day Story scheduling, links in organic posts/Reels, exportable analytics, and team access. AI generation quotas and Business Agent limits not yet published.",
+    "rating": "New",
+    "episodes": [
+      47
+    ],
+    "lastUpdated": "2026-09-23",
+    "lastUpdatedDisplay": "Sep 23, 2026",
+    "url": "https://about.fb.com"
+  },
+  {
+    "name": "TypeSafe Jev",
+    "category": "AI Infrastructure",
+    "pricing": "$0.042/1M input tokens (no output charge)",
+    "useCase": "Decision-only AI model \u2014 returns typed choices, scores, or yes/no instead of generated text. Cannot hallucinate an unsupported output type (can still return wrong valid answers). Worth piloting for high-volume classification bottlenecks.",
+    "rating": "Watch",
+    "episodes": [
+      47
+    ],
+    "lastUpdated": "2026-09-23",
+    "lastUpdatedDisplay": "Sep 23, 2026",
+    "url": "https://typesafe.ai"
   }
 ]

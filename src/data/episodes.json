@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep47",
+    "num": 47,
+    "title": "Your CRM Now Takes Its Own Notes",
+    "date": "2026-09-23",
+    "dateDisplay": "Sep 23, 2026",
+    "duration": "18:00",
+    "description": "Pipedrive launched Nova \u2014 AI meeting intelligence built into every plan at no extra cost. Meta finally put real prices on Meta One ($14.99\u2013$499/mo). TypeSafe AI shipped Jev, a model that makes decisions instead of writing text at $0.042 per million tokens.",
+    "tags": [
+      "Pipedrive Nova",
+      "Meta One",
+      "TypeSafe Jev"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/41704b01-ba97-496a-91a2-502f1bb8a308.mp3"
+    }
+  },
+  {
     "id": "ep46",
     "num": 46,
     "title": "Amazon Opens ChatGPT to Advertisers + Universal Music \u00d7 ElevenLabs + Adobe Firefly Unified",
@@ -12,7 +38,7 @@
       "ElevenLabs \u00d7 UMG",
       "Adobe Firefly Workspace"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

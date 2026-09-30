@@ -38,6 +38,15 @@
     "letter": "A"
   },
   {
+    "term": "AI Meeting Intelligence",
+    "definition": "AI that sits in on sales or client calls, transcribes the conversation, and drafts CRM updates from what was discussed. Pipedrive Nova does this across Google Meet, Zoom, and Teams \u2014 included free in every plan. Critical note: recording consent laws (all-party-consent in IL, CA, PA) are your responsibility, not the tool's.",
+    "category": "Skills",
+    "episodes": [
+      47
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Mode (Social Search)",
     "definition": "A social platform search layer that synthesizes answers from community content (Groups, Reels, posts) instead of returning traditional links. Meta's AI Mode on Facebook changes how brands get discovered organically \u2014 answers are assembled from creator content rather than website links.",
     "category": "Marketing",
@@ -462,6 +471,15 @@
       12,
       6,
       22
+    ],
+    "letter": "T"
+  },
+  {
+    "term": "Type Safety (AI)",
+    "definition": "An AI model architecture that constrains outputs to predefined types (a score, a category, a yes/no) rather than generating freeform text. TypeSafe AI's Jev 'cannot hallucinate' in the sense that it can't return an unsupported output type \u2014 but it can still return the wrong valid answer. Type safety is not factual correctness.",
+    "category": "Technical",
+    "episodes": [
+      47
     ],
     "letter": "T"
   },
