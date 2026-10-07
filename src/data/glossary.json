@@ -1,5 +1,14 @@
 [
   {
+    "term": "A/B Testing (Video Cuts)",
+    "definition": "Testing up to three different edits of the same video against your audience to see which performs best. YouTube's Made On YouTube 2026 announced this as a native Studio feature \u2014 upload multiple cuts and YouTube distributes them to segments of your audience to find the winner.",
+    "category": "Content Creation",
+    "episodes": [
+      48
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Avatar",
     "definition": "A digital representation of a person powered by AI, often combining voice cloning and video synthesis to create realistic virtual presenters. Used in content creation to maintain consistent delivery.",
     "category": "Content Creation",

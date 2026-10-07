@@ -3522,5 +3522,106 @@
         "source": "Constant Contact"
       }
     ]
+  },
+  "ep48": {
+    "timestamps": [
+      {
+        "time": "0:00",
+        "seconds": 0,
+        "label": "Intro"
+      },
+      {
+        "time": "1:36",
+        "seconds": 96,
+        "label": "YouTube AI Editing & A/B Testing"
+      },
+      {
+        "time": "4:40",
+        "seconds": 280,
+        "label": "Google Vids Opens Free 1080p AI Video"
+      },
+      {
+        "time": "7:36",
+        "seconds": 456,
+        "label": "Claude Opus 5.5: Pricing Cut"
+      },
+      {
+        "time": "10:45",
+        "seconds": 645,
+        "label": "Quick Hits: Adobe, Premiere for Android, LTK, ImpactFactory.ai, PixVerse R2"
+      },
+      {
+        "time": "12:05",
+        "seconds": 725,
+        "label": "Key Takeaways"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Made On YouTube 2026 Recap",
+        "url": "https://blog.youtube/news-and-events/innovation-youtube-era-made-on-viewers-creators/",
+        "source": "YouTube Blog"
+      },
+      {
+        "title": "New Tools to Power Your Creation Journey",
+        "url": "https://blog.youtube/news-and-events/made-on-youtube-new-tools-power-creation-journey/",
+        "source": "YouTube Blog"
+      },
+      {
+        "title": "YouTube Unveils AI Creator Tools",
+        "url": "https://www.reuters.com/business/youtube-unveils-ai-creator-tools-shopping-features-annual-event-2026-09-23/",
+        "source": "Reuters"
+      },
+      {
+        "title": "Made On YouTube Analysis",
+        "url": "https://www.socialmediatoday.com/news/youtube-presents-new-ai-and-engagement-features-at-made-on-2026/831216/",
+        "source": "Social Media Today"
+      },
+      {
+        "title": "YouTube AI Personalization",
+        "url": "https://www.tubefilter.com/2026/09/23/made-on-youtube-2026-ai-personalization-creator-tools/",
+        "source": "Tubefilter"
+      },
+      {
+        "title": "Gemini Omni in Google Vids",
+        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/",
+        "source": "Google Blog"
+      },
+      {
+        "title": "Gemini Omni 1.1 Flash in Vids",
+        "url": "https://workspaceupdates.googleblog.com/2026/09/gemini-omni-11-flash-now-in-vids-with-improved-extension-quality-1080p-and-duration-control.html",
+        "source": "Workspace Updates"
+      },
+      {
+        "title": "Google Vids Limits & Availability",
+        "url": "https://support.google.com/docs/answer/15609411?hl=en",
+        "source": "Google Support"
+      },
+      {
+        "title": "Google AI Plans",
+        "url": "https://one.google.com/intl/en_us/about/google-ai-plans/",
+        "source": "Google One"
+      },
+      {
+        "title": "Introducing Claude Opus 5.5",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "source": "Anthropic"
+      },
+      {
+        "title": "Anthropic Releases Opus 5.5",
+        "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vibe Check: Opus 5.5",
+        "url": "https://every.to/vibe-check/vibe-check-opus-5-5-is-pulling-our-codex-converts-back-to-claude",
+        "source": "Every"
+      },
+      {
+        "title": "Adobe Premiere for Android",
+        "url": "https://blog.adobe.com/en/publish/2026/09/22/adobe-premiere-expands-android-fast-powerful-easy-mobile-video-editing",
+        "source": "Adobe Blog"
+      }
+    ]
   }
 }

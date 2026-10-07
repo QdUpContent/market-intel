@@ -18,10 +18,11 @@
       36,
       41,
       42,
-      44
+      44,
+      48
     ],
-    "lastMentioned": "2026-09-02",
-    "lastMentionedDisplay": "Sep 2, 2026",
+    "lastMentioned": "2026-09-30",
+    "lastMentionedDisplay": "Sep 30, 2026",
     "tags": [
       "LLM",
       "Multimodal",
@@ -83,10 +84,11 @@
       28,
       31,
       32,
-      35
+      35,
+      48
     ],
-    "lastMentioned": "2026-07-01",
-    "lastMentionedDisplay": "Jul 1, 2026",
+    "lastMentioned": "2026-09-30",
+    "lastMentionedDisplay": "Sep 30, 2026",
     "tags": [
       "LLM",
       "Reasoning",
@@ -455,10 +457,11 @@
     "status": "Growing",
     "url": "https://workspace.google.com/products/vids/",
     "episodes": [
-      23
+      23,
+      48
     ],
-    "lastMentioned": "2026-04-08",
-    "lastMentionedDisplay": "Apr 8, 2026",
+    "lastMentioned": "2026-09-30",
+    "lastMentionedDisplay": "Sep 30, 2026",
     "tags": [
       "Video",
       "Free",

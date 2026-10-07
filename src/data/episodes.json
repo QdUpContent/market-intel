@@ -1,5 +1,31 @@
 [
   {
+    "id": "ep48",
+    "num": 48,
+    "title": "YouTube's AI Editor Tests Your Cuts",
+    "date": "2026-09-30",
+    "dateDisplay": "Sep 30, 2026",
+    "duration": "13:00",
+    "description": "YouTube turned Studio into an AI edit-and-test loop with A/B testing for up to three cuts. Google Vids opened free 1080p AI video to any Google account. Claude Opus 5.5 made premium AI research and writing cheaper at $4/$20 per million tokens.",
+    "tags": [
+      "YouTube AI Editor",
+      "Google Vids 1080p",
+      "Claude Opus 5.5"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/821b4585-9fc2-4d65-a870-95072d7f0ede.mp3"
+    }
+  },
+  {
     "id": "ep47",
     "num": 47,
     "title": "Your CRM Now Takes Its Own Notes",
@@ -12,7 +38,7 @@
       "Meta One",
       "TypeSafe Jev"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

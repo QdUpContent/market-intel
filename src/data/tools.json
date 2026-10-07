@@ -365,10 +365,11 @@
     "useCase": "AI video generation free for every Google account. 10 clips per month via Veo 3.1. Ideal for social content and quick marketing videos. Note: AI content labeling workflow needed before publishing at scale.",
     "rating": "New",
     "episodes": [
-      23
+      23,
+      48
     ],
-    "lastUpdated": "2026-04-08",
-    "lastUpdatedDisplay": "Apr 8, 2026",
+    "lastUpdated": "2026-09-30",
+    "lastUpdatedDisplay": "Sep 30, 2026",
     "url": "https://workspace.google.com/products/vids/"
   },
   {
@@ -1169,5 +1170,31 @@
     "lastUpdated": "2026-09-23",
     "lastUpdatedDisplay": "Sep 23, 2026",
     "url": "https://typesafe.ai"
+  },
+  {
+    "name": "YouTube AI Editor & A/B Testing",
+    "category": "Video Generation",
+    "pricing": "Free (YouTube Studio)",
+    "useCase": "Gemini-powered conversational editor in Shorts and YouTube Create, channel-matched thumbnails, Ask Studio for brand-deal pitches, and A/B testing for up to three cuts of the same video. Write three different hooks now so you're ready when cut testing reaches your account.",
+    "rating": "New",
+    "episodes": [
+      48
+    ],
+    "lastUpdated": "2026-09-30",
+    "lastUpdatedDisplay": "Sep 30, 2026",
+    "url": "https://studio.youtube.com"
+  },
+  {
+    "name": "Claude Opus 5.5",
+    "category": "AI Assistant",
+    "pricing": "$4/$20 per 1M input/output tokens (20% below Opus 5)",
+    "useCase": "Anthropic's new flagship for long-running agents and knowledge work. Clearer writing, fewer tokens. Independent testing called it a strong thinking partner but 'shaky on execution' \u2014 test it on your hardest brief, not everyday copy, and keep a human on every deliverable.",
+    "rating": "Top Pick",
+    "episodes": [
+      48
+    ],
+    "lastUpdated": "2026-09-30",
+    "lastUpdatedDisplay": "Sep 30, 2026",
+    "url": "https://claude.ai"
   }
 ]
