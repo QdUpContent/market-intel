@@ -3623,5 +3623,156 @@
         "source": "Adobe Blog"
       }
     ]
+  },
+  "ep49": {
+    "timestamps": [
+      {
+        "time": "00:00",
+        "seconds": 0,
+        "label": "Market Intel Ep. 49: ChatGPT Dots, Instagram Edits & Claude Mods"
+      },
+      {
+        "time": "01:18",
+        "seconds": 78,
+        "label": "OpenAI Launches ChatGPT Dots: Always-On AI Agents for Content Ops"
+      },
+      {
+        "time": "04:20",
+        "seconds": 260,
+        "label": "Instagram Edits Assistant: Free AI Coach That Reads Your Reels Data"
+      },
+      {
+        "time": "06:31",
+        "seconds": 391,
+        "label": "Anthropic Claude Code Mods: Turn Brand Rules Into Running Code"
+      },
+      {
+        "time": "08:30",
+        "seconds": 510,
+        "label": "Quick Hits: HeyGen Video Model & Meta Muse for Small Business, Growth7, Synthesia Dubbing Captions & Community Mods"
+      },
+      {
+        "time": "09:52",
+        "seconds": 592,
+        "label": "Key Takeaways: Decide What Your AI Agents May Read, Draft & Publish"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Introducing dots",
+        "url": "https://openai.com/index/introducing-dots/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "Safety, security & privacy in dots",
+        "url": "https://openai.com/index/how-we-build-safety-security-and-privacy-into-dots/",
+        "source": "OpenAI"
+      },
+      {
+        "title": "ChatGPT release notes",
+        "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+        "source": "OpenAI"
+      },
+      {
+        "title": "ChatGPT Business release notes",
+        "url": "https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes",
+        "source": "OpenAI"
+      },
+      {
+        "title": "OpenAI takes on Meta with dots",
+        "url": "https://www.reuters.com/business/openai-takes-meta-with-always-on-dots-agent-enterprise-ai-push-2026-09-29/",
+        "source": "Reuters"
+      },
+      {
+        "title": "Dots safety analysis",
+        "url": "https://www.axios.com/2026/09/30/openai-dots-ai-agent-safety",
+        "source": "Axios"
+      },
+      {
+        "title": "Dots analysis",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915",
+        "source": "The Register"
+      },
+      {
+        "title": "Dots pricing & permissions",
+        "url": "https://www.zdnet.com/innovation/openai-dots-openclaw-chatgpt-pro/",
+        "source": "ZDNET"
+      },
+      {
+        "title": "Edits Assistant: AI That Knows You",
+        "url": "https://creators.instagram.com/blog/edits-assistant/",
+        "source": "Instagram"
+      },
+      {
+        "title": "Instagram's AI video assistant",
+        "url": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instagram's AI posting assistant",
+        "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+        "source": "The Verge"
+      },
+      {
+        "title": "Edits Assistant launch",
+        "url": "https://www.engadget.com/2273111/meta-introduces-a-new-ai-assistant-for-its-instagram-creators/",
+        "source": "Engadget"
+      },
+      {
+        "title": "Introducing Meta One",
+        "url": "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/",
+        "source": "Meta"
+      },
+      {
+        "title": "Customize Claude Code with mods",
+        "url": "https://claude.com/blog/claude-code-mods",
+        "source": "Anthropic"
+      },
+      {
+        "title": "Plans & pricing",
+        "url": "https://www.anthropic.com/pricing",
+        "source": "Anthropic"
+      },
+      {
+        "title": "Claude Code Mods explained",
+        "url": "https://thenewstack.io/anthropic-claude-code-mods-plugins/",
+        "source": "The New Stack"
+      },
+      {
+        "title": "Claude Mods attack surface",
+        "url": "https://dash.security/blog/claude-mods-the-new-attack-surface-built-in",
+        "source": "Dash Security"
+      },
+      {
+        "title": "Claude Code Mods overview",
+        "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
+        "source": "The Decoder"
+      },
+      {
+        "title": "HeyGen Video API",
+        "url": "https://developers.heygen.com/heygen-video-1.0-catalog",
+        "source": "HeyGen"
+      },
+      {
+        "title": "Meta Muse for small business",
+        "url": "https://www.mediapost.com/publications/article/418408/meta-launches-more-business-facing-muse-ai-offerin.html",
+        "source": "MediaPost"
+      },
+      {
+        "title": "Growth7 launches AI marketing platform",
+        "url": "https://www.einpresswire.com/article/946439947/growth7-launches-ai-marketing-platform-that-turns-crm-data-into-pipeline-action",
+        "source": "EINPresswire"
+      },
+      {
+        "title": "Synthesia product updates",
+        "url": "https://www.synthesia.io/updates",
+        "source": "Synthesia"
+      },
+      {
+        "title": "Open-source Claude Code mod",
+        "url": "https://devops.com/open-source-mod-brings-rate-limits-costs-and-ci-status-into-view-for-claude-code-users/",
+        "source": "DevOps.com"
+      }
+    ]
   }
 }

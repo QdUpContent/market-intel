@@ -1,5 +1,32 @@
 [
   {
+    "id": "ep49",
+    "num": 49,
+    "title": "ChatGPT Dots: AI That Never Logs Off",
+    "date": "2026-10-01",
+    "dateDisplay": "Oct 1, 2026",
+    "duration": "11:30",
+    "description": "OpenAI's ChatGPT Dots keep working after you close the tab, Instagram's new Edits Assistant reads your Reels data and tells you what to make next, and Anthropic's Claude Code Mods let you rewrite the AI tool itself.",
+    "tags": [
+      "ChatGPT Dots",
+      "Instagram Edits",
+      "Claude Code Mods",
+      "Meta One"
+    ],
+    "isNew": true,
+    "stats": {
+      "downloads": 0,
+      "uniqueListeners": 0,
+      "completionRate": 0
+    },
+    "links": {
+      "spotify": "",
+      "apple": "",
+      "youtube": "",
+      "audio": "https://episodes.captivate.fm/episode/884f06fa-a85d-4be9-bd63-593938e47270.mp3"
+    }
+  },
+  {
     "id": "ep48",
     "num": 48,
     "title": "YouTube's AI Editor Tests Your Cuts",
@@ -12,7 +39,7 @@
       "Google Vids 1080p",
       "Claude Opus 5.5"
     ],
-    "isNew": true,
+    "isNew": false,
     "stats": {
       "downloads": 0,
       "uniqueListeners": 0,

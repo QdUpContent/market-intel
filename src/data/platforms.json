@@ -34,7 +34,7 @@
     "name": "OpenAI ChatGPT",
     "category": "AI Assistant",
     "pricing": "Free / $20/mo Plus / $200/mo Pro",
-    "description": "The AI chatbot that started the revolution. Now running GPT-5.x with code generation, image creation, and newly launched advertising. Locked in a fierce rivalry with Claude and Gemini.",
+    "description": "OpenAI's flagship AI assistant now includes Dots \u2014 persistent agents that keep working after you close the tab, with cloud computers, browser access, and 4,000+ app integrations. Available through ChatGPT Pro ($100/mo+) and Business Premium plans.",
     "status": "Leading",
     "url": "https://chat.openai.com",
     "episodes": [
@@ -56,10 +56,11 @@
       40,
       44,
       45,
-      46
+      46,
+      49
     ],
-    "lastMentioned": "2026-09-16",
-    "lastMentionedDisplay": "Sep 16, 2026",
+    "lastMentioned": "2026-10-01",
+    "lastMentionedDisplay": "Oct 1, 2026",
     "tags": [
       "LLM",
       "Code",
@@ -85,10 +86,11 @@
       31,
       32,
       35,
-      48
+      48,
+      49
     ],
-    "lastMentioned": "2026-09-30",
-    "lastMentionedDisplay": "Sep 30, 2026",
+    "lastMentioned": "2026-10-01",
+    "lastMentionedDisplay": "Oct 1, 2026",
     "tags": [
       "LLM",
       "Reasoning",
@@ -483,10 +485,11 @@
       37,
       38,
       43,
-      47
+      47,
+      49
     ],
-    "lastMentioned": "2026-09-23",
-    "lastMentionedDisplay": "Sep 23, 2026",
+    "lastMentioned": "2026-10-01",
+    "lastMentionedDisplay": "Oct 1, 2026",
     "tags": [
       "Social",
       "Shopping",
@@ -518,17 +521,18 @@
   {
     "name": "Instagram Edits",
     "slug": "instagram-edits",
-    "category": "Video Generation",
+    "category": "Design & Creative",
     "pricing": "Free",
-    "description": "Instagram's native video editing app with AI video clip generation directly in the timeline. Generate from text prompts, photos, or existing clips. Instagram algorithmically promotes Reels made inside Edits.",
+    "description": "Meta's standalone video editing app for Instagram creators, now with an AI Edits Assistant that reads your follows, views, retention, and engagement data to suggest hooks, captions, scripts, and audio for Reels.",
     "status": "Rising Star",
     "url": "https://creators.instagram.com/edits",
     "episodes": [
       29,
-      33
+      33,
+      49
     ],
-    "lastMentioned": "2026-06-17",
-    "lastMentionedDisplay": "Jun 17, 2026",
+    "lastMentioned": "2026-10-01",
+    "lastMentionedDisplay": "Oct 1, 2026",
     "tags": [
       "Video",
       "Free",

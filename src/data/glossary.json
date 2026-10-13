@@ -9,6 +9,27 @@
     "letter": "A"
   },
   {
+    "term": "Ad Variant Testing",
+    "definition": "Running multiple versions of an ad with different copy, images, or CTAs to identify the highest-performing combination. LinkedIn's data shows advertisers running 5+ variants see 20%+ higher CTR \u2014 their new AI tools make this native to Campaign Manager.",
+    "category": "Marketing",
+    "episodes": [
+      36
+    ],
+    "letter": "A"
+  },
+  {
+    "term": "Agentic AI",
+    "definition": "AI systems that can autonomously take actions, make decisions, and complete multi-step tasks without human intervention at each step. Moves beyond chat-based assistants to agents that browse, code, and execute workflows.",
+    "category": "Concepts",
+    "episodes": [
+      17,
+      14,
+      18,
+      21
+    ],
+    "letter": "A"
+  },
+  {
     "term": "AI Avatar",
     "definition": "A digital representation of a person powered by AI, often combining voice cloning and video synthesis to create realistic virtual presenters. Used in content creation to maintain consistent delivery.",
     "category": "Content Creation",
@@ -101,46 +122,6 @@
     "letter": "A"
   },
   {
-    "term": "Ad Variant Testing",
-    "definition": "Running multiple versions of an ad with different copy, images, or CTAs to identify the highest-performing combination. LinkedIn's data shows advertisers running 5+ variants see 20%+ higher CTR \u2014 their new AI tools make this native to Campaign Manager.",
-    "category": "Marketing",
-    "episodes": [
-      36
-    ],
-    "letter": "A"
-  },
-  {
-    "term": "Agentic AI",
-    "definition": "AI systems that can autonomously take actions, make decisions, and complete multi-step tasks without human intervention at each step. Moves beyond chat-based assistants to agents that browse, code, and execute workflows.",
-    "category": "Concepts",
-    "episodes": [
-      17,
-      14,
-      18,
-      21
-    ],
-    "letter": "A"
-  },
-  {
-    "term": "CPA (Cost Per Acquisition)",
-    "definition": "The average cost to acquire one customer through advertising. A key metric for measuring ad campaign efficiency. Lower CPA means more efficient ad spend.",
-    "category": "Marketing",
-    "episodes": [
-      11
-    ],
-    "letter": "C"
-  },
-  {
-    "term": "CPM (Cost Per Mille)",
-    "definition": "The cost an advertiser pays per 1,000 ad impressions. Standard podcast advertising metric, typically $25-50 for business/tech podcasts.",
-    "category": "Marketing",
-    "episodes": [
-      15,
-      11
-    ],
-    "letter": "C"
-  },
-  {
     "term": "Cease-and-Desist (AI Context)",
     "definition": "Legal action taken against AI companies for unauthorized use of copyrighted content in training data or generated outputs. Increasingly common as media companies challenge AI video and image generators.",
     "category": "Legal",
@@ -191,6 +172,25 @@
     "category": "Marketing",
     "episodes": [
       26
+    ],
+    "letter": "C"
+  },
+  {
+    "term": "CPA (Cost Per Acquisition)",
+    "definition": "The average cost to acquire one customer through advertising. A key metric for measuring ad campaign efficiency. Lower CPA means more efficient ad spend.",
+    "category": "Marketing",
+    "episodes": [
+      11
+    ],
+    "letter": "C"
+  },
+  {
+    "term": "CPM (Cost Per Mille)",
+    "definition": "The cost an advertiser pays per 1,000 ad impressions. Standard podcast advertising metric, typically $25-50 for business/tech podcasts.",
+    "category": "Marketing",
+    "episodes": [
+      15,
+      11
     ],
     "letter": "C"
   },
@@ -385,6 +385,15 @@
     "category": "Marketing",
     "episodes": [
       37
+    ],
+    "letter": "P"
+  },
+  {
+    "term": "Persistent AI Agent",
+    "definition": "An AI assistant that keeps running in the cloud after you close your browser or app. Unlike a chatbot that only responds when you type, a persistent agent can monitor inboxes, draft content, and complete multi-step tasks on its own schedule \u2014 then notify you when results are ready. OpenAI's ChatGPT Dots are the first mainstream example.",
+    "category": "Concepts",
+    "episodes": [
+      49
     ],
     "letter": "P"
   },

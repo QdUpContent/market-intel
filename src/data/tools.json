@@ -1196,5 +1196,44 @@
     "lastUpdated": "2026-09-30",
     "lastUpdatedDisplay": "Sep 30, 2026",
     "url": "https://claude.ai"
+  },
+  {
+    "name": "ChatGPT Dots",
+    "category": "AI Agents",
+    "pricing": "Included with ChatGPT Pro ($100/mo) / Business Premium",
+    "useCase": "Persistent AI agents that keep running after you close the tab \u2014 monitoring inboxes, drafting content, and completing multi-step workflows across 4,000+ apps via Slack, Teams, or ChatGPT.",
+    "rating": "Trending",
+    "episodes": [
+      49
+    ],
+    "lastUpdated": "2026-10-01",
+    "lastUpdatedDisplay": "Oct 1, 2026",
+    "url": "https://openai.com/index/introducing-dots/"
+  },
+  {
+    "name": "Instagram Edits Assistant",
+    "category": "Video Generation",
+    "pricing": "Free (daily prompt cap) / expanded via Meta One",
+    "useCase": "AI chat assistant inside the Edits app that analyzes your Reels performance data (views, retention, shares) and suggests hooks, captions, scripts, and audio for your next post.",
+    "rating": "New",
+    "episodes": [
+      49
+    ],
+    "lastUpdated": "2026-10-01",
+    "lastUpdatedDisplay": "Oct 1, 2026",
+    "url": "https://creators.instagram.com/blog/edits-assistant/"
+  },
+  {
+    "name": "Claude Code Mods",
+    "category": "Automation",
+    "pricing": "Included with Claude Pro ($20/mo) and up",
+    "useCase": "Small TypeScript functions that rewrite prompts, block tool calls, redact secrets, and customize Claude Code's interface \u2014 letting teams turn brand and QA rules into enforceable code.",
+    "rating": "New",
+    "episodes": [
+      49
+    ],
+    "lastUpdated": "2026-10-01",
+    "lastUpdatedDisplay": "Oct 1, 2026",
+    "url": "https://claude.com/blog/claude-code-mods"
   }
 ]
